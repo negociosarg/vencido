@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://i.ibb.co/3m3vLVp/896d74d6b60b8513276915fa838322cf.jpg" group-title="⚠️ CUENTA EXPIRADA", CUENTA EXPIRADA
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/8a9accad-85ad-4322-8df2-dac33aeb3989:SCL/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/3m3vLVp/896d74d6b60b8513276915fa838322cf.jpg" group-title="⚠️ COMO ABONAR", REALIZAR UN PAGO
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/57bd4932-7090-430d-b310-86dcaf82a5eb:SCL/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/3m3vLVp/896d74d6b60b8513276915fa838322cf.jpg" group-title="⚠️ CUENTA EXPIRADA", CUENTA EXPIRADA
+https://archive.org/download/cuentaexpirada/SU%20CUENTA%20EXPIR%C3%93%20neon.mp4
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/3m3vLVp/896d74d6b60b8513276915fa838322cf.jpg" group-title="⚠️ COMO ABONAR", REALIZAR UN PAGO
+https://archive.org/download/comoabonar/comoabonar.mp4
