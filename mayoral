@@ -15,7 +15,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd?|refer
 https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af
+#KODIPROP:inputstream.adaptive.license_key=34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567F880f50a422af
 #EXTINF:-1 group-title="Adultos" adult=1 ch-number="1002" tvg-id="Venus.ar.uy" tvg-logo="https://dl.dropbox.com/scl/fi/ccb7fp8758t7obaa9037c/venus.jpg?rlkey=tyvcaenu68rwe1ir2hj9amtc9&dl=1", Venus (18+)
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
@@ -78,13 +78,6 @@ http://live.adultiptv.net/asian.m3u8
 
 
 
-
-
-
-#EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 xui-id="973426" tvg-id="cosmovision.co" tvg-name="CO | Cosmovision" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Cosmovisi%C3%B3n_1998.png/revision/latest?cb=20210212135643&path-prefix=es" group-title="▶️ TV COLOMBIA",CO | Cosmovision
-https://sneoplus.vip:8443/play/Ftcw3x365s0X-SRuvRnBDNzQo6uuW4rUmV3rt_CFl7E/ts
 #EXTINF:-1 xui-id="668862" tvg-name="Kareli Ruiz onlyfans14" tvg-logo="https://brandemia.org/contenido/subidas/2021/11/06-onlyfans-1200x670.jpg" group-title="⛔ ADULTOS/ONLYFANS ⛔",Kareli Ruiz onlyfans14
 https://sneoplus.vip:8443/play/0ClNhBanu7EyIBXXS5YigKF0W7mxWcUaZrwbFEg6nVdmmMsPw5SXW_jsGDESREsc
 #EXTINF:-1 xui-id="668861" tvg-name="Kareli Ruiz onlyfans13" tvg-logo="https://brandemia.org/contenido/subidas/2021/11/06-onlyfans-1200x670.jpg" group-title="⛔ ADULTOS/ONLYFANS ⛔",Kareli Ruiz onlyfans13
