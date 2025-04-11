@@ -2,6 +2,9 @@
 
 adultos
 
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/xtLVBMmZ/2025-04-11-11-25-02.png" 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb
 #EXTINF:-1 group-title="Adultos" adult=1 ch-number="1000" tvg-id="PlayboyTVLatinAmerica.us.uy" tvg-logo="https://dl.dropbox.com/scl/fi/7feu1a3ikd6r8r77pgses/playboy.jpg?rlkey=02u5uorraf4qldh8dxqc43vyh&dl=1", Playboy TV (18+)
@@ -22,6 +25,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd?|referer=h
 
 
 #EXTM3U
+#EXTINF:-1 group-logo="https://i.ibb.co/xtLVBMmZ/2025-04-11-11-25-02.png" 
 #EXTINF:-1 tvg-id="" tvg-name="Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",Live Cams
 http://live.adultiptv.net/livecams.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",MILF
