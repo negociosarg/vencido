@@ -1,69 +1,5 @@
 
 #EXTM3U
-#EXTINF:0 CUID="258" tvg-name="Espn Deportes Hd Usa" tvg-logo="https://logo.iptveditor.com/espndeportes.png" group-title="⚽️Deportes Premium",Espn Deportes Hd Usa
-http://digitaltvsv.com/live/Conectplus/10Conectplus/1049.ts
-#EXTINF:0 CUID="259" tvg-name="Espn Deportes Hd Usa Op2" tvg-logo="https://logo.iptveditor.com/espndeportes.png" group-title="⚽️Deportes Premium",Espn Deportes Hd Usa Op2
-http://digitaltvsv.com/live/Conectplus/10Conectplus/1050.ts
-#EXTINF:0 CUID="260" tvg-name="Espn 3 (chi)" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="⚽️Deportes Premium",Espn 3 (chi)
-http://digitaltvsv.com/live/Conectplus/10Conectplus/1267.ts
-#EXTINF:0 CUID="261" tvg-name="Espn Deportes" tvg-logo="https://logo.iptveditor.com/espndeportes.png" group-title="⚽️Deportes Premium",Espn Deportes
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148107.ts
-#EXTINF:0 CUID="262" tvg-name="Espn Deportes" tvg-logo="https://logo.iptveditor.com/espndeportes.png" group-title="⚽️Deportes Premium",Espn Deportes
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148108.ts
-#EXTINF:0 CUID="263" tvg-name="Mx | Espn 1 Hd" tvg-logo="https://logo.iptveditor.com/espn1.png" group-title="⚽️Deportes Premium",Mx | Espn 1 Hd
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148114.ts
-#EXTINF:0 CUID="264" tvg-name="Mx | Espn 2 Hd" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="⚽️Deportes Premium",Mx | Espn 2 Hd
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148117.ts
-#EXTINF:0 CUID="265" tvg-name="Arg | Espn 1" tvg-logo="https://logo.iptveditor.com/espnarg.png" group-title="⚽️Deportes Premium",Arg | Espn 1
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148122.ts
-#EXTINF:0 CUID="266" tvg-name="Arg | Espn 2" tvg-logo="https://logo.iptveditor.com/espnarg.png" group-title="⚽️Deportes Premium",Arg | Espn 2
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148125.ts
-#EXTINF:0 CUID="267" tvg-name="Arg | Espn 2" tvg-logo="https://logo.iptveditor.com/espnarg.png" group-title="⚽️Deportes Premium",Arg | Espn 2
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148126.ts
-#EXTINF:0 CUID="268" tvg-name="Mx | Espn 1" tvg-logo="https://logo.iptveditor.com/espn1.png" group-title="⚽️Deportes Premium",Mx | Espn 1
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148131.ts
-#EXTINF:0 CUID="269" tvg-name="Mx | Espn 2" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="⚽️Deportes Premium",Mx | Espn 2
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148134.ts
-#EXTINF:0 CUID="270" tvg-name="Mx | Espn 3" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="⚽️Deportes Premium",Mx | Espn 3
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148136.ts
-#EXTINF:0 CUID="271" tvg-name="Arg | Espn 1" tvg-logo="https://logo.iptveditor.com/espnarg.png" group-title="⚽️Deportes Premium",Arg | Espn 1
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148138.ts
-#EXTINF:0 CUID="272" tvg-name="Arg | Espn 3" tvg-logo="https://logo.iptveditor.com/espn3arg.png" group-title="⚽️Deportes Premium",Arg | Espn 3
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148146.ts
-#EXTINF:0 CUID="273" tvg-name="Col | Espn 1" tvg-logo="https://logo.iptveditor.com/espn1.png" group-title="⚽️Deportes Premium",Col | Espn 1
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148148.ts
-#EXTINF:0 CUID="274" tvg-name="Co | Espn 3" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="⚽️Deportes Premium",Co | Espn 3
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148153.ts
-#EXTINF:0 CUID="275" tvg-name="Cl | Espn 2" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="⚽️Deportes Premium",Cl | Espn 2
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148159.ts
-#EXTINF:0 CUID="276" tvg-name="Cl | Espn 4" tvg-logo="https://logo.iptveditor.com/espn4.png" group-title="⚽️Deportes Premium",Cl | Espn 4
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148165.ts
-#EXTINF:0 CUID="277" tvg-name="Cl | Espn 5" tvg-logo="https://logo.iptveditor.com/espn5.png" group-title="⚽️Deportes Premium",Cl | Espn 5
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148168.ts
-#EXTINF:0 CUID="278" tvg-name="Cl | Espn 6" tvg-logo="https://logo.iptveditor.com/espn6.png" group-title="⚽️Deportes Premium",Cl | Espn 6
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148171.ts
-#EXTINF:0 CUID="279" tvg-name="Cl | Espn Premium" tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="⚽️Deportes Premium",Cl | Espn Premium
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148177.ts
-#EXTINF:0 CUID="280" tvg-name="Cl | Espn Premium" tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="⚽️Deportes Premium",Cl | Espn Premium
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148179.ts
-#EXTINF:0 CUID="281" tvg-name="Fox Sports" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="⚽️Deportes Premium",Fox Sports
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148193.ts
-#EXTINF:0 CUID="282" tvg-name="Fox Sports 2" tvg-logo="https://logo.iptveditor.com/foxsports2.png" group-title="⚽️Deportes Premium",Fox Sports 2
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148194.ts
-#EXTINF:0 CUID="283" tvg-name="Fox Sports 3" tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="⚽️Deportes Premium",Fox Sports 3
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148195.ts
-#EXTINF:0 CUID="284" tvg-name="Ecdf" tvg-logo="https://logo.iptveditor.com/cdf.png" group-title="⚽️Deportes Premium",Ecdf
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148237.ts
-#EXTINF:0 CUID="285" tvg-name="Uruguay | Vtv Plus" tvg-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" group-title="⚽️Deportes Premium",Uruguay | Vtv Plus
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148238.ts
-#EXTINF:0 CUID="286" tvg-name="Uy | Vtv Plus" tvg-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" group-title="⚽️Deportes Premium",Uy | Vtv Plus
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148240.ts
-#EXTINF:0 CUID="287" tvg-name="Uy | Vtv Hd" tvg-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" group-title="⚽️Deportes Premium",Uy | Vtv Hd
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148242.ts
-#EXTINF:0 CUID="288" tvg-name="Uy | Liga Uruguay: Vtv Plus" tvg-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" group-title="⚽️Deportes Premium",Uy | Liga Uruguay: Vtv Plus
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148243.ts
-#EXTINF:0 CUID="289" tvg-name="Ve | Vtv Venezolana De Television" tvg-logo="https://logo.iptveditor.com/venezolanadetelevision.png" group-title="⚽️Deportes Premium",Ve | Vtv Venezolana De Television
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148245.ts
 #EXTINF:0 CUID="803" tvg-name="el trece HD" tvg-logo="https://logo.iptveditor.com/eltrece.png" group-title="TV Argentina",el trece HD
 http://200.55.244.75:8000/play/a0bg/index.m3u8
 #EXTINF:0 CUID="700" tvg-name="DIPUTADOS TV" tvg-logo="https://logo.iptveditor.com/diputadostv.png" group-title="TV Argentina",DIPUTADOS TV
@@ -1557,6 +1493,69 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b96
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
 
-
+#EXTINF:0 CUID="258" tvg-name="Espn Deportes Hd Usa" tvg-logo="https://logo.iptveditor.com/espndeportes.png" group-title="⚽️Deportes Premium",Espn Deportes Hd Usa
+http://digitaltvsv.com/live/Conectplus/10Conectplus/1049.ts
+#EXTINF:0 CUID="259" tvg-name="Espn Deportes Hd Usa Op2" tvg-logo="https://logo.iptveditor.com/espndeportes.png" group-title="⚽️Deportes Premium",Espn Deportes Hd Usa Op2
+http://digitaltvsv.com/live/Conectplus/10Conectplus/1050.ts
+#EXTINF:0 CUID="260" tvg-name="Espn 3 (chi)" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="⚽️Deportes Premium",Espn 3 (chi)
+http://digitaltvsv.com/live/Conectplus/10Conectplus/1267.ts
+#EXTINF:0 CUID="261" tvg-name="Espn Deportes" tvg-logo="https://logo.iptveditor.com/espndeportes.png" group-title="⚽️Deportes Premium",Espn Deportes
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148107.ts
+#EXTINF:0 CUID="262" tvg-name="Espn Deportes" tvg-logo="https://logo.iptveditor.com/espndeportes.png" group-title="⚽️Deportes Premium",Espn Deportes
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148108.ts
+#EXTINF:0 CUID="263" tvg-name="Mx | Espn 1 Hd" tvg-logo="https://logo.iptveditor.com/espn1.png" group-title="⚽️Deportes Premium",Mx | Espn 1 Hd
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148114.ts
+#EXTINF:0 CUID="264" tvg-name="Mx | Espn 2 Hd" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="⚽️Deportes Premium",Mx | Espn 2 Hd
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148117.ts
+#EXTINF:0 CUID="265" tvg-name="Arg | Espn 1" tvg-logo="https://logo.iptveditor.com/espnarg.png" group-title="⚽️Deportes Premium",Arg | Espn 1
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148122.ts
+#EXTINF:0 CUID="266" tvg-name="Arg | Espn 2" tvg-logo="https://logo.iptveditor.com/espnarg.png" group-title="⚽️Deportes Premium",Arg | Espn 2
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148125.ts
+#EXTINF:0 CUID="267" tvg-name="Arg | Espn 2" tvg-logo="https://logo.iptveditor.com/espnarg.png" group-title="⚽️Deportes Premium",Arg | Espn 2
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148126.ts
+#EXTINF:0 CUID="268" tvg-name="Mx | Espn 1" tvg-logo="https://logo.iptveditor.com/espn1.png" group-title="⚽️Deportes Premium",Mx | Espn 1
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148131.ts
+#EXTINF:0 CUID="269" tvg-name="Mx | Espn 2" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="⚽️Deportes Premium",Mx | Espn 2
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148134.ts
+#EXTINF:0 CUID="270" tvg-name="Mx | Espn 3" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="⚽️Deportes Premium",Mx | Espn 3
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148136.ts
+#EXTINF:0 CUID="271" tvg-name="Arg | Espn 1" tvg-logo="https://logo.iptveditor.com/espnarg.png" group-title="⚽️Deportes Premium",Arg | Espn 1
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148138.ts
+#EXTINF:0 CUID="272" tvg-name="Arg | Espn 3" tvg-logo="https://logo.iptveditor.com/espn3arg.png" group-title="⚽️Deportes Premium",Arg | Espn 3
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148146.ts
+#EXTINF:0 CUID="273" tvg-name="Col | Espn 1" tvg-logo="https://logo.iptveditor.com/espn1.png" group-title="⚽️Deportes Premium",Col | Espn 1
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148148.ts
+#EXTINF:0 CUID="274" tvg-name="Co | Espn 3" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="⚽️Deportes Premium",Co | Espn 3
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148153.ts
+#EXTINF:0 CUID="275" tvg-name="Cl | Espn 2" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="⚽️Deportes Premium",Cl | Espn 2
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148159.ts
+#EXTINF:0 CUID="276" tvg-name="Cl | Espn 4" tvg-logo="https://logo.iptveditor.com/espn4.png" group-title="⚽️Deportes Premium",Cl | Espn 4
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148165.ts
+#EXTINF:0 CUID="277" tvg-name="Cl | Espn 5" tvg-logo="https://logo.iptveditor.com/espn5.png" group-title="⚽️Deportes Premium",Cl | Espn 5
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148168.ts
+#EXTINF:0 CUID="278" tvg-name="Cl | Espn 6" tvg-logo="https://logo.iptveditor.com/espn6.png" group-title="⚽️Deportes Premium",Cl | Espn 6
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148171.ts
+#EXTINF:0 CUID="279" tvg-name="Cl | Espn Premium" tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="⚽️Deportes Premium",Cl | Espn Premium
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148177.ts
+#EXTINF:0 CUID="280" tvg-name="Cl | Espn Premium" tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="⚽️Deportes Premium",Cl | Espn Premium
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148179.ts
+#EXTINF:0 CUID="281" tvg-name="Fox Sports" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="⚽️Deportes Premium",Fox Sports
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148193.ts
+#EXTINF:0 CUID="282" tvg-name="Fox Sports 2" tvg-logo="https://logo.iptveditor.com/foxsports2.png" group-title="⚽️Deportes Premium",Fox Sports 2
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148194.ts
+#EXTINF:0 CUID="283" tvg-name="Fox Sports 3" tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="⚽️Deportes Premium",Fox Sports 3
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148195.ts
+#EXTINF:0 CUID="284" tvg-name="Ecdf" tvg-logo="https://logo.iptveditor.com/cdf.png" group-title="⚽️Deportes Premium",Ecdf
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148237.ts
+#EXTINF:0 CUID="285" tvg-name="Uruguay | Vtv Plus" tvg-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" group-title="⚽️Deportes Premium",Uruguay | Vtv Plus
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148238.ts
+#EXTINF:0 CUID="286" tvg-name="Uy | Vtv Plus" tvg-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" group-title="⚽️Deportes Premium",Uy | Vtv Plus
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148240.ts
+#EXTINF:0 CUID="287" tvg-name="Uy | Vtv Hd" tvg-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" group-title="⚽️Deportes Premium",Uy | Vtv Hd
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148242.ts
+#EXTINF:0 CUID="288" tvg-name="Uy | Liga Uruguay: Vtv Plus" tvg-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" group-title="⚽️Deportes Premium",Uy | Liga Uruguay: Vtv Plus
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148243.ts
+#EXTINF:0 CUID="289" tvg-name="Ve | Vtv Venezolana De Television" tvg-logo="https://logo.iptveditor.com/venezolanadetelevision.png" group-title="⚽️Deportes Premium",Ve | Vtv Venezolana De Television
+http://digitaltvsv.com/live/Conectplus/10Conectplus/148245.ts
 
 
