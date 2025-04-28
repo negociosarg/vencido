@@ -1406,3 +1406,193 @@ http://201.159.95.222:8000/play/a01b/index.m3u8
 http://201.159.95.222:8000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="-" tvg-id="Viva-HD",Viva-HD
 http://201.159.95.222:8000/play/a00n/index.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 group-title="-",Agro Canal
+http://170.80.69.8:8000/play/a075/index.m3u8
+#EXTINF:-1 group-title="-",BR8 TV
+http://170.80.69.8:8000/play/a06u/index.m3u8
+#EXTINF:-1 group-title="-",Band
+http://170.80.69.8:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="-",Box Kids HD
+http://170.80.69.8:8000/play/a0ho/index.m3u8
+#EXTINF:-1 group-title="-",C3H - Radio Band AM
+http://170.80.69.8:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="-",C3H - Radio Band News
+http://170.80.69.8:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="-",C3H - Radio Band Rede 3
+http://170.80.69.8:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="-",C3H - Radio Band Rede 4
+http://170.80.69.8:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="-",C3V - Cine Brasil TV
+http://170.80.69.8:8000/play/a0fp/index.m3u8
+#EXTINF:-1 group-title="-",C3V - Globosat - Sound10 - 137 - CBN RJO
+http://170.80.69.8:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="-",C3V - Globosat - Sound10 - 138 CBN BHZ
+http://170.80.69.8:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="-",C3V - Globosat - Sound10 - 139 - CBN BSB
+http://170.80.69.8:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="-",C3V - Globosat - Sound9 - 133 Globo RJO
+http://170.80.69.8:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="-",C3V - Globosat - Sound9 - 134 - Globo SPO
+http://170.80.69.8:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="-",C3V - Globosat - Sound9 - 135 - CBN SPO
+http://170.80.69.8:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="-",C3V - Globosat - Sound9 - 136 - BH FM
+http://170.80.69.8:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="-",CNN Brasil
+http://170.80.69.8:8000/play/a06i/index.m3u8
+#EXTINF:-1 group-title="-",CNT
+http://170.80.69.8:8000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="-",Canal GOV
+http://170.80.69.8:8000/play/a0h1/index.m3u8
+#EXTINF:-1 group-title="-",Canal Saude
+http://170.80.69.8:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="-",Canal do Boi
+http://170.80.69.8:8000/play/a074/index.m3u8
+#EXTINF:-1 group-title="-",Canal do Criador
+http://170.80.69.8:8000/play/a0b9/index.m3u8
+#EXTINF:-1 group-title="-",Cancao Nova
+http://170.80.69.8:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="-",Cultura
+http://170.80.69.8:8000/play/a0gr/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Premiere1
+http://170.80.69.8:8000/play/a09l/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound1 - 101 - Anos2000
+http://170.80.69.8:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound1 - 102 - Samba Pagode
+http://170.80.69.8:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound1 - 103 - Trilha Sonora
+http://170.80.69.8:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound1 - 104 - Festa
+http://170.80.69.8:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound2 - 105 - Anos 90
+http://170.80.69.8:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound2 - 106 - Romantica
+http://170.80.69.8:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound2 - 107 - Anos 60
+http://170.80.69.8:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound2 - 108 - Rock
+http://170.80.69.8:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound3 - 109 - Soft Hits
+http://170.80.69.8:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound3 - 110 - Jazz
+http://170.80.69.8:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound3 - 111 - Especial
+http://170.80.69.8:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound3 - 112 - Pop Hits
+http://170.80.69.8:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound4 - 113 - Sertanejo Universítario
+http://170.80.69.8:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound4 - 114 - Anos 80
+http://170.80.69.8:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound4 - 115 - Blues
+http://170.80.69.8:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound4 - 116 - Black e Hip-Hop
+http://170.80.69.8:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound5 - 117 - Funk e Rap
+http://170.80.69.8:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound5 - 118 - Classica
+http://170.80.69.8:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound5 - 119 - Metal
+http://170.80.69.8:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound5 - 120 - Teletema
+http://170.80.69.8:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound6 - 121 - Forro
+http://170.80.69.8:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound6 - 122 - Lounge
+http://170.80.69.8:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound6 - 123 - Kids
+http://170.80.69.8:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound6 - 124 - Rock Brasil
+http://170.80.69.8:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound7 - 125 - Sertanejo
+http://170.80.69.8:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound7 - 126 - Reggae
+http://170.80.69.8:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound7 - 127 - Eletronica
+http://170.80.69.8:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound7 - 128 - Rock Classico
+http://170.80.69.8:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound8 - 130 - Anos 70
+http://170.80.69.8:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound8 - 131 - Disco
+http://170.80.69.8:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="-",D1V - Globosat - Sound8 - 132 - Gospel
+http://170.80.69.8:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="-",Eurochannel
+http://170.80.69.8:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="-",Fashion
+http://170.80.69.8:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="-",Futura
+http://170.80.69.8:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="-",INTERTV SERRA MAR
+http://170.80.69.8:8000/play/a0hl/index.m3u8
+#EXTINF:-1 group-title="-",ISTV
+http://170.80.69.8:8000/play/a068/index.m3u8
+#EXTINF:-1 group-title="-",Internet - Globo RJ
+http://170.80.69.8:8000/play/a0al/index.m3u8
+#EXTINF:-1 group-title="-",Internet - TV Rio Sul
+http://170.80.69.8:8000/play/a0bv/index.m3u8
+#EXTINF:-1 group-title="-",Jovem Pan News
+http://170.80.69.8:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="-",Music
+http://170.80.69.8:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="-",PlayTV Mais
+http://170.80.69.8:8000/play/a06q/index.m3u8
+#EXTINF:-1 group-title="-",Polishop
+http://170.80.69.8:8000/play/a06j/index.m3u8
+#EXTINF:-1 group-title="-",Prime
+http://170.80.69.8:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="-",RBTV
+http://170.80.69.8:8000/play/a06a/index.m3u8
+#EXTINF:-1 group-title="-",RIT
+http://170.80.69.8:8000/play/a0bl/index.m3u8
+#EXTINF:-1 group-title="-",Ra Tim Bum
+http://170.80.69.8:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="-",Record
+http://170.80.69.8:8000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="-",Rede Brasil
+http://170.80.69.8:8000/play/a069/index.m3u8
+#EXTINF:-1 group-title="-",Rede Gazeta SP
+http://170.80.69.8:8000/play/a0bg/index.m3u8
+#EXTINF:-1 group-title="-",Rede TV
+http://170.80.69.8:8000/play/a0g1/index.m3u8
+#EXTINF:-1 group-title="-",Rede Vida
+http://170.80.69.8:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="-",SBN
+http://170.80.69.8:8000/play/a06o/index.m3u8
+#EXTINF:-1 group-title="-",SBT
+http://170.80.69.8:8000/play/a08h/index.m3u8
+#EXTINF:-1 group-title="-",TV Aparecida
+http://170.80.69.8:8000/play/a067/index.m3u8
+#EXTINF:-1 group-title="-",TV Brasil
+http://170.80.69.8:8000/play/a0as/index.m3u8
+#EXTINF:-1 group-title="-",TV Camara
+http://170.80.69.8:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="-",TV Escola
+http://170.80.69.8:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="-",TV Horizonte
+http://170.80.69.8:8000/play/a0b3/index.m3u8
+#EXTINF:-1 group-title="-",TV Justica
+http://170.80.69.8:8000/play/a076/index.m3u8
+#EXTINF:-1 group-title="-",TV Mundo Maior
+http://170.80.69.8:8000/play/a06g/index.m3u8
+#EXTINF:-1 group-title="-",TV Novo Tempo
+http://170.80.69.8:8000/play/a0b0/index.m3u8
+#EXTINF:-1 group-title="-",TV Seculo 21
+http://170.80.69.8:8000/play/a0b2/index.m3u8
+#EXTINF:-1 group-title="-",TV Senado
+http://170.80.69.8:8000/play/a077/index.m3u8
+#EXTINF:-1 group-title="-",TV Ultrafarma
+http://170.80.69.8:8000/play/a06x/index.m3u8
+#EXTINF:-1 group-title="-",Terra Viva
+http://170.80.69.8:8000/play/a05m/index.m3u8
+#EXTINF:-1 group-title="-",Travel
+http://170.80.69.8:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="-",UniveSP
+http://170.80.69.8:8000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="-",ZooMoo Kids
+http://170.80.69.8:8000/play/a04r/index.m3u8
+
