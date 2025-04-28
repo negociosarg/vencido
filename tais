@@ -1333,3 +1333,76 @@ http://187.13.81.4:8000/play/a03z
 #EXTINF:-1,VIVA
 http://187.13.81.4:8000/play/a041
 
+#EXTM3U
+#EXTINF:-1 group-title="-" tvg-id="BIS-HD",BIS-HD
+http://201.159.95.222:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="Band-Minas_720",Band-Minas_720
+http://201.159.95.222:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="Cartoon-Network-HD",Cartoon-Network-HD
+http://201.159.95.222:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="Combate-HD",Combate-HD
+http://201.159.95.222:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="Discovery-Channel-HD",Discovery-Channel-HD
+http://201.159.95.222:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="Discovery-Kids-HD",Discovery-Kids-HD
+http://201.159.95.222:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="GNT-HD",GNT-HD
+http://201.159.95.222:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="Globo-MG_720",Globo-MG_720
+http://201.159.95.222:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="GloboNews-HD",GloboNews-HD
+http://201.159.95.222:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="Gloob-HD",Gloob-HD
+http://201.159.95.222:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="-",Gloobinho HD
+http://201.159.95.222:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="Megapix-HD",Megapix-HD
+http://201.159.95.222:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="Multishow-HD",Multishow-HD
+http://201.159.95.222:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="Premiere-4-HD",Premiere 4 HD
+http://201.159.95.222:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="-",Premiere 6 HD
+http://201.159.95.222:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="-",Premiere 7 HD
+http://201.159.95.222:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="Premiere-3-HD",Premiere-3-HD
+http://201.159.95.222:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="Record-News_720",Record News_720
+http://201.159.95.222:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="Record-MG_720",Record-MG_720
+http://201.159.95.222:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="Rede-Brasil_720",Rede-Brasil_720
+http://201.159.95.222:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="Rede-TV-MG_720",Rede-TV-MG_720
+http://201.159.95.222:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="SBT-Alterosa_720",SBT-Alterosa_720
+http://201.159.95.222:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="Space-HD",Space-HD
+http://201.159.95.222:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="SporTV-HD",SporTV-HD
+http://201.159.95.222:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="SporTV2-HD",SporTV2-HD
+http://201.159.95.222:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="SporTV3-HD",SporTV3-HD
+http://201.159.95.222:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="TNT Novelas HD",TNT Novelas HD
+http://201.159.95.222:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="TNT-HD",TNT-HD
+http://201.159.95.222:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="TNT-Series-HD",TNT-Series-HD
+http://201.159.95.222:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="-",Telecine Premium HD2
+http://201.159.95.222:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="Telecine-Action-HD",Telecine-Action-HD
+http://201.159.95.222:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="Telecine-Cult-HD",Telecine-Cult-HD
+http://201.159.95.222:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="Telecine-Fun-HD",Telecine-Fun-HD
+http://201.159.95.222:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="Telecine-Pipoca-HD",Telecine-Pipoca-HD
+http://201.159.95.222:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="Telecine-Touch-HD",Telecine-Touch-HD
+http://201.159.95.222:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="Viva-HD",Viva-HD
+http://201.159.95.222:8000/play/a00n/index.m3u8
