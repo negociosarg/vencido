@@ -1784,4 +1784,107 @@ http://170.80.69.8:8000/play/a00a/index.m3u8
 http://170.80.69.8:8000/play/a04c/index.m3u8
 #EXTINF:-1 group-title="-",ZooMoo Kids
 http://170.80.69.8:8000/play/a04r/index.m3u8
+#EXTM3U
+#EXTINF:-1, GLOBO HD
+http://187.13.81.4:8000/play/a02f
+#EXTINF:-1, GNT HD
+http://187.13.81.4:8000/play/a042
+#EXTINF:-1, MTV 
+http://187.13.81.4:8000/play/a044
+#EXTINF:-1, MULTISHOW
+http://187.13.81.4:8000/play/a048
+#EXTINF:-1,ADULT 24h 41.3 club
+http://187.13.81.4:8000/play/a029
+#EXTINF:-1,ADULTO 24h 41.4 club test
+http://187.13.81.4:8000/play/a045
+#EXTINF:-1,ADULTO 24h 41.5
+http://187.13.81.4:8000/play/a02c
+#EXTINF:-1,ADULTO 24h 41.6 club test
+http://187.13.81.4:8000/play/a046
+#EXTINF:-1,ADULTO 24h 41.7 club test
+http://187.13.81.4:8000/play/a047
+#EXTINF:-1,ADULTO 24h 41.8 club
+http://187.13.81.4:8000/play/a02e
+#EXTINF:-1,BAND HD
+http://187.13.81.4:8000/play/a02i
+#EXTINF:-1,BAND NEWS
+http://187.13.81.4:8000/play/a02s
+#EXTINF:-1,BAND SPORT
+http://187.13.81.4:8000/play/a006
+#EXTINF:-1,CNN HD
+http://187.13.81.4:8000/play/a02q
+#EXTINF:-1,COMBATE
+http://187.13.81.4:8000/play/a03b
+#EXTINF:-1,ESPN
+http://187.13.81.4:8000/play/a02u
+#EXTINF:-1,ESPN 2
+http://187.13.81.4:8000/play/a02v
+#EXTINF:-1,ESPN NovServ
+http://187.13.81.4:8000/play/a01u
+#EXTINF:-1,ESPN2 NovServ
+http://187.13.81.4:8000/play/a01v
+#EXTINF:-1,ESPN3
+http://187.13.81.4:8000/play/a02w
+#EXTINF:-1,ESPN4
+http://187.13.81.4:8000/play/a02x
+#EXTINF:-1,ESPN4 NovServ
+http://187.13.81.4:8000/play/a01x
+#EXTINF:-1,GLOBO EM FORTALEZA - CLUB
+http://187.13.81.4:8000/play/a03c
+#EXTINF:-1,GLOBO HD
+http://187.13.81.4:8000/play/a01n
+#EXTINF:-1,GLOBO NEWS
+http://187.13.81.4:8000/play/a02p
+#EXTINF:-1,HBO
+http://187.13.81.4:8000/play/a01r
+#EXTINF:-1,HBO2
+http://187.13.81.4:8000/play/a01s
+#EXTINF:-1,JP NEWS
+http://187.13.81.4:8000/play/a02r
+#EXTINF:-1,LIVE SPORT
+http://187.13.81.4:8000/play/a007
+#EXTINF:-1,MAX - CLUB
+http://187.13.81.4:8000/play/a03k
+#EXTINF:-1,NOVO TEMPO NovServ
+http://187.13.81.4:8000/play/a01w
+#EXTINF:-1,PRE6/BAND NEWS
+http://187.13.81.4:8000/play/b037
+#EXTINF:-1,PREM6 / BAND SPORT
+http://187.13.81.4:8000/play/a037
+#EXTINF:-1,PREMIERE 2 HDD
+http://187.13.81.4:8000/play/a033
+#EXTINF:-1,PREMIERE 3 HDD
+http://187.13.81.4:8000/play/a034
+#EXTINF:-1,PREMIERE 4 HDD
+http://187.13.81.4:8000/play/a035
+#EXTINF:-1,PREMIERE 5
+http://187.13.81.4:8000/play/b036
+#EXTINF:-1,PREMIERE 5 HDD
+http://187.13.81.4:8000/play/a036
+#EXTINF:-1,PREMIERE CLUB HDD
+http://187.13.81.4:8000/play/a032
+#EXTINF:-1,PRIME VIDEO CLUB
+http://187.13.81.4:8000/play/a049
+#EXTINF:-1,RECORD HD
+http://187.13.81.4:8000/play/a02g
+#EXTINF:-1,RECORD NEWS
+http://187.13.81.4:8000/play/a02t
+#EXTINF:-1,SBT HD
+http://187.13.81.4:8000/play/a02h
+#EXTINF:-1,SBT HD
+http://187.13.81.4:8000/play/a01p
+#EXTINF:-1,SPORTV
+http://187.13.81.4:8000/play/a038
+#EXTINF:-1,SPORTV2
+http://187.13.81.4:8000/play/a039
+#EXTINF:-1,SPORTV3
+http://187.13.81.4:8000/play/a03a
+#EXTINF:-1,TV APARECIDA ServNov
+http://187.13.81.4:8000/play/a02a
+#EXTINF:-1,TVE BAHIA - CLUB
+http://187.13.81.4:8000/play/a03d
+#EXTINF:-1,UFC - CLUB
+http://187.13.81.4:8000/play/a03z
+#EXTINF:-1,VIVA
+http://187.13.81.4:8000/play/a041
 
