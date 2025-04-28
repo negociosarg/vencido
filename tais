@@ -1,0 +1,1229 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="canais2" tvg-id="canais2/ae" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] A&E
+http://45.134.141.162:3366/stream/canais2/ae/master.m3u8
+
+#EXTINF:2 group-title="canais2" tvg-id="canais2/agro" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] Agro+
+http://45.134.141.162:3366/stream/canais2/agro/master.m3u8
+
+#EXTINF:3 group-title="canais2" tvg-id="canais2/arte1" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] Arte 1
+http://45.134.141.162:3366/stream/canais2/arte1/master.m3u8
+
+#EXTINF:4 group-title="canais2" tvg-id="canais2/axn" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] AXN
+http://45.134.141.162:3366/stream/canais2/axn/master.m3u8
+
+#EXTINF:5 group-title="canais2" tvg-id="canais2/bandnews" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] Band News
+http://45.134.141.162:3366/stream/canais2/bandnews/master.m3u8
+
+#EXTINF:6 group-title="canais2" tvg-id="canais2/bandsports" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] Band Sports
+http://45.134.141.162:3366/stream/canais2/bandsports/master.m3u8
+
+#EXTINF:7 group-title="canais2" tvg-id="canais2/bandtv" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] Band TV
+http://45.134.141.162:3366/stream/canais2/bandtv/master.m3u8
+
+#EXTINF:8 group-title="canais2" tvg-id="canais2/canaluol" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] Canal UOL
+http://45.134.141.162:3366/stream/canais2/canaluol/master480.m3u8
+
+#EXTINF:8 group-title="canais2" tvg-id="canais2/canaluol" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] Canal UOL
+http://45.134.141.162:3366/stream/canais2/canaluol/master720.m3u8
+
+#EXTINF:8 group-title="canais2" tvg-id="canais2/canaluol" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] Canal UOL
+http://45.134.141.162:3366/stream/canais2/canaluol/master1080.m3u8
+
+#EXTINF:9 group-title="canais2" tvg-id="canais2/comedycentral" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] Comedy Central
+http://45.134.141.162:3366/stream/canais2/comedycentral/master.m3u8
+
+#EXTINF:10 group-title="canais2" tvg-id="canais2/h2" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] H2
+http://45.134.141.162:3366/stream/canais2/h2/master.m3u8
+
+#EXTINF:11 group-title="canais2" tvg-id="canais2/history" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] History
+http://45.134.141.162:3366/stream/canais2/history/master.m3u8
+
+#EXTINF:12 group-title="canais2" tvg-id="canais2/lifetime" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] Lifetime
+http://45.134.141.162:3366/stream/canais2/lifetime/master.m3u8
+
+#EXTINF:13 group-title="canais2" tvg-id="canais2/mtv" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] MTV
+http://45.134.141.162:3366/stream/canais2/mtv/master.m3u8
+
+#EXTINF:14 group-title="canais2" tvg-id="canais2/mtvlive" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] MTV Live
+http://45.134.141.162:3366/stream/canais2/mtvlive/master.m3u8
+
+#EXTINF:15 group-title="canais2" tvg-id="canais2/newbrasil" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] New Brasil
+http://45.134.141.162:3366/stream/canais2/newbrasil/master.m3u8
+
+#EXTINF:16 group-title="canais2" tvg-id="canais2/nickjr" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] Nick Jr
+http://45.134.141.162:3366/stream/canais2/nickjr/master.m3u8
+
+#EXTINF:17 group-title="canais2" tvg-id="canais2/nickelodeon" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] Nickelodeon
+http://45.134.141.162:3366/stream/canais2/nickelodeon/master.m3u8
+
+#EXTINF:18 group-title="canais2" tvg-id="canais2/paramountchannel" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] Paramount Channel
+http://45.134.141.162:3366/stream/canais2/paramountchannel/master.m3u8
+
+#EXTINF:19 group-title="canais2" tvg-id="canais2/saborearte" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] Sabor e Arte
+http://45.134.141.162:3366/stream/canais2/saborearte/master.m3u8
+
+#EXTINF:20 group-title="canais2" tvg-id="canais2/sony" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] Sony
+http://45.134.141.162:3366/stream/canais2/sony/master.m3u8
+
+#EXTINF:21 group-title="canais2" tvg-id="canais2/sonymovies" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] Sony Movies
+http://45.134.141.162:3366/stream/canais2/sonymovies/master.m3u8
+
+#EXTINF:22 group-title="canais2" tvg-id="canais2/terraviva" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] Terra Viva
+http://45.134.141.162:3366/stream/canais2/terraviva/master.m3u8
+
+#EXTINF:23 group-title="canais2" tvg-id="canais2/warner" tvg-logo="" provider="canais2" provider-logo="" provider-type="iptv",[canais2] Warner
+http://45.134.141.162:3366/stream/canais2/warner/master.m3u8
+
+#EXTINF:24 group-title="Dazn" tvg-id="dazn/aclcornholetv" tvg-logo="https://image.discovery.indazn.com/ca/v3/ca/none/18wn4iqodankk11u270gs5owhs_image-header_pLa_1715180147000/fill/center/top/none/85/1047/640/jpg/image" provider="Dazn" provider-logo="" provider-type="iptv",[Dazn] ACL Cornhole TV
+http://45.134.141.162:3366/stream/dazn/aclcornholetv/master.m3u8
+
+#EXTINF:25 group-title="Dazn" tvg-id="dazn/billiardtv" tvg-logo="https://image.discovery.indazn.com/ca/v3/ca/none/smria22f2rd71clrhvbs31n0k_image-header_pLa_1715782404000/fill/center/top/none/85/1047/640/jpg/image" provider="Dazn" provider-logo="" provider-type="iptv",[Dazn] Billiard TV
+http://45.134.141.162:3366/stream/dazn/billiardtv/master.m3u8
+
+#EXTINF:26 group-title="Dazn" tvg-id="dazn/boxingtv" tvg-logo="https://image.discovery.indazn.com/ca/v3/ca/none/g801vos9upjz13jbt84o06pcd_image-header_pLa_1715782861000/fill/center/top/none/85/1047/640/jpg/image" provider="Dazn" provider-logo="" provider-type="iptv",[Dazn] Boxing TV
+http://45.134.141.162:3366/stream/dazn/boxingtv/master.m3u8
+
+#EXTINF:27 group-title="Dazn" tvg-id="dazn/dazncombat" tvg-logo="https://image.discovery.indazn.com/ca/v3/ca/none/18p1bwatzwe3z1rlesd55w34cl_image-header_pLa_1713359234000/fill/center/top/none/85/1047/640/jpg/image" provider="Dazn" provider-logo="" provider-type="iptv",[Dazn] DAZN Combat
+http://45.134.141.162:3366/stream/dazn/dazncombat/master.m3u8
+
+#EXTINF:28 group-title="Dazn" tvg-id="dazn/daznwomensfootball" tvg-logo="https://image.discovery.indazn.com/ca/v3/ca/none/ffijz52avt9o1fkau9ypcj3y7_image-header_pLa_1713359234000/fill/center/top/none/85/1047/640/jpg/image" provider="Dazn" provider-logo="" provider-type="iptv",[Dazn] DAZN Women's Football
+http://45.134.141.162:3366/stream/dazn/daznwomensfootball/master.m3u8
+
+#EXTINF:29 group-title="Dazn" tvg-id="dazn/matchroomboxing" tvg-logo="https://image.discovery.indazn.com/ca/v3/ca/none/1fgrx8svc4zf91s5o82n0mwyfi_image-header_pLa_1715178954000/fill/center/top/none/85/1047/640/jpg/image" provider="Dazn" provider-logo="" provider-type="iptv",[Dazn] Matchroom Boxing
+http://45.134.141.162:3366/stream/dazn/matchroomboxing/master.m3u8
+
+#EXTINF:30 group-title="Dazn" tvg-id="dazn/motorvisiontv" tvg-logo="https://image.discovery.indazn.com/ca/v3/ca/none/5k8rjie8p3as1krtfu5zrs8nq_image-header_pLa_1715179334000/fill/center/top/none/85/1047/640/jpg/image" provider="Dazn" provider-logo="" provider-type="iptv",[Dazn] Motorvision TV
+http://45.134.141.162:3366/stream/dazn/motorvisiontv/master.m3u8
+
+#EXTINF:31 group-title="Dazn" tvg-id="dazn/nflnetwork" tvg-logo="https://image.discovery.indazn.com/ca/v3/ca/none/1rj256ttyvi4h19rnz3mewgcee_image-header_pLa_1711624423000/fill/center/top/none/85/1047/640/jpg/image" provider="Dazn" provider-logo="" provider-type="iptv",[Dazn] NFL Network
+http://45.134.141.162:3366/stream/dazn/nflnetwork/master.m3u8
+
+#EXTINF:32 group-title="Dazn" tvg-id="dazn/nossofutebol" tvg-logo="https://image.discovery.indazn.com/ca/v3/ca/none/d998dv6qzmco14gpl96ucztje_image-header_pLa_1719845245000/fill/center/top/none/85/1047/640/jpg/image" provider="Dazn" provider-logo="" provider-type="iptv",[Dazn] Nosso Futebol
+http://45.134.141.162:3366/stream/dazn/nossofutebol/master.m3u8
+
+#EXTINF:33 group-title="Dazn" tvg-id="dazn/pdcdarts" tvg-logo="https://image.discovery.indazn.com/ca/v3/ca/none/1eowzknjunmyb1a8cog2gidah9_image-header_pLa_1715782944000/fill/center/top/none/85/1047/640/jpg/image" provider="Dazn" provider-logo="" provider-type="iptv",[Dazn] PDC Darts
+http://45.134.141.162:3366/stream/dazn/pdcdarts/master.m3u8
+
+#EXTINF:34 group-title="Dazn" tvg-id="dazn/pgatour" tvg-logo="https://image.discovery.indazn.com/ca/v3/ca/none/z5ut55pi2kqp1ggt9nb3j5hn0_image-header_pLa_1712333429000/fill/center/top/none/85/1047/640/jpg/image" provider="Dazn" provider-logo="" provider-type="iptv",[Dazn] PGA TOUR
+http://45.134.141.162:3366/stream/dazn/pgatour/master.m3u8
+
+#EXTINF:35 group-title="Dazn" tvg-id="dazn/pllnetwork" tvg-logo="https://image.discovery.indazn.com/ca/v3/ca/none/1lnyi3bxvpm3q1p1e1vj3gurjn_image-header_pLa_1727940797000/fill/center/top/none/85/1047/640/jpg/image" provider="Dazn" provider-logo="" provider-type="iptv",[Dazn] PLL Network
+http://45.134.141.162:3366/stream/dazn/pllnetwork/master.m3u8
+
+#EXTINF:36 group-title="Dazn" tvg-id="dazn/powersportsworld" tvg-logo="https://image.discovery.indazn.com/ca/v3/ca/none/poyh6s6iobgz1p0ejf38yfw2x_image-header_pLa_1726567537000/fill/center/top/none/85/1047/640/jpg/image" provider="Dazn" provider-logo="" provider-type="iptv",[Dazn] PowerSports World
+http://45.134.141.162:3366/stream/dazn/powersportsworld/master.m3u8
+
+#EXTINF:37 group-title="Dazn" tvg-id="dazn/rallytv" tvg-logo="https://image.discovery.indazn.com/ca/v3/ca/none/6fjql5dzlkdq1n5vbb8vg5g6e_image-header_pLa_1733825595000/fill/center/top/none/85/1047/640/jpg/image" provider="Dazn" provider-logo="" provider-type="iptv",[Dazn] Rally TV
+http://45.134.141.162:3366/stream/dazn/rallytv/master.m3u8
+
+#EXTINF:38 group-title="Dazn" tvg-id="dazn/redbulltv" tvg-logo="https://image.discovery.indazn.com/ca/v3/ca/none/mzbm5ksnk79l15ja4sga0dcgg_image-header_pLa_1714053237000/fill/center/top/none/85/1047/640/jpg/image" provider="Dazn" provider-logo="" provider-type="iptv",[Dazn] Red Bull TV
+http://45.134.141.162:3366/stream/dazn/redbulltv/master.m3u8
+
+#EXTINF:39 group-title="Dazn" tvg-id="dazn/sportstak" tvg-logo="https://image.discovery.indazn.com/ca/v3/ca/none/1bjlgs6r2yuu51oa0ig76it362_image-header_pLa_1715782774000/fill/center/top/none/85/1047/640/jpg/image" provider="Dazn" provider-logo="" provider-type="iptv",[Dazn] SportStak
+http://45.134.141.162:3366/stream/dazn/sportstak/master.m3u8
+
+#EXTINF:40 group-title="Dazn" tvg-id="dazn/unbeaten" tvg-logo="https://image.discovery.indazn.com/ca/v3/ca/none/1olyrodzofeko1dq8m9rqxy74w_image-header_pLa_1711552796000/fill/center/top/none/85/1047/640/jpg/image" provider="Dazn" provider-logo="" provider-type="iptv",[Dazn] Unbeaten
+http://45.134.141.162:3366/stream/dazn/unbeaten/master.m3u8
+
+#EXTINF:41 group-title="events" tvg-id="events/001" tvg-logo="" provider="events" provider-logo="" provider-type="iptv",[events] 001
+http://45.134.141.162:3366/stream/events/001/master.m3u8
+
+#EXTINF:42 group-title="events" tvg-id="events/002" tvg-logo="" provider="events" provider-logo="" provider-type="iptv",[events] 002
+http://45.134.141.162:3366/stream/events/002/master.m3u8
+
+#EXTINF:43 group-title="events" tvg-id="events/aaaa" tvg-logo="" provider="events" provider-logo="" provider-type="iptv",[events] aaaa
+http://45.134.141.162:3366/stream/events/aaaa/master.m3u8
+
+#EXTINF:44 group-title="Globo" tvg-id="globo/acr" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] ACR
+http://45.134.141.162:3366/stream/globo/acr/master432.m3u8
+
+#EXTINF:44 group-title="Globo" tvg-id="globo/acr" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] ACR
+http://45.134.141.162:3366/stream/globo/acr/master720.m3u8
+
+#EXTINF:44 group-title="Globo" tvg-id="globo/acr" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] ACR
+http://45.134.141.162:3366/stream/globo/acr/master1080.m3u8
+
+#EXTINF:45 group-title="Globo" tvg-id="globo/amp" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] AMP
+http://45.134.141.162:3366/stream/globo/amp/master432.m3u8
+
+#EXTINF:45 group-title="Globo" tvg-id="globo/amp" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] AMP
+http://45.134.141.162:3366/stream/globo/amp/master720.m3u8
+
+#EXTINF:45 group-title="Globo" tvg-id="globo/amp" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] AMP
+http://45.134.141.162:3366/stream/globo/amp/master1080.m3u8
+
+#EXTINF:46 group-title="Globo" tvg-id="globo/axa" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] AXA
+http://45.134.141.162:3366/stream/globo/axa/master432.m3u8
+
+#EXTINF:46 group-title="Globo" tvg-id="globo/axa" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] AXA
+http://45.134.141.162:3366/stream/globo/axa/master720.m3u8
+
+#EXTINF:46 group-title="Globo" tvg-id="globo/axa" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] AXA
+http://45.134.141.162:3366/stream/globo/axa/master1080.m3u8
+
+#EXTINF:47 group-title="Globo" tvg-id="globo/bar" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] BAR
+http://45.134.141.162:3366/stream/globo/bar/master432.m3u8
+
+#EXTINF:47 group-title="Globo" tvg-id="globo/bar" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] BAR
+http://45.134.141.162:3366/stream/globo/bar/master720.m3u8
+
+#EXTINF:47 group-title="Globo" tvg-id="globo/bar" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] BAR
+http://45.134.141.162:3366/stream/globo/bar/master1080.m3u8
+
+#EXTINF:48 group-title="Globo" tvg-id="globo/bau" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] BAU
+http://45.134.141.162:3366/stream/globo/bau/master432.m3u8
+
+#EXTINF:48 group-title="Globo" tvg-id="globo/bau" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] BAU
+http://45.134.141.162:3366/stream/globo/bau/master720.m3u8
+
+#EXTINF:48 group-title="Globo" tvg-id="globo/bau" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] BAU
+http://45.134.141.162:3366/stream/globo/bau/master1080.m3u8
+
+#EXTINF:49 group-title="Globo" tvg-id="globo/bel" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] BEL
+http://45.134.141.162:3366/stream/globo/bel/master432.m3u8
+
+#EXTINF:49 group-title="Globo" tvg-id="globo/bel" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] BEL
+http://45.134.141.162:3366/stream/globo/bel/master720.m3u8
+
+#EXTINF:49 group-title="Globo" tvg-id="globo/bel" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] BEL
+http://45.134.141.162:3366/stream/globo/bel/master1080.m3u8
+
+#EXTINF:50 group-title="Globo" tvg-id="globo/bh" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] BH
+http://45.134.141.162:3366/stream/globo/bh/master432.m3u8
+
+#EXTINF:50 group-title="Globo" tvg-id="globo/bh" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] BH
+http://45.134.141.162:3366/stream/globo/bh/master720.m3u8
+
+#EXTINF:50 group-title="Globo" tvg-id="globo/bh" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] BH
+http://45.134.141.162:3366/stream/globo/bh/master1080.m3u8
+
+#EXTINF:51 group-title="Globo" tvg-id="globo/blu" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] BLU
+http://45.134.141.162:3366/stream/globo/blu/master432.m3u8
+
+#EXTINF:51 group-title="Globo" tvg-id="globo/blu" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] BLU
+http://45.134.141.162:3366/stream/globo/blu/master720.m3u8
+
+#EXTINF:51 group-title="Globo" tvg-id="globo/blu" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] BLU
+http://45.134.141.162:3366/stream/globo/blu/master1080.m3u8
+
+#EXTINF:52 group-title="Globo" tvg-id="globo/cab" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CAB
+http://45.134.141.162:3366/stream/globo/cab/master432.m3u8
+
+#EXTINF:52 group-title="Globo" tvg-id="globo/cab" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CAB
+http://45.134.141.162:3366/stream/globo/cab/master720.m3u8
+
+#EXTINF:52 group-title="Globo" tvg-id="globo/cab" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CAB
+http://45.134.141.162:3366/stream/globo/cab/master1080.m3u8
+
+#EXTINF:53 group-title="Globo" tvg-id="globo/cac" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CAC
+http://45.134.141.162:3366/stream/globo/cac/master432.m3u8
+
+#EXTINF:53 group-title="Globo" tvg-id="globo/cac" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CAC
+http://45.134.141.162:3366/stream/globo/cac/master720.m3u8
+
+#EXTINF:53 group-title="Globo" tvg-id="globo/cac" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CAC
+http://45.134.141.162:3366/stream/globo/cac/master1080.m3u8
+
+#EXTINF:54 group-title="Globo" tvg-id="globo/cam" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CAM
+http://45.134.141.162:3366/stream/globo/cam/master432.m3u8
+
+#EXTINF:54 group-title="Globo" tvg-id="globo/cam" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CAM
+http://45.134.141.162:3366/stream/globo/cam/master720.m3u8
+
+#EXTINF:54 group-title="Globo" tvg-id="globo/cam" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CAM
+http://45.134.141.162:3366/stream/globo/cam/master1080.m3u8
+
+#EXTINF:55 group-title="Globo" tvg-id="globo/cas" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CAS
+http://45.134.141.162:3366/stream/globo/cas/master432.m3u8
+
+#EXTINF:55 group-title="Globo" tvg-id="globo/cas" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CAS
+http://45.134.141.162:3366/stream/globo/cas/master720.m3u8
+
+#EXTINF:55 group-title="Globo" tvg-id="globo/cas" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CAS
+http://45.134.141.162:3366/stream/globo/cas/master1080.m3u8
+
+#EXTINF:56 group-title="Globo" tvg-id="globo/cat" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CAT
+http://45.134.141.162:3366/stream/globo/cat/master432.m3u8
+
+#EXTINF:56 group-title="Globo" tvg-id="globo/cat" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CAT
+http://45.134.141.162:3366/stream/globo/cat/master720.m3u8
+
+#EXTINF:56 group-title="Globo" tvg-id="globo/cat" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CAT
+http://45.134.141.162:3366/stream/globo/cat/master1080.m3u8
+
+#EXTINF:57 group-title="Globo" tvg-id="globo/cav" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CAV
+http://45.134.141.162:3366/stream/globo/cav/master432.m3u8
+
+#EXTINF:57 group-title="Globo" tvg-id="globo/cav" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CAV
+http://45.134.141.162:3366/stream/globo/cav/master720.m3u8
+
+#EXTINF:58 group-title="Globo" tvg-id="globo/cdo" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CDO
+http://45.134.141.162:3366/stream/globo/cdo/master432.m3u8
+
+#EXTINF:58 group-title="Globo" tvg-id="globo/cdo" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CDO
+http://45.134.141.162:3366/stream/globo/cdo/master720.m3u8
+
+#EXTINF:58 group-title="Globo" tvg-id="globo/cdo" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CDO
+http://45.134.141.162:3366/stream/globo/cdo/master1080.m3u8
+
+#EXTINF:59 group-title="Globo" tvg-id="globo/ce1" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CE1
+http://45.134.141.162:3366/stream/globo/ce1/master432.m3u8
+
+#EXTINF:59 group-title="Globo" tvg-id="globo/ce1" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CE1
+http://45.134.141.162:3366/stream/globo/ce1/master720.m3u8
+
+#EXTINF:59 group-title="Globo" tvg-id="globo/ce1" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CE1
+http://45.134.141.162:3366/stream/globo/ce1/master1080.m3u8
+
+#EXTINF:60 group-title="Globo" tvg-id="globo/ce2" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CE2
+http://45.134.141.162:3366/stream/globo/ce2/master432.m3u8
+
+#EXTINF:60 group-title="Globo" tvg-id="globo/ce2" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CE2
+http://45.134.141.162:3366/stream/globo/ce2/master720.m3u8
+
+#EXTINF:60 group-title="Globo" tvg-id="globo/ce2" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CE2
+http://45.134.141.162:3366/stream/globo/ce2/master1080.m3u8
+
+#EXTINF:61 group-title="Globo" tvg-id="globo/cha" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CHA
+http://45.134.141.162:3366/stream/globo/cha/master432.m3u8
+
+#EXTINF:61 group-title="Globo" tvg-id="globo/cha" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CHA
+http://45.134.141.162:3366/stream/globo/cha/master720.m3u8
+
+#EXTINF:61 group-title="Globo" tvg-id="globo/cha" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CHA
+http://45.134.141.162:3366/stream/globo/cha/master1080.m3u8
+
+#EXTINF:62 group-title="Globo" tvg-id="globo/col" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] COL
+http://45.134.141.162:3366/stream/globo/col/master432.m3u8
+
+#EXTINF:62 group-title="Globo" tvg-id="globo/col" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] COL
+http://45.134.141.162:3366/stream/globo/col/master720.m3u8
+
+#EXTINF:62 group-title="Globo" tvg-id="globo/col" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] COL
+http://45.134.141.162:3366/stream/globo/col/master1080.m3u8
+
+#EXTINF:63 group-title="Globo" tvg-id="globo/cpg" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CPG
+http://45.134.141.162:3366/stream/globo/cpg/master432.m3u8
+
+#EXTINF:63 group-title="Globo" tvg-id="globo/cpg" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CPG
+http://45.134.141.162:3366/stream/globo/cpg/master720.m3u8
+
+#EXTINF:63 group-title="Globo" tvg-id="globo/cpg" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CPG
+http://45.134.141.162:3366/stream/globo/cpg/master1080.m3u8
+
+#EXTINF:64 group-title="Globo" tvg-id="globo/cri" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CRI
+http://45.134.141.162:3366/stream/globo/cri/master432.m3u8
+
+#EXTINF:64 group-title="Globo" tvg-id="globo/cri" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CRI
+http://45.134.141.162:3366/stream/globo/cri/master720.m3u8
+
+#EXTINF:64 group-title="Globo" tvg-id="globo/cri" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CRI
+http://45.134.141.162:3366/stream/globo/cri/master1080.m3u8
+
+#EXTINF:65 group-title="Globo" tvg-id="globo/crr" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CRR
+http://45.134.141.162:3366/stream/globo/crr/master432.m3u8
+
+#EXTINF:65 group-title="Globo" tvg-id="globo/crr" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CRR
+http://45.134.141.162:3366/stream/globo/crr/master720.m3u8
+
+#EXTINF:65 group-title="Globo" tvg-id="globo/crr" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CRR
+http://45.134.141.162:3366/stream/globo/crr/master1080.m3u8
+
+#EXTINF:66 group-title="Globo" tvg-id="globo/cur" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CUR
+http://45.134.141.162:3366/stream/globo/cur/master432.m3u8
+
+#EXTINF:66 group-title="Globo" tvg-id="globo/cur" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CUR
+http://45.134.141.162:3366/stream/globo/cur/master720.m3u8
+
+#EXTINF:66 group-title="Globo" tvg-id="globo/cur" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CUR
+http://45.134.141.162:3366/stream/globo/cur/master1080.m3u8
+
+#EXTINF:67 group-title="Globo" tvg-id="globo/cxs" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CXS
+http://45.134.141.162:3366/stream/globo/cxs/master432.m3u8
+
+#EXTINF:67 group-title="Globo" tvg-id="globo/cxs" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CXS
+http://45.134.141.162:3366/stream/globo/cxs/master720.m3u8
+
+#EXTINF:67 group-title="Globo" tvg-id="globo/cxs" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] CXS
+http://45.134.141.162:3366/stream/globo/cxs/master1080.m3u8
+
+#EXTINF:68 group-title="Globo" tvg-id="globo/df" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] DF
+http://45.134.141.162:3366/stream/globo/df/master432.m3u8
+
+#EXTINF:68 group-title="Globo" tvg-id="globo/df" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] DF
+http://45.134.141.162:3366/stream/globo/df/master720.m3u8
+
+#EXTINF:68 group-title="Globo" tvg-id="globo/df" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] DF
+http://45.134.141.162:3366/stream/globo/df/master1080.m3u8
+
+#EXTINF:69 group-title="Globo" tvg-id="globo/es2" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] ES2
+http://45.134.141.162:3366/stream/globo/es2/master432.m3u8
+
+#EXTINF:69 group-title="Globo" tvg-id="globo/es2" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] ES2
+http://45.134.141.162:3366/stream/globo/es2/master720.m3u8
+
+#EXTINF:69 group-title="Globo" tvg-id="globo/es2" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] ES2
+http://45.134.141.162:3366/stream/globo/es2/master1080.m3u8
+
+#EXTINF:70 group-title="Globo" tvg-id="globo/fab" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] FAB
+http://45.134.141.162:3366/stream/globo/fab/master432.m3u8
+
+#EXTINF:70 group-title="Globo" tvg-id="globo/fab" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] FAB
+http://45.134.141.162:3366/stream/globo/fab/master720.m3u8
+
+#EXTINF:70 group-title="Globo" tvg-id="globo/fab" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] FAB
+http://45.134.141.162:3366/stream/globo/fab/master1080.m3u8
+
+#EXTINF:71 group-title="Globo" tvg-id="globo/fei" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] FEI
+http://45.134.141.162:3366/stream/globo/fei/master432.m3u8
+
+#EXTINF:71 group-title="Globo" tvg-id="globo/fei" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] FEI
+http://45.134.141.162:3366/stream/globo/fei/master720.m3u8
+
+#EXTINF:71 group-title="Globo" tvg-id="globo/fei" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] FEI
+http://45.134.141.162:3366/stream/globo/fei/master1080.m3u8
+
+#EXTINF:72 group-title="Globo" tvg-id="globo/flu" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] FLU
+http://45.134.141.162:3366/stream/globo/flu/master432.m3u8
+
+#EXTINF:72 group-title="Globo" tvg-id="globo/flu" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] FLU
+http://45.134.141.162:3366/stream/globo/flu/master720.m3u8
+
+#EXTINF:72 group-title="Globo" tvg-id="globo/flu" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] FLU
+http://45.134.141.162:3366/stream/globo/flu/master1080.m3u8
+
+#EXTINF:73 group-title="Globo" tvg-id="globo/foz" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] FOZ
+http://45.134.141.162:3366/stream/globo/foz/master432.m3u8
+
+#EXTINF:73 group-title="Globo" tvg-id="globo/foz" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] FOZ
+http://45.134.141.162:3366/stream/globo/foz/master720.m3u8
+
+#EXTINF:73 group-title="Globo" tvg-id="globo/foz" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] FOZ
+http://45.134.141.162:3366/stream/globo/foz/master1080.m3u8
+
+#EXTINF:74 group-title="Globo" tvg-id="globo/fri" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] FRI
+http://45.134.141.162:3366/stream/globo/fri/master432.m3u8
+
+#EXTINF:74 group-title="Globo" tvg-id="globo/fri" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] FRI
+http://45.134.141.162:3366/stream/globo/fri/master720.m3u8
+
+#EXTINF:74 group-title="Globo" tvg-id="globo/fri" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] FRI
+http://45.134.141.162:3366/stream/globo/fri/master1080.m3u8
+
+#EXTINF:75 group-title="Globo" tvg-id="globo/gav" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] GAV
+http://45.134.141.162:3366/stream/globo/gav/master432.m3u8
+
+#EXTINF:75 group-title="Globo" tvg-id="globo/gav" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] GAV
+http://45.134.141.162:3366/stream/globo/gav/master720.m3u8
+
+#EXTINF:75 group-title="Globo" tvg-id="globo/gav" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] GAV
+http://45.134.141.162:3366/stream/globo/gav/master1080.m3u8
+
+#EXTINF:76 group-title="Globo" tvg-id="globo/go01" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] GO01
+http://45.134.141.162:3366/stream/globo/go01/master432.m3u8
+
+#EXTINF:76 group-title="Globo" tvg-id="globo/go01" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] GO01
+http://45.134.141.162:3366/stream/globo/go01/master720.m3u8
+
+#EXTINF:76 group-title="Globo" tvg-id="globo/go01" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] GO01
+http://45.134.141.162:3366/stream/globo/go01/master1080.m3u8
+
+#EXTINF:77 group-title="Globo" tvg-id="globo/go2" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] GO2
+http://45.134.141.162:3366/stream/globo/go2/master432.m3u8
+
+#EXTINF:77 group-title="Globo" tvg-id="globo/go2" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] GO2
+http://45.134.141.162:3366/stream/globo/go2/master720.m3u8
+
+#EXTINF:77 group-title="Globo" tvg-id="globo/go2" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] GO2
+http://45.134.141.162:3366/stream/globo/go2/master1080.m3u8
+
+#EXTINF:78 group-title="Globo" tvg-id="globo/gur" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] GUR
+http://45.134.141.162:3366/stream/globo/gur/master432.m3u8
+
+#EXTINF:78 group-title="Globo" tvg-id="globo/gur" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] GUR
+http://45.134.141.162:3366/stream/globo/gur/master720.m3u8
+
+#EXTINF:78 group-title="Globo" tvg-id="globo/gur" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] GUR
+http://45.134.141.162:3366/stream/globo/gur/master1080.m3u8
+
+#EXTINF:79 group-title="Globo" tvg-id="globo/ibi" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] IBI
+http://45.134.141.162:3366/stream/globo/ibi/master432.m3u8
+
+#EXTINF:79 group-title="Globo" tvg-id="globo/ibi" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] IBI
+http://45.134.141.162:3366/stream/globo/ibi/master720.m3u8
+
+#EXTINF:79 group-title="Globo" tvg-id="globo/ibi" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] IBI
+http://45.134.141.162:3366/stream/globo/ibi/master1080.m3u8
+
+#EXTINF:80 group-title="Globo" tvg-id="globo/imp" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] IMP
+http://45.134.141.162:3366/stream/globo/imp/master432.m3u8
+
+#EXTINF:80 group-title="Globo" tvg-id="globo/imp" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] IMP
+http://45.134.141.162:3366/stream/globo/imp/master720.m3u8
+
+#EXTINF:80 group-title="Globo" tvg-id="globo/imp" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] IMP
+http://45.134.141.162:3366/stream/globo/imp/master1080.m3u8
+
+#EXTINF:81 group-title="Globo" tvg-id="globo/ina" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] INA
+http://45.134.141.162:3366/stream/globo/ina/master432.m3u8
+
+#EXTINF:81 group-title="Globo" tvg-id="globo/ina" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] INA
+http://45.134.141.162:3366/stream/globo/ina/master720.m3u8
+
+#EXTINF:81 group-title="Globo" tvg-id="globo/ina" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] INA
+http://45.134.141.162:3366/stream/globo/ina/master1080.m3u8
+
+#EXTINF:82 group-title="Globo" tvg-id="globo/ita" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] ITA
+http://45.134.141.162:3366/stream/globo/ita/master432.m3u8
+
+#EXTINF:82 group-title="Globo" tvg-id="globo/ita" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] ITA
+http://45.134.141.162:3366/stream/globo/ita/master720.m3u8
+
+#EXTINF:82 group-title="Globo" tvg-id="globo/ita" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] ITA
+http://45.134.141.162:3366/stream/globo/ita/master1080.m3u8
+
+#EXTINF:83 group-title="Globo" tvg-id="globo/itp" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] ITP
+http://45.134.141.162:3366/stream/globo/itp/master432.m3u8
+
+#EXTINF:83 group-title="Globo" tvg-id="globo/itp" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] ITP
+http://45.134.141.162:3366/stream/globo/itp/master720.m3u8
+
+#EXTINF:83 group-title="Globo" tvg-id="globo/itp" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] ITP
+http://45.134.141.162:3366/stream/globo/itp/master1080.m3u8
+
+#EXTINF:84 group-title="Globo" tvg-id="globo/jat" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] JAT
+http://45.134.141.162:3366/stream/globo/jat/master432.m3u8
+
+#EXTINF:84 group-title="Globo" tvg-id="globo/jat" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] JAT
+http://45.134.141.162:3366/stream/globo/jat/master720.m3u8
+
+#EXTINF:84 group-title="Globo" tvg-id="globo/jat" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] JAT
+http://45.134.141.162:3366/stream/globo/jat/master1080.m3u8
+
+#EXTINF:85 group-title="Globo" tvg-id="globo/jf" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] JF
+http://45.134.141.162:3366/stream/globo/jf/master432.m3u8
+
+#EXTINF:85 group-title="Globo" tvg-id="globo/jf" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] JF
+http://45.134.141.162:3366/stream/globo/jf/master720.m3u8
+
+#EXTINF:85 group-title="Globo" tvg-id="globo/jf" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] JF
+http://45.134.141.162:3366/stream/globo/jf/master1080.m3u8
+
+#EXTINF:86 group-title="Globo" tvg-id="globo/joa" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] JOA
+http://45.134.141.162:3366/stream/globo/joa/master432.m3u8
+
+#EXTINF:86 group-title="Globo" tvg-id="globo/joa" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] JOA
+http://45.134.141.162:3366/stream/globo/joa/master720.m3u8
+
+#EXTINF:86 group-title="Globo" tvg-id="globo/joa" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] JOA
+http://45.134.141.162:3366/stream/globo/joa/master1080.m3u8
+
+#EXTINF:87 group-title="Globo" tvg-id="globo/joi" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] JOI
+http://45.134.141.162:3366/stream/globo/joi/master432.m3u8
+
+#EXTINF:87 group-title="Globo" tvg-id="globo/joi" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] JOI
+http://45.134.141.162:3366/stream/globo/joi/master720.m3u8
+
+#EXTINF:87 group-title="Globo" tvg-id="globo/joi" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] JOI
+http://45.134.141.162:3366/stream/globo/joi/master1080.m3u8
+
+#EXTINF:88 group-title="Globo" tvg-id="globo/jp" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] JP
+http://45.134.141.162:3366/stream/globo/jp/master432.m3u8
+
+#EXTINF:88 group-title="Globo" tvg-id="globo/jp" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] JP
+http://45.134.141.162:3366/stream/globo/jp/master720.m3u8
+
+#EXTINF:88 group-title="Globo" tvg-id="globo/jp" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] JP
+http://45.134.141.162:3366/stream/globo/jp/master1080.m3u8
+
+#EXTINF:89 group-title="Globo" tvg-id="globo/jua" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] JUA
+http://45.134.141.162:3366/stream/globo/jua/master432.m3u8
+
+#EXTINF:89 group-title="Globo" tvg-id="globo/jua" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] JUA
+http://45.134.141.162:3366/stream/globo/jua/master720.m3u8
+
+#EXTINF:89 group-title="Globo" tvg-id="globo/jua" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] JUA
+http://45.134.141.162:3366/stream/globo/jua/master1080.m3u8
+
+#EXTINF:90 group-title="Globo" tvg-id="globo/lon" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] LON
+http://45.134.141.162:3366/stream/globo/lon/master432.m3u8
+
+#EXTINF:90 group-title="Globo" tvg-id="globo/lon" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] LON
+http://45.134.141.162:3366/stream/globo/lon/master720.m3u8
+
+#EXTINF:90 group-title="Globo" tvg-id="globo/lon" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] LON
+http://45.134.141.162:3366/stream/globo/lon/master1080.m3u8
+
+#EXTINF:91 group-title="Globo" tvg-id="globo/lza" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] LZA
+http://45.134.141.162:3366/stream/globo/lza/master432.m3u8
+
+#EXTINF:91 group-title="Globo" tvg-id="globo/lza" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] LZA
+http://45.134.141.162:3366/stream/globo/lza/master720.m3u8
+
+#EXTINF:91 group-title="Globo" tvg-id="globo/lza" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] LZA
+http://45.134.141.162:3366/stream/globo/lza/master1080.m3u8
+
+#EXTINF:92 group-title="Globo" tvg-id="globo/ma1" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MA1
+http://45.134.141.162:3366/stream/globo/ma1/master432.m3u8
+
+#EXTINF:92 group-title="Globo" tvg-id="globo/ma1" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MA1
+http://45.134.141.162:3366/stream/globo/ma1/master720.m3u8
+
+#EXTINF:92 group-title="Globo" tvg-id="globo/ma1" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MA1
+http://45.134.141.162:3366/stream/globo/ma1/master1080.m3u8
+
+#EXTINF:93 group-title="Globo" tvg-id="globo/mab" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MAB
+http://45.134.141.162:3366/stream/globo/mab/master432.m3u8
+
+#EXTINF:93 group-title="Globo" tvg-id="globo/mab" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MAB
+http://45.134.141.162:3366/stream/globo/mab/master720.m3u8
+
+#EXTINF:93 group-title="Globo" tvg-id="globo/mab" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MAB
+http://45.134.141.162:3366/stream/globo/mab/master1080.m3u8
+
+#EXTINF:94 group-title="Globo" tvg-id="globo/mac" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MAC
+http://45.134.141.162:3366/stream/globo/mac/master432.m3u8
+
+#EXTINF:94 group-title="Globo" tvg-id="globo/mac" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MAC
+http://45.134.141.162:3366/stream/globo/mac/master720.m3u8
+
+#EXTINF:94 group-title="Globo" tvg-id="globo/mac" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MAC
+http://45.134.141.162:3366/stream/globo/mac/master1080.m3u8
+
+#EXTINF:95 group-title="Globo" tvg-id="globo/man" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MAN
+http://45.134.141.162:3366/stream/globo/man/master432.m3u8
+
+#EXTINF:95 group-title="Globo" tvg-id="globo/man" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MAN
+http://45.134.141.162:3366/stream/globo/man/master720.m3u8
+
+#EXTINF:95 group-title="Globo" tvg-id="globo/man" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MAN
+http://45.134.141.162:3366/stream/globo/man/master1080.m3u8
+
+#EXTINF:96 group-title="Globo" tvg-id="globo/mar" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MAR
+http://45.134.141.162:3366/stream/globo/mar/master432.m3u8
+
+#EXTINF:96 group-title="Globo" tvg-id="globo/mar" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MAR
+http://45.134.141.162:3366/stream/globo/mar/master720.m3u8
+
+#EXTINF:96 group-title="Globo" tvg-id="globo/mar" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MAR
+http://45.134.141.162:3366/stream/globo/mar/master1080.m3u8
+
+#EXTINF:97 group-title="Globo" tvg-id="globo/moc" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MOC
+http://45.134.141.162:3366/stream/globo/moc/master432.m3u8
+
+#EXTINF:97 group-title="Globo" tvg-id="globo/moc" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MOC
+http://45.134.141.162:3366/stream/globo/moc/master720.m3u8
+
+#EXTINF:97 group-title="Globo" tvg-id="globo/moc" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MOC
+http://45.134.141.162:3366/stream/globo/moc/master1080.m3u8
+
+#EXTINF:98 group-title="Globo" tvg-id="globo/ms1" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MS1
+http://45.134.141.162:3366/stream/globo/ms1/master432.m3u8
+
+#EXTINF:98 group-title="Globo" tvg-id="globo/ms1" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MS1
+http://45.134.141.162:3366/stream/globo/ms1/master720.m3u8
+
+#EXTINF:98 group-title="Globo" tvg-id="globo/ms1" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MS1
+http://45.134.141.162:3366/stream/globo/ms1/master1080.m3u8
+
+#EXTINF:99 group-title="Globo" tvg-id="globo/ms2" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MS2
+http://45.134.141.162:3366/stream/globo/ms2/master432.m3u8
+
+#EXTINF:99 group-title="Globo" tvg-id="globo/ms2" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MS2
+http://45.134.141.162:3366/stream/globo/ms2/master720.m3u8
+
+#EXTINF:99 group-title="Globo" tvg-id="globo/ms2" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MS2
+http://45.134.141.162:3366/stream/globo/ms2/master1080.m3u8
+
+#EXTINF:100 group-title="Globo" tvg-id="globo/mt" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MT
+http://45.134.141.162:3366/stream/globo/mt/master432.m3u8
+
+#EXTINF:100 group-title="Globo" tvg-id="globo/mt" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MT
+http://45.134.141.162:3366/stream/globo/mt/master720.m3u8
+
+#EXTINF:100 group-title="Globo" tvg-id="globo/mt" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MT
+http://45.134.141.162:3366/stream/globo/mt/master1080.m3u8
+
+#EXTINF:101 group-title="Globo" tvg-id="globo/mtc" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MTC
+http://45.134.141.162:3366/stream/globo/mtc/master432.m3u8
+
+#EXTINF:101 group-title="Globo" tvg-id="globo/mtc" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MTC
+http://45.134.141.162:3366/stream/globo/mtc/master720.m3u8
+
+#EXTINF:101 group-title="Globo" tvg-id="globo/mtc" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] MTC
+http://45.134.141.162:3366/stream/globo/mtc/master1080.m3u8
+
+#EXTINF:102 group-title="Globo" tvg-id="globo/na2" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] NA2
+http://45.134.141.162:3366/stream/globo/na2/master432.m3u8
+
+#EXTINF:102 group-title="Globo" tvg-id="globo/na2" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] NA2
+http://45.134.141.162:3366/stream/globo/na2/master720.m3u8
+
+#EXTINF:102 group-title="Globo" tvg-id="globo/na2" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] NA2
+http://45.134.141.162:3366/stream/globo/na2/master1080.m3u8
+
+#EXTINF:103 group-title="Globo" tvg-id="globo/nat" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] NAT
+http://45.134.141.162:3366/stream/globo/nat/master432.m3u8
+
+#EXTINF:103 group-title="Globo" tvg-id="globo/nat" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] NAT
+http://45.134.141.162:3366/stream/globo/nat/master720.m3u8
+
+#EXTINF:103 group-title="Globo" tvg-id="globo/nat" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] NAT
+http://45.134.141.162:3366/stream/globo/nat/master1080.m3u8
+
+#EXTINF:104 group-title="Globo" tvg-id="globo/pal" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PAL
+http://45.134.141.162:3366/stream/globo/pal/master432.m3u8
+
+#EXTINF:104 group-title="Globo" tvg-id="globo/pal" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PAL
+http://45.134.141.162:3366/stream/globo/pal/master720.m3u8
+
+#EXTINF:104 group-title="Globo" tvg-id="globo/pal" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PAL
+http://45.134.141.162:3366/stream/globo/pal/master1080.m3u8
+
+#EXTINF:105 group-title="Globo" tvg-id="globo/pe1" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PE1
+http://45.134.141.162:3366/stream/globo/pe1/master432.m3u8
+
+#EXTINF:105 group-title="Globo" tvg-id="globo/pe1" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PE1
+http://45.134.141.162:3366/stream/globo/pe1/master720.m3u8
+
+#EXTINF:105 group-title="Globo" tvg-id="globo/pe1" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PE1
+http://45.134.141.162:3366/stream/globo/pe1/master1080.m3u8
+
+#EXTINF:106 group-title="Globo" tvg-id="globo/pel" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PEL
+http://45.134.141.162:3366/stream/globo/pel/master432.m3u8
+
+#EXTINF:106 group-title="Globo" tvg-id="globo/pel" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PEL
+http://45.134.141.162:3366/stream/globo/pel/master720.m3u8
+
+#EXTINF:106 group-title="Globo" tvg-id="globo/pel" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PEL
+http://45.134.141.162:3366/stream/globo/pel/master1080.m3u8
+
+#EXTINF:107 group-title="Globo" tvg-id="globo/pet" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PET
+http://45.134.141.162:3366/stream/globo/pet/master432.m3u8
+
+#EXTINF:107 group-title="Globo" tvg-id="globo/pet" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PET
+http://45.134.141.162:3366/stream/globo/pet/master720.m3u8
+
+#EXTINF:107 group-title="Globo" tvg-id="globo/pet" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PET
+http://45.134.141.162:3366/stream/globo/pet/master1080.m3u8
+
+#EXTINF:108 group-title="Globo" tvg-id="globo/pfo" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PFO
+http://45.134.141.162:3366/stream/globo/pfo/master432.m3u8
+
+#EXTINF:108 group-title="Globo" tvg-id="globo/pfo" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PFO
+http://45.134.141.162:3366/stream/globo/pfo/master720.m3u8
+
+#EXTINF:108 group-title="Globo" tvg-id="globo/pfo" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PFO
+http://45.134.141.162:3366/stream/globo/pfo/master1080.m3u8
+
+#EXTINF:109 group-title="Globo" tvg-id="globo/pgr" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PGR
+http://45.134.141.162:3366/stream/globo/pgr/master432.m3u8
+
+#EXTINF:109 group-title="Globo" tvg-id="globo/pgr" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PGR
+http://45.134.141.162:3366/stream/globo/pgr/master720.m3u8
+
+#EXTINF:109 group-title="Globo" tvg-id="globo/pgr" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PGR
+http://45.134.141.162:3366/stream/globo/pgr/master1080.m3u8
+
+#EXTINF:110 group-title="Globo" tvg-id="globo/por" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] POR
+http://45.134.141.162:3366/stream/globo/por/master432.m3u8
+
+#EXTINF:110 group-title="Globo" tvg-id="globo/por" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] POR
+http://45.134.141.162:3366/stream/globo/por/master720.m3u8
+
+#EXTINF:110 group-title="Globo" tvg-id="globo/por" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] POR
+http://45.134.141.162:3366/stream/globo/por/master1080.m3u8
+
+#EXTINF:111 group-title="Globo" tvg-id="globo/pr3" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PR3
+http://45.134.141.162:3366/stream/globo/pr3/master432.m3u8
+
+#EXTINF:111 group-title="Globo" tvg-id="globo/pr3" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PR3
+http://45.134.141.162:3366/stream/globo/pr3/master720.m3u8
+
+#EXTINF:111 group-title="Globo" tvg-id="globo/pr3" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PR3
+http://45.134.141.162:3366/stream/globo/pr3/master1080.m3u8
+
+#EXTINF:112 group-title="Globo" tvg-id="globo/prp" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PRP
+http://45.134.141.162:3366/stream/globo/prp/master432.m3u8
+
+#EXTINF:112 group-title="Globo" tvg-id="globo/prp" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PRP
+http://45.134.141.162:3366/stream/globo/prp/master720.m3u8
+
+#EXTINF:112 group-title="Globo" tvg-id="globo/prp" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PRP
+http://45.134.141.162:3366/stream/globo/prp/master1080.m3u8
+
+#EXTINF:113 group-title="Globo" tvg-id="globo/prt" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PRT
+http://45.134.141.162:3366/stream/globo/prt/master432.m3u8
+
+#EXTINF:113 group-title="Globo" tvg-id="globo/prt" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PRT
+http://45.134.141.162:3366/stream/globo/prt/master720.m3u8
+
+#EXTINF:113 group-title="Globo" tvg-id="globo/prt" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] PRT
+http://45.134.141.162:3366/stream/globo/prt/master1080.m3u8
+
+#EXTINF:114 group-title="Globo" tvg-id="globo/res" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] RES
+http://45.134.141.162:3366/stream/globo/res/master432.m3u8
+
+#EXTINF:114 group-title="Globo" tvg-id="globo/res" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] RES
+http://45.134.141.162:3366/stream/globo/res/master720.m3u8
+
+#EXTINF:114 group-title="Globo" tvg-id="globo/res" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] RES
+http://45.134.141.162:3366/stream/globo/res/master1080.m3u8
+
+#EXTINF:115 group-title="Globo" tvg-id="globo/rib" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] RIB
+http://45.134.141.162:3366/stream/globo/rib/master432.m3u8
+
+#EXTINF:115 group-title="Globo" tvg-id="globo/rib" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] RIB
+http://45.134.141.162:3366/stream/globo/rib/master720.m3u8
+
+#EXTINF:115 group-title="Globo" tvg-id="globo/rib" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] RIB
+http://45.134.141.162:3366/stream/globo/rib/master1080.m3u8
+
+#EXTINF:116 group-title="Globo" tvg-id="globo/rj" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] RJ
+http://45.134.141.162:3366/stream/globo/rj/master432.m3u8
+
+#EXTINF:116 group-title="Globo" tvg-id="globo/rj" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] RJ
+http://45.134.141.162:3366/stream/globo/rj/master720.m3u8
+
+#EXTINF:116 group-title="Globo" tvg-id="globo/rj" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] RJ
+http://45.134.141.162:3366/stream/globo/rj/master1080.m3u8
+
+#EXTINF:117 group-title="Globo" tvg-id="globo/rod" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] ROD
+http://45.134.141.162:3366/stream/globo/rod/master432.m3u8
+
+#EXTINF:117 group-title="Globo" tvg-id="globo/rod" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] ROD
+http://45.134.141.162:3366/stream/globo/rod/master720.m3u8
+
+#EXTINF:117 group-title="Globo" tvg-id="globo/rod" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] ROD
+http://45.134.141.162:3366/stream/globo/rod/master1080.m3u8
+
+#EXTINF:118 group-title="Globo" tvg-id="globo/ron" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] RON
+http://45.134.141.162:3366/stream/globo/ron/master432.m3u8
+
+#EXTINF:118 group-title="Globo" tvg-id="globo/ron" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] RON
+http://45.134.141.162:3366/stream/globo/ron/master720.m3u8
+
+#EXTINF:118 group-title="Globo" tvg-id="globo/ron" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] RON
+http://45.134.141.162:3366/stream/globo/ron/master1080.m3u8
+
+#EXTINF:119 group-title="Globo" tvg-id="globo/ror" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] ROR
+http://45.134.141.162:3366/stream/globo/ror/master432.m3u8
+
+#EXTINF:119 group-title="Globo" tvg-id="globo/ror" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] ROR
+http://45.134.141.162:3366/stream/globo/ror/master720.m3u8
+
+#EXTINF:119 group-title="Globo" tvg-id="globo/ror" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] ROR
+http://45.134.141.162:3366/stream/globo/ror/master1080.m3u8
+
+#EXTINF:120 group-title="Globo" tvg-id="globo/rs1" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] RS1
+http://45.134.141.162:3366/stream/globo/rs1/master432.m3u8
+
+#EXTINF:120 group-title="Globo" tvg-id="globo/rs1" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] RS1
+http://45.134.141.162:3366/stream/globo/rs1/master720.m3u8
+
+#EXTINF:120 group-title="Globo" tvg-id="globo/rs1" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] RS1
+http://45.134.141.162:3366/stream/globo/rs1/master1080.m3u8
+
+#EXTINF:121 group-title="Globo" tvg-id="globo/rvd" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] RVD
+http://45.134.141.162:3366/stream/globo/rvd/master432.m3u8
+
+#EXTINF:121 group-title="Globo" tvg-id="globo/rvd" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] RVD
+http://45.134.141.162:3366/stream/globo/rvd/master720.m3u8
+
+#EXTINF:121 group-title="Globo" tvg-id="globo/rvd" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] RVD
+http://45.134.141.162:3366/stream/globo/rvd/master1080.m3u8
+
+#EXTINF:122 group-title="Globo" tvg-id="globo/sal" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SAL
+http://45.134.141.162:3366/stream/globo/sal/master432.m3u8
+
+#EXTINF:122 group-title="Globo" tvg-id="globo/sal" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SAL
+http://45.134.141.162:3366/stream/globo/sal/master720.m3u8
+
+#EXTINF:122 group-title="Globo" tvg-id="globo/sal" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SAL
+http://45.134.141.162:3366/stream/globo/sal/master1080.m3u8
+
+#EXTINF:123 group-title="Globo" tvg-id="globo/san" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SAN
+http://45.134.141.162:3366/stream/globo/san/master432.m3u8
+
+#EXTINF:123 group-title="Globo" tvg-id="globo/san" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SAN
+http://45.134.141.162:3366/stream/globo/san/master720.m3u8
+
+#EXTINF:123 group-title="Globo" tvg-id="globo/san" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SAN
+http://45.134.141.162:3366/stream/globo/san/master1080.m3u8
+
+#EXTINF:124 group-title="Globo" tvg-id="globo/sc1" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SC1
+http://45.134.141.162:3366/stream/globo/sc1/master432.m3u8
+
+#EXTINF:124 group-title="Globo" tvg-id="globo/sc1" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SC1
+http://45.134.141.162:3366/stream/globo/sc1/master720.m3u8
+
+#EXTINF:124 group-title="Globo" tvg-id="globo/sc1" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SC1
+http://45.134.141.162:3366/stream/globo/sc1/master1080.m3u8
+
+#EXTINF:125 group-title="Globo" tvg-id="globo/sca" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SCA
+http://45.134.141.162:3366/stream/globo/sca/master432.m3u8
+
+#EXTINF:125 group-title="Globo" tvg-id="globo/sca" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SCA
+http://45.134.141.162:3366/stream/globo/sca/master720.m3u8
+
+#EXTINF:125 group-title="Globo" tvg-id="globo/sca" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SCA
+http://45.134.141.162:3366/stream/globo/sca/master1080.m3u8
+
+#EXTINF:126 group-title="Globo" tvg-id="globo/ser" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SER
+http://45.134.141.162:3366/stream/globo/ser/master432.m3u8
+
+#EXTINF:126 group-title="Globo" tvg-id="globo/ser" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SER
+http://45.134.141.162:3366/stream/globo/ser/master720.m3u8
+
+#EXTINF:126 group-title="Globo" tvg-id="globo/ser" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SER
+http://45.134.141.162:3366/stream/globo/ser/master1080.m3u8
+
+#EXTINF:127 group-title="Globo" tvg-id="globo/sjc" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SJC
+http://45.134.141.162:3366/stream/globo/sjc/master432.m3u8
+
+#EXTINF:127 group-title="Globo" tvg-id="globo/sjc" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SJC
+http://45.134.141.162:3366/stream/globo/sjc/master720.m3u8
+
+#EXTINF:127 group-title="Globo" tvg-id="globo/sjc" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SJC
+http://45.134.141.162:3366/stream/globo/sjc/master1080.m3u8
+
+#EXTINF:128 group-title="Globo" tvg-id="globo/sjr" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SJR
+http://45.134.141.162:3366/stream/globo/sjr/master432.m3u8
+
+#EXTINF:128 group-title="Globo" tvg-id="globo/sjr" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SJR
+http://45.134.141.162:3366/stream/globo/sjr/master720.m3u8
+
+#EXTINF:128 group-title="Globo" tvg-id="globo/sjr" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SJR
+http://45.134.141.162:3366/stream/globo/sjr/master1080.m3u8
+
+#EXTINF:129 group-title="Globo" tvg-id="globo/sma" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SMA
+http://45.134.141.162:3366/stream/globo/sma/master432.m3u8
+
+#EXTINF:129 group-title="Globo" tvg-id="globo/sma" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SMA
+http://45.134.141.162:3366/stream/globo/sma/master720.m3u8
+
+#EXTINF:129 group-title="Globo" tvg-id="globo/sma" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SMA
+http://45.134.141.162:3366/stream/globo/sma/master1080.m3u8
+
+#EXTINF:130 group-title="Globo" tvg-id="globo/sno" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SNO
+http://45.134.141.162:3366/stream/globo/sno/master432.m3u8
+
+#EXTINF:130 group-title="Globo" tvg-id="globo/sno" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SNO
+http://45.134.141.162:3366/stream/globo/sno/master720.m3u8
+
+#EXTINF:130 group-title="Globo" tvg-id="globo/sno" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SNO
+http://45.134.141.162:3366/stream/globo/sno/master1080.m3u8
+
+#EXTINF:131 group-title="Globo" tvg-id="globo/sor" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SOR
+http://45.134.141.162:3366/stream/globo/sor/master432.m3u8
+
+#EXTINF:131 group-title="Globo" tvg-id="globo/sor" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SOR
+http://45.134.141.162:3366/stream/globo/sor/master720.m3u8
+
+#EXTINF:131 group-title="Globo" tvg-id="globo/sor" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SOR
+http://45.134.141.162:3366/stream/globo/sor/master1080.m3u8
+
+#EXTINF:132 group-title="Globo" tvg-id="globo/sp1" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SP1
+http://45.134.141.162:3366/stream/globo/sp1/master432.m3u8
+
+#EXTINF:132 group-title="Globo" tvg-id="globo/sp1" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SP1
+http://45.134.141.162:3366/stream/globo/sp1/master720.m3u8
+
+#EXTINF:132 group-title="Globo" tvg-id="globo/sp1" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] SP1
+http://45.134.141.162:3366/stream/globo/sp1/master1080.m3u8
+
+#EXTINF:133 group-title="Globo" tvg-id="globo/stc" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] STC
+http://45.134.141.162:3366/stream/globo/stc/master432.m3u8
+
+#EXTINF:133 group-title="Globo" tvg-id="globo/stc" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] STC
+http://45.134.141.162:3366/stream/globo/stc/master720.m3u8
+
+#EXTINF:133 group-title="Globo" tvg-id="globo/stc" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] STC
+http://45.134.141.162:3366/stream/globo/stc/master1080.m3u8
+
+#EXTINF:134 group-title="Globo" tvg-id="globo/tap" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] TAP
+http://45.134.141.162:3366/stream/globo/tap/master432.m3u8
+
+#EXTINF:134 group-title="Globo" tvg-id="globo/tap" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] TAP
+http://45.134.141.162:3366/stream/globo/tap/master720.m3u8
+
+#EXTINF:134 group-title="Globo" tvg-id="globo/tap" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] TAP
+http://45.134.141.162:3366/stream/globo/tap/master1080.m3u8
+
+#EXTINF:135 group-title="Globo" tvg-id="globo/tau" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] TAU
+http://45.134.141.162:3366/stream/globo/tau/master432.m3u8
+
+#EXTINF:135 group-title="Globo" tvg-id="globo/tau" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] TAU
+http://45.134.141.162:3366/stream/globo/tau/master720.m3u8
+
+#EXTINF:135 group-title="Globo" tvg-id="globo/tau" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] TAU
+http://45.134.141.162:3366/stream/globo/tau/master1080.m3u8
+
+#EXTINF:136 group-title="Globo" tvg-id="globo/ter" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] TER
+http://45.134.141.162:3366/stream/globo/ter/master432.m3u8
+
+#EXTINF:136 group-title="Globo" tvg-id="globo/ter" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] TER
+http://45.134.141.162:3366/stream/globo/ter/master720.m3u8
+
+#EXTINF:136 group-title="Globo" tvg-id="globo/ter" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] TER
+http://45.134.141.162:3366/stream/globo/ter/master1080.m3u8
+
+#EXTINF:137 group-title="Globo" tvg-id="globo/uba" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] UBA
+http://45.134.141.162:3366/stream/globo/uba/master432.m3u8
+
+#EXTINF:137 group-title="Globo" tvg-id="globo/uba" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] UBA
+http://45.134.141.162:3366/stream/globo/uba/master720.m3u8
+
+#EXTINF:137 group-title="Globo" tvg-id="globo/uba" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] UBA
+http://45.134.141.162:3366/stream/globo/uba/master1080.m3u8
+
+#EXTINF:138 group-title="Globo" tvg-id="globo/ube" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] UBE
+http://45.134.141.162:3366/stream/globo/ube/master432.m3u8
+
+#EXTINF:138 group-title="Globo" tvg-id="globo/ube" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] UBE
+http://45.134.141.162:3366/stream/globo/ube/master720.m3u8
+
+#EXTINF:138 group-title="Globo" tvg-id="globo/ube" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] UBE
+http://45.134.141.162:3366/stream/globo/ube/master1080.m3u8
+
+#EXTINF:139 group-title="Globo" tvg-id="globo/var" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] VAR
+http://45.134.141.162:3366/stream/globo/var/master432.m3u8
+
+#EXTINF:139 group-title="Globo" tvg-id="globo/var" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] VAR
+http://45.134.141.162:3366/stream/globo/var/master720.m3u8
+
+#EXTINF:139 group-title="Globo" tvg-id="globo/var" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] VAR
+http://45.134.141.162:3366/stream/globo/var/master1080.m3u8
+
+#EXTINF:140 group-title="Globo" tvg-id="globo/vdc" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] VDC
+http://45.134.141.162:3366/stream/globo/vdc/master432.m3u8
+
+#EXTINF:140 group-title="Globo" tvg-id="globo/vdc" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] VDC
+http://45.134.141.162:3366/stream/globo/vdc/master720.m3u8
+
+#EXTINF:140 group-title="Globo" tvg-id="globo/vdc" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] VDC
+http://45.134.141.162:3366/stream/globo/vdc/master1080.m3u8
+
+#EXTINF:141 group-title="Globo" tvg-id="globo/vit" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] VIT
+http://45.134.141.162:3366/stream/globo/vit/master432.m3u8
+
+#EXTINF:141 group-title="Globo" tvg-id="globo/vit" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] VIT
+http://45.134.141.162:3366/stream/globo/vit/master720.m3u8
+
+#EXTINF:141 group-title="Globo" tvg-id="globo/vit" tvg-logo="" provider="Globo" provider-logo="" provider-type="iptv",[Globo] VIT
+http://45.134.141.162:3366/stream/globo/vit/master1080.m3u8
+
+#EXTINF:142 group-title="premierefc" tvg-id="premierefc/premiere1" tvg-logo="" provider="premierefc" provider-logo="" provider-type="iptv",[premierefc] Premiere 1
+http://45.134.141.162:3366/stream/premierefc/premiere1/master540.m3u8
+
+#EXTINF:142 group-title="premierefc" tvg-id="premierefc/premiere1" tvg-logo="" provider="premierefc" provider-logo="" provider-type="iptv",[premierefc] Premiere 1
+http://45.134.141.162:3366/stream/premierefc/premiere1/master720.m3u8
+
+#EXTINF:142 group-title="premierefc" tvg-id="premierefc/premiere1" tvg-logo="" provider="premierefc" provider-logo="" provider-type="iptv",[premierefc] Premiere 1
+http://45.134.141.162:3366/stream/premierefc/premiere1/master1080.m3u8
+
+#EXTINF:143 group-title="premierefc" tvg-id="premierefc/premiere2" tvg-logo="" provider="premierefc" provider-logo="" provider-type="iptv",[premierefc] Premiere 2
+http://45.134.141.162:3366/stream/premierefc/premiere2/master540.m3u8
+
+#EXTINF:143 group-title="premierefc" tvg-id="premierefc/premiere2" tvg-logo="" provider="premierefc" provider-logo="" provider-type="iptv",[premierefc] Premiere 2
+http://45.134.141.162:3366/stream/premierefc/premiere2/master720.m3u8
+
+#EXTINF:143 group-title="premierefc" tvg-id="premierefc/premiere2" tvg-logo="" provider="premierefc" provider-logo="" provider-type="iptv",[premierefc] Premiere 2
+http://45.134.141.162:3366/stream/premierefc/premiere2/master1080.m3u8
+
+#EXTINF:144 group-title="premierefc" tvg-id="premierefc/premiere3" tvg-logo="" provider="premierefc" provider-logo="" provider-type="iptv",[premierefc] Premiere 3
+http://45.134.141.162:3366/stream/premierefc/premiere3/master540.m3u8
+
+#EXTINF:144 group-title="premierefc" tvg-id="premierefc/premiere3" tvg-logo="" provider="premierefc" provider-logo="" provider-type="iptv",[premierefc] Premiere 3
+http://45.134.141.162:3366/stream/premierefc/premiere3/master720.m3u8
+
+#EXTINF:144 group-title="premierefc" tvg-id="premierefc/premiere3" tvg-logo="" provider="premierefc" provider-logo="" provider-type="iptv",[premierefc] Premiere 3
+http://45.134.141.162:3366/stream/premierefc/premiere3/master1080.m3u8
+
+#EXTINF:145 group-title="premierefc" tvg-id="premierefc/premiere4" tvg-logo="" provider="premierefc" provider-logo="" provider-type="iptv",[premierefc] Premiere 4
+http://45.134.141.162:3366/stream/premierefc/premiere4/master540.m3u8
+
+#EXTINF:145 group-title="premierefc" tvg-id="premierefc/premiere4" tvg-logo="" provider="premierefc" provider-logo="" provider-type="iptv",[premierefc] Premiere 4
+http://45.134.141.162:3366/stream/premierefc/premiere4/master720.m3u8
+
+#EXTINF:145 group-title="premierefc" tvg-id="premierefc/premiere4" tvg-logo="" provider="premierefc" provider-logo="" provider-type="iptv",[premierefc] Premiere 4
+http://45.134.141.162:3366/stream/premierefc/premiere4/master1080.m3u8
+
+#EXTINF:146 group-title="premierefc" tvg-id="premierefc/premiere5" tvg-logo="" provider="premierefc" provider-logo="" provider-type="iptv",[premierefc] Premiere 5
+http://45.134.141.162:3366/stream/premierefc/premiere5/master540.m3u8
+
+#EXTINF:146 group-title="premierefc" tvg-id="premierefc/premiere5" tvg-logo="" provider="premierefc" provider-logo="" provider-type="iptv",[premierefc] Premiere 5
+http://45.134.141.162:3366/stream/premierefc/premiere5/master720.m3u8
+
+#EXTINF:146 group-title="premierefc" tvg-id="premierefc/premiere5" tvg-logo="" provider="premierefc" provider-logo="" provider-type="iptv",[premierefc] Premiere 5
+http://45.134.141.162:3366/stream/premierefc/premiere5/master1080.m3u8
+
+#EXTINF:147 group-title="premierefc" tvg-id="premierefc/premiere6" tvg-logo="" provider="premierefc" provider-logo="" provider-type="iptv",[premierefc] Premiere 6
+http://45.134.141.162:3366/stream/premierefc/premiere6/master540.m3u8
+
+#EXTINF:147 group-title="premierefc" tvg-id="premierefc/premiere6" tvg-logo="" provider="premierefc" provider-logo="" provider-type="iptv",[premierefc] Premiere 6
+http://45.134.141.162:3366/stream/premierefc/premiere6/master720.m3u8
+
+#EXTINF:147 group-title="premierefc" tvg-id="premierefc/premiere6" tvg-logo="" provider="premierefc" provider-logo="" provider-type="iptv",[premierefc] Premiere 6
+http://45.134.141.162:3366/stream/premierefc/premiere6/master1080.m3u8
+
+#EXTINF:148 group-title="premierefc" tvg-id="premierefc/premiere7" tvg-logo="" provider="premierefc" provider-logo="" provider-type="iptv",[premierefc] Premiere 7
+http://45.134.141.162:3366/stream/premierefc/premiere7/master540.m3u8
+
+#EXTINF:148 group-title="premierefc" tvg-id="premierefc/premiere7" tvg-logo="" provider="premierefc" provider-logo="" provider-type="iptv",[premierefc] Premiere 7
+http://45.134.141.162:3366/stream/premierefc/premiere7/master720.m3u8
+
+#EXTINF:148 group-title="premierefc" tvg-id="premierefc/premiere7" tvg-logo="" provider="premierefc" provider-logo="" provider-type="iptv",[premierefc] Premiere 7
+http://45.134.141.162:3366/stream/premierefc/premiere7/master1080.m3u8
+
+#EXTINF:149 group-title="premierefc" tvg-id="premierefc/premiere8" tvg-logo="" provider="premierefc" provider-logo="" provider-type="iptv",[premierefc] Premiere 8
+http://45.134.141.162:3366/stream/premierefc/premiere8/master540.m3u8
+
+#EXTINF:149 group-title="premierefc" tvg-id="premierefc/premiere8" tvg-logo="" provider="premierefc" provider-logo="" provider-type="iptv",[premierefc] Premiere 8
+http://45.134.141.162:3366/stream/premierefc/premiere8/master720.m3u8
+
+#EXTINF:149 group-title="premierefc" tvg-id="premierefc/premiere8" tvg-logo="" provider="premierefc" provider-logo="" provider-type="iptv",[premierefc] Premiere 8
+http://45.134.141.162:3366/stream/premierefc/premiere8/master1080.m3u8
+
+#EXTINF:150 group-title="recordtv" tvg-id="recordtv/bahia" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] BAHIA
+http://45.134.141.162:3366/stream/recordtv/bahia/master480.m3u8
+
+#EXTINF:150 group-title="recordtv" tvg-id="recordtv/bahia" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] BAHIA
+http://45.134.141.162:3366/stream/recordtv/bahia/master720.m3u8
+
+#EXTINF:151 group-title="recordtv" tvg-id="recordtv/bauru" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] BAURU
+http://45.134.141.162:3366/stream/recordtv/bauru/master480.m3u8
+
+#EXTINF:151 group-title="recordtv" tvg-id="recordtv/bauru" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] BAURU
+http://45.134.141.162:3366/stream/recordtv/bauru/master720.m3u8
+
+#EXTINF:152 group-title="recordtv" tvg-id="recordtv/belm" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] BELÉM
+http://45.134.141.162:3366/stream/recordtv/belm/master480.m3u8
+
+#EXTINF:152 group-title="recordtv" tvg-id="recordtv/belm" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] BELÉM
+http://45.134.141.162:3366/stream/recordtv/belm/master720.m3u8
+
+#EXTINF:153 group-title="recordtv" tvg-id="recordtv/braslia" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] BRASÍLIA
+http://45.134.141.162:3366/stream/recordtv/braslia/master480.m3u8
+
+#EXTINF:153 group-title="recordtv" tvg-id="recordtv/braslia" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] BRASÍLIA
+http://45.134.141.162:3366/stream/recordtv/braslia/master720.m3u8
+
+#EXTINF:154 group-title="recordtv" tvg-id="recordtv/cabrlia" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] CABRÁLIA
+http://45.134.141.162:3366/stream/recordtv/cabrlia/master480.m3u8
+
+#EXTINF:154 group-title="recordtv" tvg-id="recordtv/cabrlia" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] CABRÁLIA
+http://45.134.141.162:3366/stream/recordtv/cabrlia/master720.m3u8
+
+#EXTINF:155 group-title="recordtv" tvg-id="recordtv/campinas" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] CAMPINAS
+http://45.134.141.162:3366/stream/recordtv/campinas/master480.m3u8
+
+#EXTINF:155 group-title="recordtv" tvg-id="recordtv/campinas" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] CAMPINAS
+http://45.134.141.162:3366/stream/recordtv/campinas/master720.m3u8
+
+#EXTINF:156 group-title="recordtv" tvg-id="recordtv/camposdosgoytacazes" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] CAMPOS DOS GOYTACAZES
+http://45.134.141.162:3366/stream/recordtv/camposdosgoytacazes/master480.m3u8
+
+#EXTINF:156 group-title="recordtv" tvg-id="recordtv/camposdosgoytacazes" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] CAMPOS DOS GOYTACAZES
+http://45.134.141.162:3366/stream/recordtv/camposdosgoytacazes/master720.m3u8
+
+#EXTINF:157 group-title="recordtv" tvg-id="recordtv/curitiba" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] CURITIBA
+http://45.134.141.162:3366/stream/recordtv/curitiba/master480.m3u8
+
+#EXTINF:157 group-title="recordtv" tvg-id="recordtv/curitiba" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] CURITIBA
+http://45.134.141.162:3366/stream/recordtv/curitiba/master720.m3u8
+
+#EXTINF:158 group-title="recordtv" tvg-id="recordtv/florianpolis" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] FLORIANÓPOLIS
+http://45.134.141.162:3366/stream/recordtv/florianpolis/master480.m3u8
+
+#EXTINF:158 group-title="recordtv" tvg-id="recordtv/florianpolis" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] FLORIANÓPOLIS
+http://45.134.141.162:3366/stream/recordtv/florianpolis/master720.m3u8
+
+#EXTINF:159 group-title="recordtv" tvg-id="recordtv/fortaleza" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] FORTALEZA
+http://45.134.141.162:3366/stream/recordtv/fortaleza/master480.m3u8
+
+#EXTINF:159 group-title="recordtv" tvg-id="recordtv/fortaleza" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] FORTALEZA
+http://45.134.141.162:3366/stream/recordtv/fortaleza/master720.m3u8
+
+#EXTINF:160 group-title="recordtv" tvg-id="recordtv/gois" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] GOIÁS
+http://45.134.141.162:3366/stream/recordtv/gois/master480.m3u8
+
+#EXTINF:160 group-title="recordtv" tvg-id="recordtv/gois" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] GOIÁS
+http://45.134.141.162:3366/stream/recordtv/gois/master720.m3u8
+
+#EXTINF:161 group-title="recordtv" tvg-id="recordtv/guaba" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] GUAÍBA
+http://45.134.141.162:3366/stream/recordtv/guaba/master480.m3u8
+
+#EXTINF:161 group-title="recordtv" tvg-id="recordtv/guaba" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] GUAÍBA
+http://45.134.141.162:3366/stream/recordtv/guaba/master720.m3u8
+
+#EXTINF:162 group-title="recordtv" tvg-id="recordtv/manaus" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] MANAUS
+http://45.134.141.162:3366/stream/recordtv/manaus/master480.m3u8
+
+#EXTINF:162 group-title="recordtv" tvg-id="recordtv/manaus" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] MANAUS
+http://45.134.141.162:3366/stream/recordtv/manaus/master720.m3u8
+
+#EXTINF:163 group-title="recordtv" tvg-id="recordtv/minas" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] MINAS
+http://45.134.141.162:3366/stream/recordtv/minas/master480.m3u8
+
+#EXTINF:163 group-title="recordtv" tvg-id="recordtv/minas" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] MINAS
+http://45.134.141.162:3366/stream/recordtv/minas/master720.m3u8
+
+#EXTINF:164 group-title="recordtv" tvg-id="recordtv/news" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] NEWS
+http://45.134.141.162:3366/stream/recordtv/news/master480.m3u8
+
+#EXTINF:164 group-title="recordtv" tvg-id="recordtv/news" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] NEWS
+http://45.134.141.162:3366/stream/recordtv/news/master720.m3u8
+
+#EXTINF:165 group-title="recordtv" tvg-id="recordtv/recife" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] RECIFE
+http://45.134.141.162:3366/stream/recordtv/recife/master480.m3u8
+
+#EXTINF:165 group-title="recordtv" tvg-id="recordtv/recife" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] RECIFE
+http://45.134.141.162:3366/stream/recordtv/recife/master720.m3u8
+
+#EXTINF:166 group-title="recordtv" tvg-id="recordtv/ribeiropreto" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] RIBEIRÃO PRETO
+http://45.134.141.162:3366/stream/recordtv/ribeiropreto/master480.m3u8
+
+#EXTINF:166 group-title="recordtv" tvg-id="recordtv/ribeiropreto" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] RIBEIRÃO PRETO
+http://45.134.141.162:3366/stream/recordtv/ribeiropreto/master720.m3u8
+
+#EXTINF:167 group-title="recordtv" tvg-id="recordtv/rio" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] RIO
+http://45.134.141.162:3366/stream/recordtv/rio/master480.m3u8
+
+#EXTINF:167 group-title="recordtv" tvg-id="recordtv/rio" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] RIO
+http://45.134.141.162:3366/stream/recordtv/rio/master720.m3u8
+
+#EXTINF:168 group-title="recordtv" tvg-id="recordtv/riopreto" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] RIO PRETO
+http://45.134.141.162:3366/stream/recordtv/riopreto/master480.m3u8
+
+#EXTINF:168 group-title="recordtv" tvg-id="recordtv/riopreto" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] RIO PRETO
+http://45.134.141.162:3366/stream/recordtv/riopreto/master720.m3u8
+
+#EXTINF:169 group-title="recordtv" tvg-id="recordtv/rdiosociedade" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] RÁDIO SOCIEDADE
+http://45.134.141.162:3366/stream/recordtv/rdiosociedade/master.m3u8
+
+#EXTINF:170 group-title="recordtv" tvg-id="recordtv/santosevale" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] SANTOS E VALE
+http://45.134.141.162:3366/stream/recordtv/santosevale/master480.m3u8
+
+#EXTINF:170 group-title="recordtv" tvg-id="recordtv/santosevale" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] SANTOS E VALE
+http://45.134.141.162:3366/stream/recordtv/santosevale/master720.m3u8
+
+#EXTINF:171 group-title="recordtv" tvg-id="recordtv/sp" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] SP
+http://45.134.141.162:3366/stream/recordtv/sp/master480.m3u8
+
+#EXTINF:171 group-title="recordtv" tvg-id="recordtv/sp" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] SP
+http://45.134.141.162:3366/stream/recordtv/sp/master720.m3u8
+
+#EXTINF:171 group-title="recordtv" tvg-id="recordtv/sp" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] SP
+http://45.134.141.162:3366/stream/recordtv/sp/master1080.m3u8
+
+#EXTINF:172 group-title="recordtv" tvg-id="recordtv/vitria" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] VITÓRIA
+http://45.134.141.162:3366/stream/recordtv/vitria/master480.m3u8
+
+#EXTINF:172 group-title="recordtv" tvg-id="recordtv/vitria" tvg-logo="" provider="recordtv" provider-logo="" provider-type="iptv",[recordtv] VITÓRIA
+http://45.134.141.162:3366/stream/recordtv/vitria/master720.m3u8
+
+#EXTINF:173 group-title="Rede Amazonica" tvg-id="redeamazonica/test" tvg-logo="" provider="Rede Amazonica" provider-logo="" provider-type="iptv",[Rede Amazonica] test
+http://45.134.141.162:3366/stream/redeamazonica/test/master.m3u8
+
