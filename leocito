@@ -162,7 +162,7 @@ http://200.55.244.75:8000/play/a02y/index.m3u8
 http://200.55.244.75:8000/play/a06z/index.m3u8
 #EXTINF:0 CUID="763" tvg-name="Pasiones HD" tvg-logo="https://logo.iptveditor.com/pasiones.png" group-title="🎞️ Cine, Novelas y Series",Pasiones HD
 http://200.55.244.75:8000/play/a0d7/index.m3u8
-#EXTINF:0 CUID="800" tvg-name="Warner Channel HD" tvg-logo="https://logo.iptveditor.com/warnerchannel.png" group-title="🎞️Cine, Novelas y Series",Warner Channel HD
+#EXTINF:0 CUID="800" tvg-name="Warner Channel HD" tvg-logo="https://logo.iptveditor.com/warnerchannel.png" group-title="🎞️ Cine, Novelas y Series",Warner Channel HD
 http://200.55.244.75:8000/play/a05e/index.m3u8
 #EXTINF:0 CUID="672" tvg-name="Adult swim HD" tvg-logo="https://logo.iptveditor.com/adultswim.png" group-title="🎞️ Cine, Novelas y Series",Adult swim HD
 http://200.55.244.75:8000/play/a0dd/index.m3u8
@@ -289,11 +289,11 @@ http://200.55.244.75:8000/play/a033/index.m3u8
 http://200.55.244.75:8000/play/a034/index.m3u8
 
 
-#EXTINF:0 CUID="753" tvg-name="MTV" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="Musica",MTV
+#EXTINF:0 CUID="753" tvg-name="MTV" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="🎸 Musica",MTV
 http://200.55.244.75:8000/play/a02m/index.m3u8
-#EXTINF:0 CUID="754" tvg-name="MTV×00" tvg-logo="https://logo.iptveditor.com/mtv00s.png" group-title="Musica",MTV×00
+#EXTINF:0 CUID="754" tvg-name="MTV×00" tvg-logo="https://logo.iptveditor.com/mtv00s.png" group-title="🎸 Musica",MTV×00
 http://200.55.244.75:8000/play/a053/index.m3u8
-#EXTINF:0 CUID="765" tvg-name="Quiero Musica" group-title="Musica",Quiero Musica
+#EXTINF:0 CUID="765" tvg-name="Quiero Musica" group-title="🎸 Musica",Quiero Musica
 http://200.55.244.75:8000/play/a02n/index.m3u8
 #EXTINF:0 CUID="305" tvg-name="HTV" tvg-logo="https://logo.iptveditor.com/htv.png" group-title="🎸 Música",HTV
 http://181.209.114.13:8000/play/a02o/index.m3u8
@@ -371,7 +371,6 @@ http://181.209.114.13:8000/play/a07g/index.m3u8
 
 
 DIRECT SPORTS
-
 
 
 
@@ -1629,16 +1628,4 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b218fc511d4b00070dd
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="PLUTO TV",Karaoke por Stingray
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
-
-
-Músicas 
-
-#EXTINF:0 CUID="753" tvg-name="MTV" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="Musica",MTV
-http://200.55.244.75:8000/play/a02m/index.m3u8
-#EXTINF:0 CUID="754" tvg-name="MTV×00" tvg-logo="https://logo.iptveditor.com/mtv00s.png" group-title="Musica",MTV×00
-http://200.55.244.75:8000/play/a053/index.m3u8
-#EXTINF:0 CUID="765" tvg-name="Quiero Musica" group-title="Musica",Quiero Musica
-http://200.55.244.75:8000/play/a02n/index.m3u8
-#EXTINF:0 CUID="305" tvg-name="HTV" tvg-logo="https://logo.iptveditor.com/htv.png" group-title="🎸 Música",HTV
-http://181.209.114.13:8000/play/a02o/index.m3u8
 
