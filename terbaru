@@ -1,4 +1,356 @@
-SIGAN INTENTANDO MODS DE MIERDA, PRONTO SE CAERÁN LOS GRUPOS!
-
-
-
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-name="SBT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais Abertos",SBT
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/36.ts
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-name="SBT HD" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais Abertos",SBT HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/186.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais Abertos",Globo SP
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/89.ts
+#EXTINF:-1 tvg-id="Globo - Rio de Janeiro [Brazil]" tvg-name="Globo RIO" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais Abertos",Globo RIO
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/574.ts
+#EXTINF:-1 tvg-id="TV Globo [Brazil]" tvg-name="Globo HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais Abertos",Globo HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/209.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais Abertos",Record
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/41.ts
+#EXTINF:-1 tvg-id="Record [Brazil]" tvg-name="Record HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais Abertos",Record HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/188.ts
+#EXTINF:-1 tvg-id="Rede TV [Brazil]" tvg-name="Rede TV" tvg-logo="http://i.imgur.com/mFIHvKN.png" group-title="Canais Abertos",Rede TV
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/39.ts
+#EXTINF:-1 tvg-id="Rede TV [Brazil]" tvg-name="Rede TV HD" tvg-logo="http://i.imgur.com/mFIHvKN.png" group-title="Canais Abertos",Rede TV HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/187.ts
+#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-name="Band" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais Abertos",Band
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/124.ts
+#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-name="Band Alternativo" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais Abertos",Band Alternativo
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/127.ts
+#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-name="Band HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais Abertos",Band HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/232.ts
+#EXTINF:-1 tvg-id="TruTV [Brazil]" tvg-name="TruTV" tvg-logo="http://i.imgur.com/U4VgGuN.png" group-title="Variedade",TruTV
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/10.ts
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="http://i.imgur.com/j6NjcTh.png" group-title="Variedade",Food Network
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/96.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Variedade",Comedy Central
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/113.ts
+#EXTINF:-1 tvg-id="Telecine Premium [Brazil]" tvg-name="Telecine Premium" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Filmes e Series",Telecine Premium
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/18.ts
+#EXTINF:-1 tvg-id="Telecine Premuim HD [Brazil]" tvg-name="Telecine Premium HD" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Filmes e Series",Telecine Premium HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/177.ts
+#EXTINF:-1 tvg-id="Telecine Action [Brazil]" tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Filmes e Series",Telecine Action
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/22.ts
+#EXTINF:-1 tvg-id="Telecine Action HD [Brazil]" tvg-name="Telecine Action HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Filmes e Series",Telecine Action HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/180.ts
+#EXTINF:-1 tvg-id="Telecine Touch [Brazil]" tvg-name="Telecine Touch" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Filmes e Series",Telecine Touch
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/17.ts
+#EXTINF:-1 tvg-id="Telecine Touch [Brazil]" tvg-name="Telecine Touch HD" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Filmes e Series",Telecine Touch HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/176.ts
+#EXTINF:-1 tvg-id="Telecine Fun [Brazil]" tvg-name="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Filmes e Series",Telecine Fun
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/20.ts
+#EXTINF:-1 tvg-id="Telecine Fun [Brazil]" tvg-name="Telecine Fun HD" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Filmes e Series",Telecine Fun HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/179.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca [Brazil]" tvg-name="Telecine Pipoca" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Filmes e Series",Telecine Pipoca
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/19.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca HD [Brazil]" tvg-name="Telecine Pipoca HD" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Filmes e Series",Telecine Pipoca HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/178.ts
+#EXTINF:-1 tvg-id="Telecine Cult [Brazil]" tvg-name="Telecine Cult" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="Filmes e Series",Telecine Cult
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/21.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Filmes e Series",HBO
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/84.ts
+#EXTINF:-1 tvg-id="HBO [Brazil]" tvg-name="HBO HD" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Filmes e Series",HBO HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/204.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Filmes e Series",HBO 2
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/79.ts
+#EXTINF:-1 tvg-id="HBO 2 [Brazil]" tvg-name="HBO 2 HD" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Filmes e Series",HBO 2 HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/206.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e Series",HBO Plus
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/82.ts
+#EXTINF:-1 tvg-id="HBO Plus [Brazil]" tvg-name="HBO Plus HD" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e Series",HBO Plus HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/203.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus *e" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e Series",HBO Plus *e
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/81.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Filmes e Series",HBO Signature
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/80.ts
+#EXTINF:-1 tvg-id="HBO Signature [Brazil]" tvg-name="HBO Signature HD" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Filmes e Series",HBO Signature HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/202.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Filmes e Series",HBO Family
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/83.ts
+#EXTINF:-1 tvg-id="HBO Family [Brazil]" tvg-name="HBO Family HD" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Filmes e Series",HBO Family HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/205.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX" tvg-logo="http://i.imgur.com/49eEDXa.png" group-title="Filmes e Series",MAX
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/73.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX Prime" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Series",MAX Prime
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/72.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime *e" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Series",Max Prime *e
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/71.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX UP" tvg-logo="http://i.imgur.com/tcr0CGl.png" group-title="Filmes e Series",MAX UP
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/70.ts
+#EXTINF:-1 tvg-id="Warner Channel [Brazil]" tvg-name="Warner Channel" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Filmes e Series",Warner Channel
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/2.ts
+#EXTINF:-1 tvg-id="Warner Channel HD [Brazil]" tvg-name="Warner Channel HD" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Filmes e Series",Warner Channel HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/571.ts
+#EXTINF:-1 tvg-id="Universal [Brazil]" tvg-name="Universal Channel" tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="Filmes e Series",Universal Channel
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/5.ts
+#EXTINF:-1 tvg-id="Universal [Brazil]" tvg-name="Universal Channels HD" tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="Filmes e Series",Universal Channels HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/173.ts
+#EXTINF:-1 tvg-id="TNT [Brazil]" tvg-name="TNT" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Filmes e Series",TNT
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/13.ts
+#EXTINF:-1 tvg-id="TNT HD [Brazil]" tvg-name="TNT HD" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Filmes e Series",TNT HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/175.ts
+#EXTINF:-1 tvg-id="TNT Séries [Brazil]" tvg-name="TNT Series" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Filmes e Series",TNT Series
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/12.ts
+#EXTINF:-1 tvg-id="TNT Séries [Brazil]" tvg-name="TNT Séries HD" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Filmes e Series",TNT Séries HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/174.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series FULLHD h265" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Filmes e Series",TNT Series FULLHD h265
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/570.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Filmes e Series",FOX
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/95.ts
+#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-name="FOX HD" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Filmes e Series",FOX HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/214.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Filmes e Series",Fox Life
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/94.ts
+#EXTINF:-1 tvg-id="Fox Life [Brazil]" tvg-name="FOX Life HD" tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Filmes e Series",FOX Life HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/213.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox 1 HD" tvg-logo="http://i.imgur.com/31mcLjv.jpg" group-title="Filmes e Series",Fox 1 HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/216.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Action HD" tvg-logo="http://i.imgur.com/sZrXsCH.jpg" group-title="Filmes e Series",Fox Action HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/215.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://i.imgur.com/JYislkb.png" group-title="Filmes e Series",AMC
+http://169.57.142.110:25461/live/vT1IRgVpET/CKSe5MXQK8/71.ts
+#EXTINF:-1 tvg-id="" tvg-name="MegaPix" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Filmes e Series",MegaPix
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/69.ts
+#EXTINF:-1 tvg-id="Megapix HD [Brazil]" tvg-name="Megapix HD" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Filmes e Series",Megapix HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/199.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Filmes e Series",Cinemax
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/115.ts
+#EXTINF:-1 tvg-id="Sony Entertainment TV [Brazil]" tvg-name="Canal Sony" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Filmes e Series",Canal Sony
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/118.ts
+#EXTINF:-1 tvg-id="Sony HD [Brazil]" tvg-name="Sony HD" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Filmes e Series",Sony HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/229.ts
+#EXTINF:-1 tvg-id="SPACE [Brazil]" tvg-name="Space" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Series",Space
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/32.ts
+#EXTINF:-1 tvg-id="Space HD [Brazil]" tvg-name="Space HD" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Series",Space HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/185.ts
+#EXTINF:-1 tvg-id="AXN [Brazil]" tvg-name="AXN" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Filmes e Series",AXN
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/128.ts
+#EXTINF:-1 tvg-id="AXN [Brazil]" tvg-name="AXN HD" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Filmes e Series",AXN HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/233.ts
+#EXTINF:-1 tvg-id="A&E [Brazil]" tvg-name="AE" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Filmes e Series",AE
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/132.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes e Series",FX
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/90.ts
+#EXTINF:-1 tvg-id="FX [Brazil]" tvg-name="FX HD" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes e Series",FX HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/210.ts
+#EXTINF:-1 tvg-id="SyFy [Brazil]" tvg-name="Syfy" tvg-logo="http://i.imgur.com/2lKk7Jw.png" group-title="Filmes e Series",Syfy
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/25.ts
+#EXTINF:-1 tvg-id="TCM - Turner Classic Movies [Brazil]" tvg-name="TCM" tvg-logo="http://i.imgur.com/4fLVLhF.png" group-title="Filmes e Series",TCM
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/23.ts
+#EXTINF:-1 tvg-id="Studio Universal [Brazil]" tvg-name="Studio Universal" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Filmes e Series",Studio Universal
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/26.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Series",Paramount
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/57.ts
+#EXTINF:-1 tvg-id="Paramount Channel [Brazil]" tvg-name="Paramount HD" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Series",Paramount HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/194.ts
+#EXTINF:-1 tvg-id="TBS [Brazil]" tvg-name="TBS" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Series",TBS
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/24.ts
+#EXTINF:-1 tvg-id="TBS [Brazil]" tvg-name="TBS HD" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Series",TBS HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/181.ts
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://i.imgur.com/VVMxDJG.png" group-title="Filmes e Series",E!
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/102.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="http://i.imgur.com/tsFolbI.png" group-title="Filmes e Series",Lifetime
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/75.ts
+#EXTINF:-1 tvg-id="WooHoo [Brazil]" tvg-name="Woohoo" tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="Esportes",Woohoo
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/1.ts
+#EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-name="SporTV" tvg-logo="http://i.imgur.com/gDHSHwM.png" group-title="Esportes",SporTV
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/31.ts
+#EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-name="Sport TV HD" tvg-logo="http://i.imgur.com/gDHSHwM.png" group-title="Esportes",Sport TV HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/182.ts
+#EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-name="SporTV Alternativo" tvg-logo="http://i.imgur.com/gDHSHwM.png" group-title="Esportes",SporTV Alternativo
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/27.ts
+#EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-name="SporTV 2" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Esportes",SporTV 2
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/30.ts
+#EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-name="Sport TV 2 HD" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Esportes",Sport TV 2 HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/184.ts
+#EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-name="SporTV 2 Alternativo" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Esportes",SporTV 2 Alternativo
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/29.ts
+#EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-name="SporTV 3" tvg-logo="http://s29.postimg.org/6gznfk6tv/Spor_TV3.png" group-title="Esportes",SporTV 3
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/28.ts
+#EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-name="Sport TV 3 HD" tvg-logo="http://s29.postimg.org/6gznfk6tv/Spor_TV3.png" group-title="Esportes",Sport TV 3 HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/183.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",Fox Sports
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/93.ts
+#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-name="Fox Sport HD" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",Fox Sport HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/212.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",Fox Sports 2
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/92.ts
+#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" tvg-name="FOX Sports 2 HD" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",FOX Sports 2 HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/211.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="Esportes",ESPN
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/99.ts
+#EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-name="ESPN HD" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="Esportes",ESPN HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/218.ts
+#EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-name="ESPN  HD" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="Esportes",ESPN  HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/220.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/98.ts
+#EXTINF:-1 tvg-id="ESPN Brasil [Brazil]" tvg-name="ESPN Brasil HD" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/219.ts
+#EXTINF:-1 tvg-id="Band Esportes [Brazil]" tvg-name="Band Sports" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Esportes",Band Sports
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/125.ts
+#EXTINF:-1 tvg-id="Band Esportes [Brazil]" tvg-name="Band Sports HD" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Esportes",Band Sports HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/231.ts
+#EXTINF:-1 tvg-id="Esporte Interativo [Brazil]" tvg-name="Esporte Interativo" tvg-logo="http://i.imgur.com/OpkyrD1.png" group-title="Esportes",Esporte Interativo
+http://169.57.142.110:25461/live/nNCfg87gFZ/FjyVMkDdpL/48.ts
+#EXTINF:-1 tvg-id="Esporte Interativo [Brazil]" tvg-name="Esporte Interativo HD" tvg-logo="http://i.imgur.com/OpkyrD1.png" group-title="Esportes",Esporte Interativo HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/217.ts
+#EXTINF:-1 tvg-id="" tvg-name="EI Maxx" tvg-logo="http://i.imgur.com/OpkyrD1.png" group-title="Esportes",EI Maxx
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/101.ts
+#EXTINF:-1 tvg-id="EI Maxx HD [Brazil]" tvg-name="Ei Maxx HD" tvg-logo="http://i.imgur.com/OpkyrD1.png" group-title="Esportes",Ei Maxx HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/221.ts
+#EXTINF:-1 tvg-id="" tvg-name="EI Maxx 2" tvg-logo="http://i.imgur.com/OpkyrD1.png" group-title="Esportes",EI Maxx 2
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/100.ts
+#EXTINF:-1 tvg-id="EI Maxx 2 [Brazil]" tvg-name="Ei Maxx 2 HD" tvg-logo="http://i.imgur.com/OpkyrD1.png" group-title="Esportes",Ei Maxx 2 HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/222.ts
+#EXTINF:-1 tvg-id="" tvg-name="Combate" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Esportes",Combate
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/114.ts
+#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-name="Combate HD" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Esportes",Combate HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/228.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere Clubes
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/46.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 1 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 1 HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/193.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 2
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/54.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 2 HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/192.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 3
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/53.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 3 HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/191.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 4
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/52.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 4 HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/190.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 5
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/51.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 5 HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/189.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 6
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/50.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 7
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/49.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 8
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/48.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 9" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 9
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/47.ts
+#EXTINF:-1 tvg-id="" tvg-name="OFF" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Musicas",OFF
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/58.ts
+#EXTINF:-1 tvg-id="Canal Off [Brazil]" tvg-name="OFF HD" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Musicas",OFF HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/195.ts
+#EXTINF:-1 tvg-id="Bis HD [Brazil]" tvg-name="BIS" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Musicas",BIS
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/122.ts
+#EXTINF:-1 tvg-id="Bis HD [Brazil]" tvg-name="BIS HD" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Musicas",BIS HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/230.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIS FULLHD h265" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Musicas",BIS FULLHD h265
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/573.ts
+#EXTINF:-1 tvg-id="" tvg-name="Multishow" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Musicas",Multishow
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/67.ts
+#EXTINF:-1 tvg-id="Multishow [Brazil]" tvg-name="Multishow HD" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Musicas",Multishow HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/198.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Musicas",MTV
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/68.ts
+#EXTINF:-1 tvg-id="VH1 Mega Hits [Brazil]" tvg-name="VH1 Megahits" tvg-logo="http://i.imgur.com/ST4gtJb.png" group-title="Musicas",VH1 Megahits
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/4.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil" tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Musicas",Music Box Brazil
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/66.ts
+#EXTINF:-1 tvg-id="" tvg-name="Virgin TV" tvg-logo="http://i.imgur.com/vxy7x7E.png" group-title="Musicas",Virgin TV
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/239.ts
+#EXTINF:-1 tvg-id="" tvg-name="DJinG" tvg-logo="http://s20.postimg.org/4i8o6fouh/DHING.jpg" group-title="Musicas",DJinG
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/238.ts
+#EXTINF:-1 tvg-id="Rede Internacional de TV [Brazil]" tvg-name="RIT" tvg-logo="http://i.imgur.com/6cNzaQA.png" group-title="Religiosos",RIT
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/37.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ideal TV" tvg-logo="http://i.imgur.com/8KpJXf4.png" group-title="Religiosos",Ideal TV
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/76.ts
+#EXTINF:-1 tvg-id="" tvg-name="Novo Tempo" tvg-logo="http://i.imgur.com/SHSp3jK.png" group-title="Religiosos",Novo Tempo
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/59.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aparecida" tvg-logo="http://i.imgur.com/UOMWJH6.png" group-title="Religiosos",Aparecida
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/130.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cancao Nova" tvg-logo="http://i.imgur.com/wVxLluR.png" group-title="Religiosos",Cancao Nova
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/117.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Filadelfia" tvg-logo="http://i.imgur.com/70YWjm7.png" group-title="Religiosos",TV Filadelfia
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/237.ts
+#EXTINF:-1 tvg-id="Rede Vida [Brazil]" tvg-name="Rede Vida" tvg-logo="http://i.imgur.com/3DDTajO.png" group-title="Religiosos",Rede Vida
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/38.ts
+#EXTINF:-1 tvg-id="" tvg-name="RBI" tvg-logo="http://i.imgur.com/BtATkqN.png" group-title="Religiosos",RBI
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/44.ts
+#EXTINF:-1 tvg-id="Tooncast [Brazil]" tvg-name="Tooncast" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Infantil",Tooncast
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/11.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Infantil",Disney Channel
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/105.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantil",Disney XD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/103.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr" tvg-logo="http://i.imgur.com/60JkJAz.png" group-title="Infantil",Disney Jr
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/104.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr.
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/61.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nickelodeon
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/60.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Infantil",Discovery Kids
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/108.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Infantil",Cartoon Network
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/116.ts
+#EXTINF:-1 tvg-id="TV Rá-tim-bum [Brazil]" tvg-name="TV Ra tim bum" tvg-logo="http://i.imgur.com/pqb2u5X.png" group-title="Infantil",TV Ra tim bum
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/7.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gloob" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantil",Gloob
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/87.ts
+#EXTINF:-1 tvg-id="Boomerang [Brazil]" tvg-name="Boomerang" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Infantil",Boomerang
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/121.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="http://i.imgur.com/UgmPkZ0.png" group-title="Documentarios",Nat Geo
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/64.ts
+#EXTINF:-1 tvg-id="Nat Geo [Brazil]" tvg-name="Nat Geo HD" tvg-logo="http://i.imgur.com/UgmPkZ0.png" group-title="Documentarios",Nat Geo HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/196.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild" tvg-logo="http://i.imgur.com/QouD1hh.png" group-title="Documentarios",NatGeo Wild
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/65.ts
+#EXTINF:-1 tvg-id="Nat Geo Wild HD [Brazil]" tvg-name="NatGeoWild HD" tvg-logo="http://i.imgur.com/QouD1hh.png" group-title="Documentarios",NatGeoWild HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/197.ts
+#EXTINF:-1 tvg-id="Animal Planet [Brazil]" tvg-name="Animal Planet" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Documentarios",Animal Planet
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/131.ts
+#EXTINF:-1 tvg-id="Animal Planet [Brazil]" tvg-name="Animal Planet HD" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Documentarios",Animal Planet HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/234.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV" tvg-logo="http://i.imgur.com/IroXP7H.png" group-title="Documentarios",Fish TV
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/97.ts
+#EXTINF:-1 tvg-id="History Channel [Brazil]" tvg-name="History Channel" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentarios",History Channel
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/15.ts
+#EXTINF:-1 tvg-id="History Channel HD [Brazil]" tvg-name="History Channel HD" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentarios",History Channel HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/201.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="Documentarios",H2
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/85.ts
+#EXTINF:-1 tvg-id="H2 HD [Brazil]" tvg-name="H2 HD" tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="Documentarios",H2 HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/207.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://s13.postimg.io/msb5b9u7r/discchannel.png" group-title="Documentarios",Discovery Channel
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/111.ts
+#EXTINF:-1 tvg-id="Discovery Channel [Brazil]" tvg-name="Discovery Channel HD" tvg-logo="https://s13.postimg.io/msb5b9u7r/discchannel.png" group-title="Documentarios",Discovery Channel HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/227.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="http://i.imgur.com/dN249KE.png" group-title="Documentarios",Discovery Civilization
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/110.ts
+#EXTINF:-1 tvg-id="Discovery HD Theater [Brazil]" tvg-name="Discovery Theater HD" tvg-logo="http://i.imgur.com/VZH1x36.png" group-title="Documentarios",Discovery Theater HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/225.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="http://i.imgur.com/4JC0BcV.png" group-title="Documentarios",Discovery World HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/223.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://i.imgur.com/Dx49y4f.png" group-title="Documentarios",Discovery Science
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/107.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Documentarios",Discovery Turbo
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/106.ts
+#EXTINF:-1 tvg-id="Discovery Turbo [Brazil]" tvg-name="Discovery Turbo HD" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Documentarios",Discovery Turbo HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/224.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home Health" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Documentarios",Discovery Home Health
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/109.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health [Brazil]" tvg-name="Discovery Home Health HD" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Documentarios",Discovery Home Health HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/226.ts
+#EXTINF:-1 tvg-id="" tvg-name="Investigação Discovery" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Documentarios",Investigação Discovery
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/77.ts
+#EXTINF:-1 tvg-id="Investigação Discovery [Brazil]" tvg-name="ID - Investigação Discovery HD" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Documentarios",ID - Investigação Discovery HD
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/200.ts
+#EXTINF:-1 tvg-id="TLC [Brazil]" tvg-name="TLC" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Documentarios",TLC
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/14.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Notícias",Record News
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/42.ts
+#EXTINF:-1 tvg-id="Band News [Brazil]" tvg-name="Band News" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Notícias",Band News
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/126.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo News" tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Notícias",Globo News
+http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/88.ts
