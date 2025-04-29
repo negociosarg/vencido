@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:0 CUID="803" tvg-name="el trece HD" tvg-logo="https://logo.iptveditor.com/eltrece.png" group-title="TV Argentina",el trece HD
 http://200.55.244.75:8000/play/a0bg/index.m3u8
@@ -74,10 +73,17 @@ http://200.55.244.75:8000/play/a06e/index.m3u8
 http://200.55.244.75:8000/play/a02g/index.m3u8
 #EXTINF:0 CUID="770" tvg-name="Somos Uno" tvg-logo="https://logo.iptveditor.com/somos.png" group-title="TV Argentina",Somos Uno
 http://200.55.244.75:8000/play/a0en/index.m3u8
-#EXTINF:0 CUID="804" tvg-name="TNT Sports HD" tvg-logo="https://logo.iptveditor.com/tntsports.png" group-title="Pack Futbol Argentino",TNT Sports HD
+#EXTINF:0 CUID="781" tvg-name="TN HD"tvg-logo="https://logo.iptveditor.com/todonoticias.png"group-title="TV Argentina",TN HD
+http://200.55.244.75:8000/play/a058/index.m3u8
+
+
+
+#EXTINF:0 CUID="804" tvg-name="TNT Sports HD" tvg-logo="https://logo.iptveditor.com/tntsports.png" group-title="⚽ Pack Futbol Argentino",TNT Sports HD
 http://200.55.244.75:8000/play/a0bc/index.m3u8
-#EXTINF:0 CUID="805" tvg-name="ESPN Premium HD" tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="Pack Futbol Argentino",ESPN Premium HD
+#EXTINF:0 CUID="805" tvg-name="ESPN Premium HD" tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="⚽ Pack Futbol Argentino",ESPN Premium HD
 http://200.55.244.75:8000/play/a078/index.m3u8
+
+
 #EXTINF:0 CUID="675" tvg-name="Baby TV" tvg-logo="https://logo.iptveditor.com/babytv.png" group-title="Infantiles",Baby TV
 http://200.55.244.75:8000/play/a02e/index.m3u8
 #EXTINF:0 CUID="694" tvg-name="Cartoon Network HD" tvg-logo="https://logo.iptveditor.com/cartoonnetwork.png" group-title="Infantiles",Cartoon Network HD
@@ -96,68 +102,73 @@ http://200.55.244.75:8000/play/a04z/index.m3u8
 http://200.55.244.75:8000/play/a0e3/index.m3u8
 #EXTINF:0 CUID="761" tvg-name="Pakapaka" tvg-logo="https://logo.iptveditor.com/pakapaka.png" group-title="Infantiles",Pakapaka
 http://200.55.244.75:8000/play/a01n/index.m3u8
-#EXTINF:0 CUID="665" tvg-name="A&E HD" tvg-logo="https://logo.iptveditor.com/ae.png" group-title="Cine, Novelas y Series",A&E HD
+
+
+
+
+#EXTINF:0 CUID="665" tvg-name="A&E HD" tvg-logo="https://logo.iptveditor.com/ae.png" group-title="🎞️ Cine, Novelas y Series",A&E HD
 http://200.55.244.75:8000/play/a05i/index.m3u8
-#EXTINF:0 CUID="752" tvg-name="Lifetime" tvg-logo="https://logo.iptveditor.com/lifetime.png" group-title="Cine, Novelas y Series",Lifetime
+#EXTINF:0 CUID="752" tvg-name="Lifetime" tvg-logo="https://logo.iptveditor.com/lifetime.png" group-title="🎞️ Cine, Novelas y Series",Lifetime
 http://200.55.244.75:8000/play/a06n/index.m3u8
-#EXTINF:0 CUID="771" tvg-name="Sony HD" tvg-logo="https://logo.iptveditor.com/sony.png" group-title="Cine, Novelas y Series",Sony HD
+#EXTINF:0 CUID="771" tvg-name="Sony HD" tvg-logo="https://logo.iptveditor.com/sony.png" group-title="🎞️ Cine, Novelas y Series",Sony HD
 http://200.55.244.75:8000/play/a05d/index.m3u8
-#EXTINF:0 CUID="695" tvg-name="Cine.AR" tvg-logo="https://logo.iptveditor.com/cine.png" group-title="Cine, Novelas y Series",Cine.AR
+#EXTINF:0 CUID="695" tvg-name="Cine.AR" tvg-logo="https://logo.iptveditor.com/cine.png" group-title="🎞️ Cine, Novelas y Series",Cine.AR
 http://200.55.244.75:8000/play/a024/index.m3u8
-#EXTINF:0 CUID="696" tvg-name="Cinecanal HD" tvg-logo="https://logo.iptveditor.com/cinecanal.png" group-title="Cine, Novelas y Series",Cinecanal HD
+#EXTINF:0 CUID="696" tvg-name="Cinecanal HD" tvg-logo="https://logo.iptveditor.com/cinecanal.png" group-title="🎞️ Cine, Novelas y Series",Cinecanal HD
 http://200.55.244.75:8000/play/a07b/index.m3u8
-#EXTINF:0 CUID="772" tvg-name="Sony Movies HD" tvg-logo="https://logo.iptveditor.com/sonymovies.png" group-title="Cine, Novelas y Series",Sony Movies HD
+#EXTINF:0 CUID="772" tvg-name="Sony Movies HD" tvg-logo="https://logo.iptveditor.com/sonymovies.png" group-title="🎞️ Cine, Novelas y Series",Sony Movies HD
 http://200.55.244.75:8000/play/a05k/index.m3u8
-#EXTINF:0 CUID="774" tvg-name="Star Channel HD" tvg-logo="https://logo.iptveditor.com/starchannel.png" group-title="Cine, Novelas y Series",Star Channel HD
+#EXTINF:0 CUID="774" tvg-name="Star Channel HD" tvg-logo="https://logo.iptveditor.com/starchannel.png" group-title="🎞️ Cine, Novelas y Series",Star Channel HD
 http://200.55.244.75:8000/play/a079/index.m3u8
-#EXTINF:0 CUID="697" tvg-name="Cinemax" tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="Cine, Novelas y Series",Cinemax
+#EXTINF:0 CUID="697" tvg-name="Cinemax" tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="🎞️ Cine, Novelas y Series",Cinemax
 http://200.55.244.75:8000/play/a04s/index.m3u8
-#EXTINF:0 CUID="698" tvg-name="Comedy Central HD" tvg-logo="https://logo.iptveditor.com/comedycentral.png" group-title="Cine, Novelas y Series",Comedy Central HD
+#EXTINF:0 CUID="698" tvg-name="Comedy Central HD" tvg-logo="https://logo.iptveditor.com/comedycentral.png" group-title="🎞️ Cine, Novelas y Series",Comedy Central HD
 http://200.55.244.75:8000/play/a02x/index.m3u8
-#EXTINF:0 CUID="775" tvg-name="Studio Universal" tvg-logo="https://logo.iptveditor.com/studiouniversal.png" group-title="Cine, Novelas y Series",Studio Universal
+#EXTINF:0 CUID="775" tvg-name="Studio Universal" tvg-logo="https://logo.iptveditor.com/studiouniversal.png" group-title="🎞️ Cine, Novelas y Series",Studio Universal
 http://200.55.244.75:8000/play/a022/index.m3u8
-#EXTINF:0 CUID="780" tvg-name="TLNovelas" tvg-logo="https://logo.iptveditor.com/tlnovelas.png" group-title="Cine, Novelas y Series",TLNovelas
+#EXTINF:0 CUID="780" tvg-name="TLNovelas" tvg-logo="https://logo.iptveditor.com/tlnovelas.png" group-title="🎞️ Cine, Novelas y Series",TLNovelas
 http://200.55.244.75:8000/play/a0ae/index.m3u8
-#EXTINF:0 CUID="730" tvg-name="Europa Europa" tvg-logo="https://logo.iptveditor.com/europaeuropa.png" group-title="Cine, Novelas y Series",Europa Europa
+#EXTINF:0 CUID="730" tvg-name="Europa Europa" tvg-logo="https://logo.iptveditor.com/europaeuropa.png" group-title="🎞️ Cine, Novelas y Series",Europa Europa
 http://200.55.244.75:8000/play/a06v/index.m3u8
-#EXTINF:0 CUID="781" tvg-name="TN HD" group-title="Cine, Novelas y Series",TN HD
-http://200.55.244.75:8000/play/a058/index.m3u8
-#EXTINF:0 CUID="732" tvg-name="FX HD" tvg-logo="https://logo.iptveditor.com/fx.png" group-title="Cine, Novelas y Series",FX HD
+#EXTINF:0 CUID="732" tvg-name="FX HD" tvg-logo="https://logo.iptveditor.com/fx.png" group-title="🎞️ Cine, Novelas y Series",FX HD
 http://200.55.244.75:8000/play/a02v/index.m3u8
-#EXTINF:0 CUID="782" tvg-name="TNT HD" tvg-logo="https://logo.iptveditor.com/tnt.png" group-title="Cine, Novelas y Series",TNT HD
+#EXTINF:0 CUID="782" tvg-name="TNT HD" tvg-logo="https://logo.iptveditor.com/tnt.png" group-title="🎞️ Cine, Novelas y Series",TNT HD
 http://200.55.244.75:8000/play/a07d/index.m3u8
-#EXTINF:0 CUID="733" tvg-name="Film & Arts HD" tvg-logo="https://logo.iptveditor.com/filmarts.png" group-title="Cine, Novelas y Series",Film & Arts HD
+#EXTINF:0 CUID="733" tvg-name="Film & Arts HD" tvg-logo="https://logo.iptveditor.com/filmarts.png" group-title="🎞️ Cine, Novelas y Series",Film & Arts HD
 http://200.55.244.75:8000/play/a030/index.m3u8
-#EXTINF:0 CUID="773" tvg-name="Space HD" tvg-logo="https://logo.iptveditor.com/space.png" group-title="Cine, Novelas y Series",Space HD
+#EXTINF:0 CUID="773" tvg-name="Space HD" tvg-logo="https://logo.iptveditor.com/space.png" group-title="🎞️ Cine, Novelas y Series",Space HD
 http://200.55.244.75:8000/play/a02w/index.m3u8
-#EXTINF:0 CUID="783" tvg-name="TNT Novelas HD" tvg-logo="https://logo.iptveditor.com/tntnovelas.png" group-title="Cine, Novelas y Series",TNT Novelas HD
+#EXTINF:0 CUID="783" tvg-name="TNT Novelas HD" tvg-logo="https://logo.iptveditor.com/tntnovelas.png" group-title="🎞️ Cine, Novelas y Series",TNT Novelas HD
 http://200.55.244.75:8000/play/a07g/index.m3u8
-#EXTINF:0 CUID="777" tvg-name="TCM" tvg-logo="https://logo.iptveditor.com/tcm.png" group-title="Cine, Novelas y Series",TCM
+#EXTINF:0 CUID="777" tvg-name="TCM" tvg-logo="https://logo.iptveditor.com/tcm.png" group-title="🎞️ Cine, Novelas y Series",TCM
 http://200.55.244.75:8000/play/a020/index.m3u8
-#EXTINF:0 CUID="797" tvg-name="Universal HD" tvg-logo="https://logo.iptveditor.com/universal.png" group-title="Cine, Novelas y Series",Universal HD
+#EXTINF:0 CUID="797" tvg-name="Universal HD" tvg-logo="https://logo.iptveditor.com/universal.png" group-title="🎞️ Cine, Novelas y Series",Universal HD
 http://200.55.244.75:8000/play/a05j/index.m3u8
-#EXTINF:0 CUID="784" tvg-name="TNT Series HD" tvg-logo="https://logo.iptveditor.com/tntseries.png" group-title="Cine, Novelas y Series",TNT Series HD
+#EXTINF:0 CUID="784" tvg-name="TNT Series HD" tvg-logo="https://logo.iptveditor.com/tntseries.png" group-title="🎞️ Cine, Novelas y Series",TNT Series HD
 http://200.55.244.75:8000/play/a07e/index.m3u8
-#EXTINF:0 CUID="799" tvg-name="Volver" tvg-logo="https://logo.iptveditor.com/volver.png" group-title="Cine, Novelas y Series",Volver
+#EXTINF:0 CUID="799" tvg-name="Volver" tvg-logo="https://logo.iptveditor.com/volver.png" group-title="🎞️ Cine, Novelas y Series",Volver
 http://200.55.244.75:8000/play/a021/index.m3u8
-#EXTINF:0 CUID="668" tvg-name="AMC" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="Cine, Novelas y Series",AMC
+#EXTINF:0 CUID="668" tvg-name="AMC" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="🎞️ Cine, Novelas y Series",AMC
 http://200.55.244.75:8000/play/a01z/index.m3u8
-#EXTINF:0 CUID="671" tvg-name="AXN HD" tvg-logo="https://logo.iptveditor.com/axn.png" group-title="Cine, Novelas y Series",AXN HD
+#EXTINF:0 CUID="671" tvg-name="AXN HD" tvg-logo="https://logo.iptveditor.com/axn.png" group-title="🎞️ Cine, Novelas y Series",AXN HD
 http://200.55.244.75:8000/play/a05f/index.m3u8
-#EXTINF:0 CUID="686" tvg-name="CINE.AR" tvg-logo="https://logo.iptveditor.com/cine.png" group-title="Cine, Novelas y Series",CINE.AR
+#EXTINF:0 CUID="686" tvg-name="CINE.AR" tvg-logo="https://logo.iptveditor.com/cine.png" group-title="🎞️ Cine, Novelas y Series",CINE.AR
 http://200.55.244.75:8000/play/a0e5/index.m3u8
-#EXTINF:0 CUID="687" tvg-name="CINE.AR HD" tvg-logo="https://logo.iptveditor.com/cine.png" group-title="Cine, Novelas y Series",CINE.AR HD
+#EXTINF:0 CUID="687" tvg-name="CINE.AR HD" tvg-logo="https://logo.iptveditor.com/cine.png" group-title="🎞️ Cine, Novelas y Series",CINE.AR HD
 http://200.55.244.75:8000/play/a0dk/index.m3u8
-#EXTINF:0 CUID="762" tvg-name="Paramount HD" tvg-logo="https://logo.iptveditor.com/paramount.png" group-title="Cine, Novelas y Series",Paramount HD
+#EXTINF:0 CUID="762" tvg-name="Paramount HD" tvg-logo="https://logo.iptveditor.com/paramount.png" group-title="🎞️ Cine, Novelas y Series",Paramount HD
 http://200.55.244.75:8000/play/a02y/index.m3u8
-#EXTINF:0 CUID="726" tvg-name="El Canal  de las Estrellas" tvg-logo="https://logo.iptveditor.com/canallasestrellas.png" group-title="Cine, Novelas y Series",El Canal  de las Estrellas
+#EXTINF:0 CUID="726" tvg-name="El Canal  de las Estrellas" tvg-logo="https://logo.iptveditor.com/canallasestrellas.png" group-title="🎞️ Cine, Novelas y Series",El Canal  de las Estrellas
 http://200.55.244.75:8000/play/a06z/index.m3u8
-#EXTINF:0 CUID="763" tvg-name="Pasiones HD" tvg-logo="https://logo.iptveditor.com/pasiones.png" group-title="Cine, Novelas y Series",Pasiones HD
+#EXTINF:0 CUID="763" tvg-name="Pasiones HD" tvg-logo="https://logo.iptveditor.com/pasiones.png" group-title="🎞️ Cine, Novelas y Series",Pasiones HD
 http://200.55.244.75:8000/play/a0d7/index.m3u8
-#EXTINF:0 CUID="800" tvg-name="Warner Channel HD" tvg-logo="https://logo.iptveditor.com/warnerchannel.png" group-title="Cine, Novelas y Series",Warner Channel HD
+#EXTINF:0 CUID="800" tvg-name="Warner Channel HD" tvg-logo="https://logo.iptveditor.com/warnerchannel.png" group-title="🎞️Cine, Novelas y Series",Warner Channel HD
 http://200.55.244.75:8000/play/a05e/index.m3u8
-#EXTINF:0 CUID="672" tvg-name="Adult swim HD" tvg-logo="https://logo.iptveditor.com/adultswim.png" group-title="Cine, Novelas y Series",Adult swim HD
+#EXTINF:0 CUID="672" tvg-name="Adult swim HD" tvg-logo="https://logo.iptveditor.com/adultswim.png" group-title="🎞️ Cine, Novelas y Series",Adult swim HD
 http://200.55.244.75:8000/play/a0dd/index.m3u8
+
+
+
 #EXTINF:0 CUID="701" tvg-name="DeporTV" tvg-logo="https://logo.iptveditor.com/deportv.png" group-title="Deportes Argentina",DeporTV
 http://200.55.244.75:8000/play/a06h/index.m3u8
 #EXTINF:0 CUID="717" tvg-name="ESPN 2 HD" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="Deportes Argentina",ESPN 2 HD
@@ -190,8 +201,31 @@ http://200.55.244.75:8000/play/a078/index.m3u8
 http://200.55.244.75:8000/play/a01v/index.m3u8
 #EXTINF:0 CUID="711" tvg-name="E! Entertainment" tvg-logo="https://logo.iptveditor.com/eentertainment.png" group-title="Entretenimiento",E! Entertainment
 http://200.55.244.75:8000/play/a050/index.m3u8
+
+#EXTINF:0 CUID="249" tvg-name="TYC SPORTS (PLAY 1)" tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="🇦🇷 TyC Sports Play",TYC SPORTS (PLAY 1)
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
+#EXTINF:0 CUID="250" tvg-name="TYC SPORTS (PLAY 2)" tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="🇦🇷 TyC Sports Play",TYC SPORTS (PLAY 2)
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+#EXTINF:0 CUID="251" tvg-name="TYC SPORTS (PLAY 3)" tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="🇦🇷 TyC Sports Play",TYC SPORTS (PLAY 3)
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
+#EXTINF:0 CUID="252" tvg-name="TYC SPORTS (PLAY 4)" tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="🇦🇷 TyC Sports Play",TYC SPORTS (PLAY 4)
+https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8
+#EXTINF:0 CUID="253" tvg-name="TYC SPORTS (PLAY 5)" tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="🇦🇷 TyC Sports Play",TYC SPORTS (PLAY 5)
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+#EXTINF:0 CUID="254" tvg-name="TYC SPORTS (PLAY 6)" tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="🇦🇷 TyC Sports Play",TYC SPORTS (PLAY 6)
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+#EXTINF:0 CUID="255" tvg-name="TYC SPORTS (PLAY 7)" tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="🇦🇷 TyC Sports Play",TYC SPORTS (PLAY 7)
+https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
+#EXTINF:0 CUID="256" tvg-name="TYC SPORTS (PLAY 8)" tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="🇦🇷 TyC Sports Play",TYC SPORTS (PLAY 8)
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+#EXTINF:0 CUID="257" tvg-name="TYC SPORTS (PLAY 9)" tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="🇦🇷 TyC Sports Play",TYC SPORTS (PLAY 9)
+https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+#EXTINF:0 CUID="258" tvg-name="TYC SPORTS (PLAY 10)" tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="🇦🇷 TyC Sports Play",TYC SPORTS (PLAY 10)
+https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
+
+
 #EXTINF:0 CUID="738" tvg-name="HBO" tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="Pack HBO",HBO
-http://200.55.244.75:8000/play/a06o/index.m3u8
+http://181.209.114.13:8000/play/a06o/index.m3u8
 #EXTINF:0 CUID="738" tvg-name="HBO" tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="Pack HBO",HBO OP2
 http://tvunico.site/live/Goldtv2025/Goldtv2025/576901.m3u8
 #EXTINF:0 CUID="739" tvg-name="HBO 2" tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="Pack HBO",HBO 2
@@ -201,25 +235,70 @@ http://200.55.244.75:8000/play/a06r/index.m3u8
 #EXTINF:0 CUID="741" tvg-name="HBO Mundi" tvg-logo="https://logo.iptveditor.com/hbomundi.png" group-title="Pack HBO",HBO Mundi
 http://200.55.244.75:8000/play/a02a/index.m3u8
 #EXTINF:0 CUID="742" tvg-name="HBO Plus" tvg-logo="https://logo.iptveditor.com/hboplus.png" group-title="Pack HBO",HBO Plus
-http://200.55.244.75:8000/play/a06p/index.m3u8
+http://181.209.114.13:8000/play/a06p/index.m3u8
 #EXTINF:0 CUID="742" tvg-name="HBO Plus" tvg-logo="https://logo.iptveditor.com/hboplus.png" group-title="Pack HBO",HBO Plus OP2
 http://tvunico.site/live/Goldtv2025/Goldtv2025/581403.m3u8
 #EXTINF:0 CUID="743" tvg-name="HBO Signature" tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-title="Pack HBO",HBO Signature
 http://200.55.244.75:8000/play/a02c/index.m3u8
 #EXTINF:0 CUID="744" tvg-name="HBO Xtreme" tvg-logo="https://logo.iptveditor.com/hboxtreme.png" group-title="Pack HBO",HBO Xtreme
 http://200.55.244.75:8000/play/a02b/index.m3u8
+
+
+#EXTINF:0 CUID="287" tvg-name="CNN en Espaæol" tvg-logo="https://logo.iptveditor.com/cnnenespaol.png" group-title="🟪Variedades",CNN en Espaæol
+http://181.209.114.13:8000/play/a054/index.m3u8
+#EXTINF:0 CUID="288" tvg-name="Discovery Channel HD" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="🟪Variedades",Discovery Channel HD
+http://181.209.114.13:8000/play/a07i/index.m3u8
+#EXTINF:0 CUID="289" tvg-name="Discovery H&H HD" tvg-logo="https://logo.iptveditor.com/discovery.png" group-title="🟪Variedades",Discovery H&H HD
+http://181.209.114.13:8000/play/a07h/index.m3u8
+#EXTINF:0 CUID="290" tvg-name="Discovery Science" tvg-logo="https://logo.iptveditor.com/discoveryscience.png" group-title="🟪Variedades",Discovery Science
+http://181.209.114.13:8000/play/a02k/index.m3u8
+#EXTINF:0 CUID="291" tvg-name="Discovery Theater HD" tvg-logo="https://logo.iptveditor.com/discoverytheater.png" group-title="🟪Variedades",Discovery Theater HD
+http://181.209.114.13:8000/play/a02z/index.m3u8
+#EXTINF:0 CUID="292" tvg-name="Discovery Turbo" tvg-logo="https://logo.iptveditor.com/discoveryturbo.png" group-title="🟪Variedades",Discovery Turbo
+http://181.209.114.13:8000/play/a01w/index.m3u8
+#EXTINF:0 CUID="293" tvg-name="Discovery World HD" tvg-logo="https://logo.iptveditor.com/discoveryworld.png" group-title="🟪Variedades",Discovery World HD
+http://181.209.114.13:8000/play/a031/index.m3u8
+#EXTINF:0 CUID="294" tvg-name="E! Entertainment" tvg-logo="https://logo.iptveditor.com/eentertainment.png" group-title="🟪Variedades",E! Entertainment
+http://181.209.114.13:8000/play/a050/index.m3u8
+#EXTINF:0 CUID="295" tvg-name="El Canal  de las Estrellas" tvg-logo="https://logo.iptveditor.com/canallasestrellas.png" group-title="🟪Variedades",El Canal  de las Estrellas
+http://181.209.114.13:8000/play/a06z/index.m3u8
+#EXTINF:0 CUID="296" tvg-name="El Gourmet" tvg-logo="https://logo.iptveditor.com/elgourmet.png" group-title="🟪Variedades",El Gourmet
+http://181.209.114.13:8000/play/a06w/index.m3u8
+#EXTINF:0 CUID="297" tvg-name="Film & Arts HD" tvg-logo="https://logo.iptveditor.com/filmarts.png" group-title="🟪Variedades",Film & Arts HD
+http://181.209.114.13:8000/play/a030/index.m3u8
+#EXTINF:0 CUID="298" tvg-name="HGTV" tvg-logo="https://logo.iptveditor.com/hgtv.png" group-title="🟪Variedades",HGTV
+http://181.209.114.13:8000/play/a02j/index.m3u8
+#EXTINF:0 CUID="299" tvg-name="The History Channel HD" tvg-logo="https://logo.iptveditor.com/thehistorychannel.png" group-title="🟪Variedades",The History Channel HD
+http://181.209.114.13:8000/play/a05h/index.m3u8
+#EXTINF:0 CUID="300" tvg-name="History Channel" tvg-logo="https://logo.iptveditor.com/historychannel.png" group-title="🟪Variedades",History Channel
+http://181.209.114.13:8000/play/a051/index.m3u8
+#EXTINF:0 CUID="301" tvg-name="Lifetime" tvg-logo="https://logo.iptveditor.com/lifetime.png" group-title="🟪Variedades",Lifetime
+http://181.209.114.13:8000/play/a06n/index.m3u8
+#EXTINF:0 CUID="302" tvg-name="Nat Geo HD" tvg-logo="https://logo.iptveditor.com/natgeo.png" group-title="🟪Variedades",Nat Geo HD
+http://181.209.114.13:8000/play/a05g/index.m3u8
+#EXTINF:0 CUID="303" tvg-name="RAI Italia" tvg-logo="https://logo.iptveditor.com/raiitalia.png" group-title="🟪Variedades",RAI Italia
+http://181.209.114.13:8000/play/a02p/index.m3u8
+#EXTINF:0 CUID="304" tvg-name="TVE" tvg-logo="https://logo.iptveditor.com/tve.png" group-title="🟪Variedades",TVE
+http://181.209.114.13:8000/play/a072/index.m3u8 
+
 #EXTINF:0 CUID="764" tvg-name="Playboy" tvg-logo="https://logo.iptveditor.com/playboy.png" group-title="Adultos +18",Playboy
 http://200.55.244.75:8000/play/a032/index.m3u8
 #EXTINF:0 CUID="798" tvg-name="Venus" tvg-logo="https://logo.iptveditor.com/venus.png" group-title="Adultos +18",Venus
 http://200.55.244.75:8000/play/a033/index.m3u8
 #EXTINF:0 CUID="769" tvg-name="Sextreme" tvg-logo="https://logo.iptveditor.com/sextreme.png" group-title="Adultos +18",Sextreme
 http://200.55.244.75:8000/play/a034/index.m3u8
+
+
 #EXTINF:0 CUID="753" tvg-name="MTV" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="Musica",MTV
 http://200.55.244.75:8000/play/a02m/index.m3u8
 #EXTINF:0 CUID="754" tvg-name="MTV×00" tvg-logo="https://logo.iptveditor.com/mtv00s.png" group-title="Musica",MTV×00
 http://200.55.244.75:8000/play/a053/index.m3u8
 #EXTINF:0 CUID="765" tvg-name="Quiero Musica" group-title="Musica",Quiero Musica
 http://200.55.244.75:8000/play/a02n/index.m3u8
+#EXTINF:0 CUID="305" tvg-name="HTV" tvg-logo="https://logo.iptveditor.com/htv.png" group-title="🎸 Música",HTV
+http://181.209.114.13:8000/play/a02o/index.m3u8
+
+
 #EXTINF:0 CUID="674" tvg-name="Animal Planet HD" tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="Cultura",Animal Planet HD
 http://200.55.244.75:8000/play/a0eu/index.m3u8
 #EXTINF:0 CUID="727" tvg-name="El Gourmet" tvg-logo="https://logo.iptveditor.com/elgourmet.png" group-title="Cultura",El Gourmet
@@ -266,6 +345,25 @@ http://200.55.244.75:8000/play/a0et/index.m3u8
 http://200.55.244.75:8000/play/a023/index.m3u8
 
 
+
+#EXTINF:0 CUID="493" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="https://i.ibb.co/ZKNb722/Las-Estrellas-logo-2016.png" group-title="Novelas",CANAL DE LAS ESTRELLAS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:0 CUID="494" tvg-name="CANELA TELENOVELAS" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/image.jpg" group-title="Novelas",CANELA TELENOVELAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+#EXTINF:0 CUID="495" tvg-name="ESTRELLA NEWS" tvg-logo="https://image.xumo.com/v1/channels/channel/99991776/600x337.webp?type=channelTile" group-title="Novelas",ESTRELLA NEWS
+https://dbrb49pjoymg4.cloudfront.net/10001/99991776/hls/playlist.m3u8?ads.xumo_channelId=99991776
+#EXTINF:0 CUID="496" tvg-name="NOVELAS INOLVIDABLES" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/channel-novelas-inolvidables-16x9_0.jpg" group-title="Novelas",NOVELAS INOLVIDABLES
+https://ov.ottera.tv/channels/cnm_niv/master.m3u8
+#EXTINF:0 CUID="502" tvg-name="CANELA TELENOVELAS" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/image.jpg" group-title="Novelas",CANELA TELENOVELAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+#EXTINF:0 CUID="503" tvg-name="ESTRELLA NEWS" tvg-logo="https://image.xumo.com/v1/channels/channel/99991776/600x337.webp?type=channelTile" group-title="Novelas",ESTRELLA NEWS
+https://dbrb49pjoymg4.cloudfront.net/10001/99991776/hls/playlist.m3u8?ads.xumo_channelId=99991776
+#EXTINF:0 CUID="504" tvg-name="NOVELAS INOLVIDABLES" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/channel-novelas-inolvidables-16x9_0.jpg" group-title="Novelas",NOVELAS INOLVIDABLES
+https://ov.ottera.tv/channels/cnm_niv/master.m3u8
+#EXTINF:0 CUID="2283" tvg-name="TLNovelas" tvg-logo="https://logo.iptveditor.com/tlnovelas.png" group-title="Novelas",TLNovelas
+http://181.209.114.13:8000/play/a09v/index.m3u8
+#EXTINF:0 CUID="2284" tvg-name="TNT Novelas HD" tvg-logo="https://logo.iptveditor.com/tntnovelas.png" group-title="Novelas",TNT Novelas HD
+http://181.209.114.13:8000/play/a07g/index.m3u8
 
 
 
@@ -1166,9 +1264,38 @@ http://cambsasyplaya.gesell.com.ar/playlist.m3u8
 #EXTINF:0 CUID="29252" tvg-name="LA PINOCHA VILLA GESELL" tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="🟡Web Cam Y Clima",LA PINOCHA VILLA GESELL
 http://camlapinocha.gesell.com.ar/playlist.m3u8
 
-
-
-
+#EXTINF:0 CUID="509" tvg-name="LA 100" group-title="Radios",LA 100
+https://musicsrc.cvattv.com.ar/L100
+#EXTINF:0 CUID="510" tvg-name="RIVADAVIA" group-title="Radios",RIVADAVIA
+https://musicsrc.cvattv.com.ar/RRIV
+#EXTINF:0 CUID="511" tvg-name="MITRE" group-title="Radios",MITRE
+https://musicsrc.cvattv.com.ar/RMIT
+#EXTINF:0 CUID="512" tvg-name="d sports radio" group-title="Radios",d sports radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO
+#EXTINF:0 CUID="513" tvg-name="CONTINENTAL" group-title="Radios",CONTINENTAL
+http://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTAL
+#EXTINF:0 CUID="514" tvg-name="LA RED" group-title="Radios",LA RED
+http://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910
+#EXTINF:0 CUID="515" tvg-name="CNN RADIO" group-title="Radios",CNN RADIO
+https://musicsrc.cvattv.com.ar/RCNN
+#EXTINF:0 CUID="516" tvg-name="NACIONAL" group-title="Radios",NACIONAL
+https://musicsrc.cvattv.com.ar/RNAC
+#EXTINF:0 CUID="517" tvg-name="LA 100" group-title="Radios",LA 100
+https://musicsrc.cvattv.com.ar/L100
+#EXTINF:0 CUID="518" tvg-name="RIVADAVIA" group-title="Radios",RIVADAVIA
+https://musicsrc.cvattv.com.ar/RRIV
+#EXTINF:0 CUID="519" tvg-name="MITRE" group-title="Radios",MITRE
+https://musicsrc.cvattv.com.ar/RMIT
+#EXTINF:0 CUID="520" tvg-name="d sports radio" group-title="Radios",d sports radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO
+#EXTINF:0 CUID="521" tvg-name="CONTINENTAL" group-title="Radios",CONTINENTAL
+http://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTAL
+#EXTINF:0 CUID="522" tvg-name="LA RED" group-title="Radios",LA RED
+http://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910
+#EXTINF:0 CUID="523" tvg-name="CNN RADIO" group-title="Radios",CNN RADIO
+https://musicsrc.cvattv.com.ar/RCNN
+#EXTINF:0 CUID="524" tvg-name="NACIONAL" group-title="Radios",NACIONAL
+https://musicsrc.cvattv.com.ar/RNAC
 
 
 
@@ -1491,71 +1618,5 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b218fc511d4b00070dd
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="PLUTO TV",Karaoke por Stingray
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
-
-
-#EXTINF:0 CUID="258" tvg-name="Espn Deportes Hd Usa" tvg-logo="https://logo.iptveditor.com/espndeportes.png" group-title="⚽️Deportes Premium",Espn Deportes Hd Usa
-http://digitaltvsv.com/live/Conectplus/10Conectplus/1049.ts
-#EXTINF:0 CUID="259" tvg-name="Espn Deportes Hd Usa Op2" tvg-logo="https://logo.iptveditor.com/espndeportes.png" group-title="⚽️Deportes Premium",Espn Deportes Hd Usa Op2
-http://digitaltvsv.com/live/Conectplus/10Conectplus/1050.ts
-#EXTINF:0 CUID="260" tvg-name="Espn 3 (chi)" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="⚽️Deportes Premium",Espn 3 (chi)
-http://digitaltvsv.com/live/Conectplus/10Conectplus/1267.ts
-#EXTINF:0 CUID="261" tvg-name="Espn Deportes" tvg-logo="https://logo.iptveditor.com/espndeportes.png" group-title="⚽️Deportes Premium",Espn Deportes
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148107.ts
-#EXTINF:0 CUID="262" tvg-name="Espn Deportes" tvg-logo="https://logo.iptveditor.com/espndeportes.png" group-title="⚽️Deportes Premium",Espn Deportes
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148108.ts
-#EXTINF:0 CUID="263" tvg-name="Mx | Espn 1 Hd" tvg-logo="https://logo.iptveditor.com/espn1.png" group-title="⚽️Deportes Premium",Mx | Espn 1 Hd
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148114.ts
-#EXTINF:0 CUID="264" tvg-name="Mx | Espn 2 Hd" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="⚽️Deportes Premium",Mx | Espn 2 Hd
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148117.ts
-#EXTINF:0 CUID="265" tvg-name="Arg | Espn 1" tvg-logo="https://logo.iptveditor.com/espnarg.png" group-title="⚽️Deportes Premium",Arg | Espn 1
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148122.ts
-#EXTINF:0 CUID="266" tvg-name="Arg | Espn 2" tvg-logo="https://logo.iptveditor.com/espnarg.png" group-title="⚽️Deportes Premium",Arg | Espn 2
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148125.ts
-#EXTINF:0 CUID="267" tvg-name="Arg | Espn 2" tvg-logo="https://logo.iptveditor.com/espnarg.png" group-title="⚽️Deportes Premium",Arg | Espn 2
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148126.ts
-#EXTINF:0 CUID="268" tvg-name="Mx | Espn 1" tvg-logo="https://logo.iptveditor.com/espn1.png" group-title="⚽️Deportes Premium",Mx | Espn 1
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148131.ts
-#EXTINF:0 CUID="269" tvg-name="Mx | Espn 2" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="⚽️Deportes Premium",Mx | Espn 2
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148134.ts
-#EXTINF:0 CUID="270" tvg-name="Mx | Espn 3" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="⚽️Deportes Premium",Mx | Espn 3
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148136.ts
-#EXTINF:0 CUID="271" tvg-name="Arg | Espn 1" tvg-logo="https://logo.iptveditor.com/espnarg.png" group-title="⚽️Deportes Premium",Arg | Espn 1
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148138.ts
-#EXTINF:0 CUID="272" tvg-name="Arg | Espn 3" tvg-logo="https://logo.iptveditor.com/espn3arg.png" group-title="⚽️Deportes Premium",Arg | Espn 3
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148146.ts
-#EXTINF:0 CUID="273" tvg-name="Col | Espn 1" tvg-logo="https://logo.iptveditor.com/espn1.png" group-title="⚽️Deportes Premium",Col | Espn 1
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148148.ts
-#EXTINF:0 CUID="274" tvg-name="Co | Espn 3" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="⚽️Deportes Premium",Co | Espn 3
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148153.ts
-#EXTINF:0 CUID="275" tvg-name="Cl | Espn 2" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="⚽️Deportes Premium",Cl | Espn 2
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148159.ts
-#EXTINF:0 CUID="276" tvg-name="Cl | Espn 4" tvg-logo="https://logo.iptveditor.com/espn4.png" group-title="⚽️Deportes Premium",Cl | Espn 4
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148165.ts
-#EXTINF:0 CUID="277" tvg-name="Cl | Espn 5" tvg-logo="https://logo.iptveditor.com/espn5.png" group-title="⚽️Deportes Premium",Cl | Espn 5
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148168.ts
-#EXTINF:0 CUID="278" tvg-name="Cl | Espn 6" tvg-logo="https://logo.iptveditor.com/espn6.png" group-title="⚽️Deportes Premium",Cl | Espn 6
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148171.ts
-#EXTINF:0 CUID="279" tvg-name="Cl | Espn Premium" tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="⚽️Deportes Premium",Cl | Espn Premium
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148177.ts
-#EXTINF:0 CUID="280" tvg-name="Cl | Espn Premium" tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="⚽️Deportes Premium",Cl | Espn Premium
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148179.ts
-#EXTINF:0 CUID="281" tvg-name="Fox Sports" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="⚽️Deportes Premium",Fox Sports
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148193.ts
-#EXTINF:0 CUID="282" tvg-name="Fox Sports 2" tvg-logo="https://logo.iptveditor.com/foxsports2.png" group-title="⚽️Deportes Premium",Fox Sports 2
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148194.ts
-#EXTINF:0 CUID="283" tvg-name="Fox Sports 3" tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="⚽️Deportes Premium",Fox Sports 3
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148195.ts
-#EXTINF:0 CUID="284" tvg-name="Ecdf" tvg-logo="https://logo.iptveditor.com/cdf.png" group-title="⚽️Deportes Premium",Ecdf
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148237.ts
-#EXTINF:0 CUID="285" tvg-name="Uruguay | Vtv Plus" tvg-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" group-title="⚽️Deportes Premium",Uruguay | Vtv Plus
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148238.ts
-#EXTINF:0 CUID="286" tvg-name="Uy | Vtv Plus" tvg-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" group-title="⚽️Deportes Premium",Uy | Vtv Plus
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148240.ts
-#EXTINF:0 CUID="287" tvg-name="Uy | Vtv Hd" tvg-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" group-title="⚽️Deportes Premium",Uy | Vtv Hd
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148242.ts
-#EXTINF:0 CUID="288" tvg-name="Uy | Liga Uruguay: Vtv Plus" tvg-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" group-title="⚽️Deportes Premium",Uy | Liga Uruguay: Vtv Plus
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148243.ts
-#EXTINF:0 CUID="289" tvg-name="Ve | Vtv Venezolana De Television" tvg-logo="https://logo.iptveditor.com/venezolanadetelevision.png" group-title="⚽️Deportes Premium",Ve | Vtv Venezolana De Television
-http://digitaltvsv.com/live/Conectplus/10Conectplus/148245.ts
 
 
