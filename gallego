@@ -1,0 +1,705 @@
+
+--- 🌈🆁™  𝘽𝙍𝘼𝙎𝙄𝙇 𝙀𝙉𝙏𝙍𝙀𝙏𝙀𝙉𝙄𝙈𝙀𝙉𝙏𝙊
+
+#EXTINF:-1 cuid="261" tvg-name="Universal Reality 🇧🇷" tvg-id="UNIVERSALREALITY" user-agent="Wink/1.31.1" tvg-logo="https://logo.iptveditor.com/universalreality.png" group-title="🇧🇷 Brasil",Universal Reality 🇧🇷
+#EXTVLCOPT:http-user-agent=Wink/1.31.1
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=1689605&extension=ts
+#EXTINF:-1 cuid="262" tvg-name="Universal Premiere 🇧🇷" tvg-id="UNIVERSALPREMIERE" user-agent="Wink/1.31.1" tvg-logo="https://logo.iptveditor.com/universalpremiere.png" group-title="🇧🇷 Brasil",Universal Premiere 🇧🇷
+#EXTVLCOPT:http-user-agent=Wink/1.31.1
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=1689606&extension=ts
+
+--- 🌈🆁™  𝙏𝙀𝙇𝙀𝘾𝙄𝙉𝙀
+
+#EXTINF:-1 cuid="263" tvg-name="Telecine Premium" tvg-id="TELECINEPREMIUM" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-premium-br.png" group-title="🇧🇷 Brasil",Telecine Premium 🇧🇷
+http://185.236.183.117:14686/tlcPremiumfhd
+http://185.236.183.118:14690/tlcPremiumfhd
+#EXTVLCOPT:http-user-agent=Wink/1.31.1
+https://github.com/inspirationlinks/m3u/raw/live/Streams/TvcPremium.m3u8
+#EXTINF:-1 cuid="264" tvg-name="Telecine Premium 🇧🇷" tvg-id="TELECINEPREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-premium-br.png" group-title="🇧🇷 Brasil",Telecine Premium 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/telecinepremium.m3u8
+#EXTINF:-1 cuid="265" tvg-name="Telecine Premium 🇧🇷" tvg-id="TELECINEPREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-premium-br.png" group-title="🇧🇷 Brasil",Telecine Premium 🇧🇷
+http://185.236.183.118:14690/tlcPremiumfhd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedcanaistv.com
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://onplaytv.net/tcpremium/video.m3u8
+
+---
+
+#EXTINF:-1 cuid="266" tvg-name="Telecine Pipoca 🇧🇷" tvg-id="TELECINEPIPOCA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-pipoca-br.png" group-title="🇧🇷 Brasil",Telecine Pipoca 🇧🇷
+http://185.236.183.117:14682/TelecinePipocafhd
+#EXTINF:-1 cuid="267" tvg-name="Telecine Pipoca 🇧🇷" tvg-id="TELECINEPIPOCA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-pipoca-br.png" group-title="🇧🇷 Brasil",Telecine Pipoca 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/telecinepipoca.m3u8
+#EXTINF:-1 cuid="268" tvg-name="Telecine Pipoca 🇧🇷" tvg-id="TELECINEPIPOCA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-pipoca-br.png" user-agent="Wink/1.31.1" group-title="🇧🇷 Brasil",Telecine Pipoca 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedcanaistv.com
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://onplaytv.net/tcpipoca/video.m3u8
+
+--- 
+
+#EXTINF:-1 cuid="269" tvg-name="Telecine Action 🇧🇷" tvg-id="TELECINEACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-action-br.png" group-title="🇧🇷 Brasil",Telecine Action 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/telecineaction.m3u8
+#EXTINF:-1 cuid="270" tvg-name="Telecine Action 🇧🇷" tvg-id="TELECINEACTION" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-action-br.png" group-title="🇧🇷 Brasil",Telecine Action 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedcanaistv.com
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://onplaytv.net/tcaction/video.m3u8
+http://185.236.183.117:14675/tlcActionhd
+
+---
+
+#EXTINF:-1 cuid="271" tvg-name="Telecine Touch 🇧🇷" tvg-id="TELECINETOUCH" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-touch-br.png" group-title="🇧🇷 Brasil",Telecine Touch 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/telecinetouch.m3u8
+#EXTINF:-1 cuid="272" tvg-name="Telecine Touch 🇧🇷" tvg-id="TELECINETOUCH" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-touch-br.png" group-title="🇧🇷 Brasil",Telecine Touch 🇧🇷
+http://185.236.183.118:14691/TelecineTouchfhd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedcanaistv.com
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://onplaytv.net/tctouch/video.m3u8
+
+---
+
+#EXTINF:-1 cuid="273" tvg-name="Telecine Cult 🇧🇷" tvg-id="TELECINECULT" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-cult-br.png" group-title="🇧🇷 Brasil",Telecine Cult 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedcanaistv.com
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://onplaytv.net/tccult/video.m3u8
+#EXTINF:-1 cuid="274" tvg-name="Telecine Cult" tvg-id="TELECINECULT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-cult-br.png" group-title="🇧🇷 Brasil",Telecine Cult
+http://185.236.183.118:14695/TelecineCultfhd
+
+---
+
+#EXTINF:-1 cuid="275" tvg-name="Telecine Fun 🇧🇷" tvg-id="TELECINEFUN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-fun-br.png" group-title="🇧🇷 Brasil",Telecine Fun 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedcanaistv.com
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://onplaytv.net/tcfun/video.m3u8
+#EXTINF:-1 cuid="276" tvg-name="Telecine Fun 🇧🇷" tvg-id="TELECINEFUN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-fun-br.png" group-title="🇧🇷 Brasil",Telecine Fun 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/telecinefun.m3u8
+#EXTINF:-1 cuid="277" tvg-name="Telecine Fun 🇧🇷" tvg-id="TELECINEFUN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-fun-br.png" user-agent="Wink/1.31.1" group-title="🇧🇷 Brasil",Telecine Fun 🇧🇷
+#EXTVLCOPT:http-user-agent=Wink/1.31.1
+http://185.236.183.117:14679/tlcfunfhd
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59174&extension=ts
+
+--- 🌈🆁™ 𝙃𝘽𝙊
+
+#EXTINF:-1 cuid="278" tvg-name="HBO 🇧🇷" tvg-id="HBO" user-agent="Wink/1.31.1" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/HBO.webp" group-title="🇧🇷 Brasil",HBO 🇧🇷
+#EXTVLCOPT:http-user-agent=Wink/1.31.1
+http://185.236.183.118:14395/
+#EXTINF:-1 cuid="279" tvg-name="HBO 🇧🇷" tvg-id="HBO" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/HBO.webp" group-title="🇧🇷 Brasil",HBO 🇧🇷
+http://15.235.9.200:14186/HBOSD
+#EXTINF:-1 cuid="280" tvg-name="HBO 🇧🇷" tvg-id="HBO" user-agent="Wink/1.31.1" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/HBO.webp" group-title="🇧🇷 Brasil",HBO 🇧🇷
+http://15.235.50.112:14186/HBOSD
+
+---
+
+#EXTINF:-1 cuid="281" tvg-name="HBO+ 🇧🇷" tvg-id="HBOPLUS" tvg-logo="https://logo.iptveditor.com/hboplus.png" group-title="🇧🇷 Brasil",HBO+ 🇧🇷
+http://185.236.183.118:14408/hboplusfhd
+#EXTINF:-1 cuid="282" tvg-name="HBO+ 🇧🇷" tvg-id="HBOPLUS" user-agent="Wink/1.31.1" tvg-logo="https://logo.iptveditor.com/hboplus.png" group-title="🇧🇷 Brasil",HBO+ 🇧🇷
+#EXTVLCOPT:http-user-agent=Wink/1.31.1
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59225&extension=ts
+#EXTINF:-1 cuid="283" tvg-name="HBO+ 🇧🇷" tvg-id="HBOPLUS" tvg-logo="https://logo.iptveditor.com/hboplus.png" group-title="🇧🇷 Brasil",HBO+ 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+###https://s2.100mundial.icu/fontes/nossoplayer/hboplus.m3u8
+
+---
+
+#EXTINF:-1 cuid="284" tvg-name="HBO Pop" tvg-id="HBOPOP" tvg-logo="https://logo.iptveditor.com/hbopop.png" group-title="🇧🇷 Brasil",HBO Pop
+http://185.236.183.118:14415/HBOPopfhd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/hbopop.m3u8
+
+#EXTINF:-1 cuid="285" tvg-name="HBO 2 🇧🇷" tvg-id="HBO2" tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="🇧🇷 Brasil",HBO 2 🇧🇷
+http://185.236.183.118:14399/HBO2fhd
+http://15.235.50.112:14189/HBO2sd
+#EXTINF:-1 cuid="286" tvg-name="HBO 2 🇧🇷" tvg-id="HBO2" user-agent="Wink/1.31.1" tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="🇧🇷 Brasil",HBO 2 🇧🇷
+#EXTVLCOPT:http-user-agent=Wink/1.31.1
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59227&extension=ts
+
+---
+
+#EXTINF:-1 cuid="287" tvg-name="HBO Signature 🇧🇷" tvg-id="HBOSIGNATURE" tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-title="🇧🇷 Brasil",HBO Signature 🇧🇷
+http://15.235.9.200:14179/HBOSignfhd
+http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96415.m3u8
+#EXTINF:-1 cuid="288" tvg-name="HBO Signature 🇧🇷" tvg-id="HBOSIGNATURE" tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-title="🇧🇷 Brasil",HBO Signature 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedcanaistv.com
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/hbosignature/index.m3u8
+
+---
+
+#EXTINF:-1 cuid="289" tvg-name="HBO Xtreme 🇧🇷" tvg-id="HBOXTREME" tvg-logo="https://logo.iptveditor.com/hboxtreme.png" group-title="🇧🇷 Brasil",HBO Xtreme 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+https://s2.100mundial.icu/fontes/nossoplayer/hboxtreme.m3u8
+#EXTINF:-1 cuid="290" tvg-name="HBO Xtreme 🇧🇷" tvg-id="HBOXTREME" tvg-logo="https://logo.iptveditor.com/hboxtreme.png" group-title="🇧🇷 Brasil",HBO Xtreme 🇧🇷
+###
+
+---
+
+#EXTINF:-1 cuid="291" tvg-name="HBO Family 🇧🇷" tvg-id="HBOFAMILY" tvg-logo="https://logo.iptveditor.com/hbofamily.png" group-title="🇧🇷 Brasil",HBO Family 🇧🇷
+http://185.236.183.118:14404/HBOFamilyhd
+#EXTINF:-1 cuid="292" tvg-name="HBO Family 🇧🇷" tvg-id="HBOFAMILY" tvg-logo="https://logo.iptveditor.com/hbofamily.png" group-title="🇧🇷 Brasil",HBO Family 🇧🇷
+http://15.235.50.112:14192/HBOFamilySD
+
+---
+
+#EXTINF:-1 cuid="293" tvg-name="HBO Mundi 🇧🇷" tvg-id="HBOMUNDI" tvg-logo="https://logo.iptveditor.com/hbomundi.png" group-title="🇧🇷 Brasil",HBO Mundi 🇧🇷
+http://185.236.183.118:14411/HBOMundifhd
+http://15.235.50.112:14195/HBOMundiSD
+
+--- 🌈🆁™  𝙏𝙉𝙏
+
+#EXTINF:-1 cuid="294" tvg-name="TNT 🇧🇷 ⚽️" tvg-id="TNT" tvg-logo="https://logo.iptveditor.com/tnt.png" group-title="🇧🇷 Brasil",TNT 🇧🇷 ⚽️
+http://185.236.183.118:14704/tntfhd
+#EXTINF:-1 cuid="295" tvg-name="TNT 🇧🇷 ⚽️" tvg-id="TNT" tvg-logo="https://logo.iptveditor.com/tnt.png" group-title="🇧🇷 Brasil",TNT 🇧🇷 ⚽️
+https://new.m3u8.one/tnt/index.m3u8
+#EXTINF:-1 cuid="296" tvg-name="TNT ᴸᴼᵂ 🇧🇷 ⚽️" tvg-id="TNT" tvg-logo="https://logo.iptveditor.com/tnt.png" group-title="🇧🇷 Brasil",TNT 🇧🇷 ⚽️
+http://79.127.238.228:14629/TNThd
+
+---
+
+#EXTINF:-1 cuid="297" tvg-name="TNT Series 🇧🇷" tvg-id="TNTSERIES" user-agent="Wink/1.31.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="🇧🇷 Brasil",TNT Series 🇧🇷
+http://185.236.183.118:14709/tntseriesfhd
+#EXTVLCOPT:http-user-agent=Wink/1.31.1
+http://tv14s.xyz:8080//live/5ThaSM/484504/164958.m3u8
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59168&extension=ts
+#EXTINF:-1 cuid="298" tvg-name="TNT Series 🇧🇷" tvg-id="TNTSERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="🇧🇷 Brasil",TNT Series 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/tntseries.m3u8
+
+--- 🌈🆁™ 𝙑𝘼𝙍𝙄𝙊𝙎
+
+#EXTINF:-1 cuid="299" tvg-name="Arte1 (cc 🇧🇷)" tvg-id="Arte1.br" user-agent="Wink/1.31.1" tvg-logo="https://logo.iptveditor.com/arte1.png" group-title="🇧🇷 Brasil",Arte1 (cc 🇧🇷)
+http://185.236.183.117:14018/Arte1fhd
+
+#EXTINF:-1 cuid="300" tvg-name="Prime Box Brazil" tvg-id="PRIMEBOXBRAZIL" user-agent="Wink/1.31.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/PrimeBoxBrazil2019.png/1840px-PrimeBoxBrazil2019.png" group-title="🇧🇷 Brasil",Prime Box Brazil
+#EXTVLCOPT:http-user-agent=Wink/1.31.1
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=1093609&extension=ts
+
+---
+
+#EXTINF:-1 cuid="301" tvg-name="MultiShow" tvg-id="MULTISHOW" user-agent="Wink/1.31.1" tvg-logo="https://logo.iptveditor.com/multishow.png" group-title="🇧🇷 Brasil",MultiShow 🇧🇷
+#EXTVLCOPT:http-user-agent=Wink/1.31.1
+http://nxt.plus:8080//live/olmos/1234guz/51500.m3u8
+http://15.235.11.7:14146/MultiShowSD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59280&extension=ts
+
+---
+
+#EXTINF:-1 cuid="302" tvg-name="Comedy Central 🇧🇷" tvg-id="COMEDYCENTRAL" tvg-logo="https://logo.iptveditor.com/comedycentral.png" group-title="🇧🇷 Brasil",Comedy Central 🇧🇷
+http://185.236.183.117:14129/Comedycentralfhd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/comedycentral.m3u8
+
+---
+
+#EXTINF:-1 cuid="303" tvg-name="Warner Channel 🇧🇷" tvg-id="WARNERCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="🇧🇷 Brasil",Warner Channel 🇧🇷
+http://79.127.238.228:14647/WarnerHD
+#EXTINF:-1 cuid="304" tvg-name="Warner Channel 🇧🇷" tvg-id="WARNERCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="🇧🇷 Brasil",Warner Channel 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/warnerchannel.m3u8
+
+---
+
+#EXTINF:-1 cuid="305" tvg-name="AXN 🇧🇷" tvg-id="AXN" tvg-logo="https://logo.iptveditor.com/axn.png" group-title="🇧🇷 Brasil",AXN 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedcanaistv.com
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://onplaytv.net/axn/index.m3u8
+#EXTINF:-1 cuid="306" tvg-name="AXN 🇧🇷" tvg-id="AXN" tvg-logo="https://logo.iptveditor.com/axn.png" group-title="🇧🇷 Brasil",AXN 🇧🇷
+http://185.236.183.117:14022/axnHD
+http://79.127.238.228:14563/axnHD
+
+---
+
+#EXTINF:-1 cuid="307" tvg-name="AMC 🇧🇷" tvg-id="AMC" user-agent="Wink/1.31.1" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="🇧🇷 Brasil",AMC 🇧🇷
+http://185.236.183.117:14009/AMCfhd
+#EXTINF:-1 cuid="308" tvg-name="AMC 🇧🇷" tvg-id="AMC" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="🇧🇷 Brasil",AMC 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedcanaistv.com
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://onplaytv.net/amc/index.m3u8
+
+--- 🌈🆁™ PARAMOUNT NETWORK
+
+#EXTINF:-1 cuid="309" tvg-name="Paramount Network 🇧🇷" tvg-id="PARAMOUNTNETWORK" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/paramount-network-br.png" group-title="🇧🇷 Brasil",Paramount Network 🇧🇷
+#EXTVLCOPT:http-user-agent=Wink/1.31.1
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59205&extension=ts
+#EXTINF:-1 cuid="310" tvg-name="Paramount Network 🇧🇷" tvg-id="PARAMOUNTNETWORK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/paramount-network-br.png" group-title="🇧🇷 Brasil",Paramount Network 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedcanaistv.com
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/paramountnetwork/index.m3u8
+
+--- 🌈🆁™ SONY CHANNEL
+
+#EXTINF:-1 cuid="311" tvg-name="Sony Channel 🇧🇷" tvg-id="CANALSONY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sony-channel-br.png" group-title="🇧🇷 Brasil",Sony Channel 🇧🇷
+http://185.236.183.117:14635/SonyChannelfhd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedcanaistv.com
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://onplaytv.net/sonychannel/index.m3u8
+#EXTINF:-1 cuid="312" tvg-name="Sony Channel 🇧🇷" tvg-id="CANALSONY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sony-channel-br.png" group-title="🇧🇷 Brasil",Sony Channel 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/sonychannel.m3u8
+
+--- 🌈🆁™ UNIVERSAL CHANNELS
+
+#EXTINF:-1 cuid="313" tvg-name="Studio Universal 🇧🇷" tvg-id="STUDIOUNIVERSAL" tvg-logo="https://logo.iptveditor.com/premiumstudiouniversal.png" group-title="🇧🇷 Brasil",Studio Universal 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/studiouniversal.m3u8
+
+#EXTINF:-1 cuid="314" tvg-name="Universal Channel 🇧🇷" tvg-id="UNIVERSALTV" tvg-logo="https://logo.iptveditor.com/universal.png" group-title="🇧🇷 Brasil",Universal Channel 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/universaltv.m3u8
+
+---
+
+#EXTINF:-1 cuid="315" tvg-name="Cinemax 🇧🇷" tvg-id="CINEMAX" tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="🇧🇷 Brasil",Cinemax 🇧🇷
+http://185.236.183.117:14114/Cinemaxfhd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/cinemax.m3u8
+
+---
+
+#EXTINF:-1 cuid="316" tvg-name="Space 🇧🇷" tvg-id="SPACE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/space-br.png" group-title="🇧🇷 Brasil",Space 🇧🇷
+http://185.236.183.117:14640/Spacefhd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/space.m3u8
+https://new.ejaculacaoretardada.site/space/index.m3u8
+
+---
+
+#EXTINF:-1 cuid="317" tvg-name="USA Network 🇧🇷" tvg-id="USA" tvg-logo="https://www.usanetwork.com/generetic/generated/images/22cb4c7e029716aa34d858d6f9fb18f3.png" group-title="🇧🇷 Brasil",USA Network 🇧🇷
+http://185.236.183.117:14663/USAfhd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedcanaistv.com
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://onplaytv.net/usa/index.m3u8
+
+---
+
+#EXTINF:-1 cuid="318" tvg-name="SYFY 🇧🇷" tvg-id="SYFY" tvg-logo="https://logo.iptveditor.com/syfy.png" group-title="🇧🇷 Brasil",SYFY 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedcanaistv.com
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://onplaytv.net/syfy/index.m3u8
+#EXTINF:-1 cuid="319" tvg-name="SYFY 🇧🇷" tvg-id="SYFY" user-agent="Wink/1.31.1" tvg-logo="https://logo.iptveditor.com/syfy.png" group-title="🇧🇷 Brasil",SYFY 🇧🇷
+#EXTVLCOPT:http-user-agent=Wink/1.31.1
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59180&extension=ts
+
+
+#EXTINF:-1 cuid="320" tvg-name="TCM 🇧🇷" tvg-id="TCM" tvg-logo="https://logo.iptveditor.com/tcm.png" group-title="🇧🇷 Brasil",TCM 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedcanaistv.com
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://onplaytv.net/tcm/index.m3u8
+
+---
+
+#EXTINF:-1 cuid="321" tvg-name="Megapix 🇧🇷" tvg-id="MEGAPIX" tvg-logo="https://canalmegapix.com.br/static/images/logo-mpx-desktop.png" group-title="🇧🇷 Brasil",Megapix 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/megapix.m3u8
+
+
+#EXTINF:-1 cuid="322" tvg-name="DPA" tvg-id="" tvg-logo="https://canalmegapix.com.br/static/images/logo-mpx-desktop.png" group-title="🇧🇷 Brasil",D.P.A 🇧🇷
+###https://cc-vh52nvd84na11.akamaized.net/Globo/DPA_Fast_BR/DPA_Fast.m3u8
+
+--- 🌈🆁™  𝗛𝗮𝗹𝗹𝗼!
+
+#EXTINF:-1 cuid="323" tvg-name="Hallo! Séries 🇧🇷" tvg-logo="https://nxplay-images.comets.com.br/resize/671670c07d96d_5f6aed7245709cfbe81d9d7e7fddbbcf.png" group-title="🇧🇷 Brasil",Hallo! Séries 🇧🇷
+https://cdn-3.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 cuid="324" tvg-name="Hallo! Movies 🇧🇷" tvg-logo="https://nxplay-images.comets.com.br/resize/67166f6f22c67_fe7d37e295e1a2d39d9fac64da91240e.png" group-title="🇧🇷 Brasil",Hallo! Movies 🇧🇷
+https://cdn-3.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 cuid="325" tvg-name="Hallo! Plus 🇧🇷" tvg-logo="https://nxplay-images.comets.com.br/resize/6712cb9d27872_d201898ec6c98e84b8e83ab006390217.png" group-title="🇧🇷 Brasil",Hallo! Plus 🇧🇷
+https://cdn-3.nxplay.com.br/halloplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 cuid="326" tvg-name="Hallo! Classic 🇧🇷" tvg-logo="https://nxplay-images.comets.com.br/resize/671657f5cd310_f7be52eb0e7ee353303543c27735cad3.png" group-title="🇧🇷 Brasil",Hallo! Classic 🇧🇷
+https://cdn-3.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8
+
+--- 
+
+#EXTINF:-1 cuid="327" tvg-name="RECORDTV" tvg-id="RECORDRJ" tvg-logo="https://assine.playplus.com/pf/resources/images/assine-playplus.ico?d=327" group-title="🇧🇷 Brasil",Record 🇧🇷
+http://185.246.208.74:14660/PlayPlus
+
+---
+
+#EXTINF:-1 cuid="328" tvg-name="E! 🇧🇷" tvg-id="E" tvg-logo="https://logo.iptveditor.com/e.png" group-title="🇧🇷 Brasil",E! 🇧🇷
+http://15.235.11.7:14151/E!
+http://185.236.183.118:14174/E!fhd
+#EXTINF:-1 cuid="329" tvg-name="E! 🇧🇷" tvg-id="E" tvg-logo="https://logo.iptveditor.com/e.png" group-title="🇧🇷 Brasil",E! 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedcanaistv.com
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://onplaytv.net/e/index.m3u8
+
+---
+
+#EXTINF:-1 cuid="330" tvg-name="gnt" tvg-id="GNT" tvg-logo="https://logo.iptveditor.com/gnt.png" group-title="🇧🇷 Brasil",gnt 🇧🇷
+http://185.236.183.117:14388/gntfhd
+http://79.127.238.228:14402/GNTHD
+
+#EXTINF:-1 cuid="331" tvg-name="TLC 🇧🇷" tvg-id="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="🇧🇷 Brasil",TLC 🇧🇷
+http://79.127.238.228:14433/TLChd
+http://15.235.50.112:14109/TLChd
+
+---
+
+#EXTINF:-1 cuid="332" tvg-name="A&E 🇧🇷" tvg-id="AE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/a-and-e-br.png" group-title="🇧🇷 Brasil",A&E 🇧🇷 ⚽️
+http://185.236.183.117:14003/A&EFHD
+http://79.127.238.228:14551/A&Ehd
+#EXTINF:-1 cuid="333" tvg-name="A&E 🇧🇷" tvg-id="AE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/a-and-e-br.png" group-title="🇧🇷 Brasil",A&E 🇧🇷 ⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/ae.m3u8
+#EXTINF:-1 cuid="334" tvg-name="A&E 🇧🇷" tvg-id="AE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/a-and-e-br.png" group-title="🇧🇷 Brasil",A&E 🇧🇷 ⚽️
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
+
+--- 🌈🆁™  𝙇𝙄𝙁𝙀𝙎𝙏𝘼𝙔𝙇𝙀 & 𝘿𝙊𝘾𝙐𝙈𝙀𝙉𝙏𝘼𝙍𝙄𝙊𝙎
+
+#EXTINF:-1 cuid="335" tvg-name="HGTV 🇧🇷" tvg-id="HGTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" group-title="🇧🇷 Brasil",HGTV 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/hgtv.m3u8
+#EXTINF:-1 cuid="336" tvg-name="HGTV 🇧🇷" tvg-id="HGTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" group-title="🇧🇷 Brasil",HGTV 🇧🇷
+http://185.236.183.117:14431/hgtvfhd
+http://15.235.11.7:14144/HGTVHD
+
+--- 🌈🆁™ HISTORY CHANNELS
+
+#EXTINF:-1 cuid="337" tvg-name="History 🇧🇷" tvg-id="HISTORY" tvg-logo="https://logo.iptveditor.com/history.png" group-title="🇧🇷 Brasil",History 🇧🇷
+http://185.236.183.118:14435/historyfhd
+http://185.236.183.117:14392/historyhd
+http://15.235.11.7:14132/HISTORYSD
+#EXTINF:-1 cuid="338" tvg-name="History 🇧🇷" tvg-id="HISTORY" tvg-logo="https://logo.iptveditor.com/history.png" group-title="🇧🇷 Brasil",History 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/history.m3u8
+
+#EXTINF:-1 cuid="339" tvg-name="H2 🇧🇷" tvg-id="HISTORY2" tvg-logo="https://logo.iptveditor.com/h2.png" group-title="🇧🇷 Brasil",H2 🇧🇷
+http://185.236.183.118:14391/H2hd
+https://new.m3u8.one/history2/index.m3u8
+#EXTINF:-1 cuid="340" tvg-name="H2 🇧🇷" tvg-id="HISTORY2" tvg-logo="https://logo.iptveditor.com/h2.png" group-title="🇧🇷 Brasil",H2 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/history2.m3u8
+
+--- 🌈🆁™ DISCOVERY CHANNEL
+
+#EXTINF:-1 cuid="341" tvg-name="Discovery Channel 🇧🇷" tvg-id="DISCOVERYCHANNEL" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="🇧🇷 Brasil",Discovery Channel 🇧🇷
+http://185.246.208.74:14144/Discoveryhd
+#EXTINF:-1 cuid="342" tvg-name="Discovery Channel 🇧🇷" tvg-id="DISCOVERYCHANNEL" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="🇧🇷 Brasil",Discovery Channel 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/discoverychannel.m3u8
+
+---
+
+#EXTINF:-1 cuid="343" tvg-name="h&h Discovery 🇧🇷" tvg-id="DISCHOMEHEALTH" tvg-logo="https://logo.iptveditor.com/discoveryh&h.png" group-title="🇧🇷 Brasil",h&h Discovery 🇧🇷
+http://185.236.183.118:14147/Discoveryh&hHD
+http://15.235.50.112:14100/Discoveryh&hHD
+
+
+---
+
+#EXTINF:-1 cuid="344" tvg-name="Discovery World 🇧🇷" tvg-id="DISCOVERYWORLD" tvg-logo="https://logo.iptveditor.com/discoveryworld.png" group-title="🇧🇷 Brasil",Discovery World 🇧🇷
+http://15.235.50.112:14112/DiscoveryWorldHD
+#EXTINF:-1 cuid="345" tvg-name="Discovery World 🇧🇷" tvg-id="DISCOVERYWORLD" tvg-logo="https://logo.iptveditor.com/discoveryworld.png" group-title="🇧🇷 Brasil",Discovery World 🇧🇷
+http://185.236.183.118:14168/DiscoveryWorldHD
+
+---
+
+#EXTINF:-1 cuid="346" tvg-name="Discovery Science 🇧🇷" tvg-id="DISCOVERYSCIENCE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Discovery_Science_LA_2012.png" group-title="🇧🇷 Brasil",Discovery Science 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/discoveryscience.m3u8
+#EXTINF:-1 cuid="347" tvg-name="Discovery Science 🇧🇷" tvg-id="DISCOVERYSCIENCE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Discovery_Science_LA_2012.png" group-title="🇧🇷 Brasil",Discovery Science 🇧🇷
+http://15.235.50.112:14106/DiscoveryScienceHD
+http://185.236.183.118:14155/DiscoveryScienceHD
+
+---
+
+#EXTINF:-1 cuid="348" tvg-name="Discovery Theater 🇧🇷" tvg-id="DISCOVERYTHEATER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Discovery_HD_Theather_2013.png" group-title="🇧🇷 Brasil",Discovery Theater 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/discoverytheather.m3u8
+#EXTINF:-1 cuid="349" tvg-name="Discovery Theater 🇧🇷" tvg-id="DISCOVERYTHEATER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Discovery_HD_Theather_2013.png" group-title="🇧🇷 Brasil",Discovery Theater 🇧🇷
+http://185.236.183.118:14158/DiscoveryTheatreHD
+http://15.235.50.112:14103/DiscoveryTheatreSD
+
+---
+
+#EXTINF:-1 cuid="350" tvg-name="IDiscovery 🇧🇷" tvg-id="ID" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ID.webp" group-title="🇧🇷 Brasil",IDiscovery 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/discoveryid.m3u8
+#EXTINF:-1 cuid="351" tvg-name="IDiscovery 🇧🇷" tvg-id="ID" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ID.webp" group-title="🇧🇷 Brasil",IDiscovery 🇧🇷
+http://185.236.183.117:14440/IDhd
+#EXTINF:-1 cuid="352" tvg-name="IDiscovery 🇧🇷" tvg-id="ID" user-agent="Wink/1.31.1" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ID.webp" group-title="🇧🇷 Brasil",IDiscovery 🇧🇷
+#EXTVLCOPT:http-user-agent=Wink/1.31.1
+http://15.235.50.112:14115/IDsd
+
+---
+
+#EXTINF:-1 cuid="353" tvg-name="Animal Planet Disc 🇧🇷" tvg-id="ANIMALPLANET" tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="🇧🇷 Brasil",Animal Planet Disc 🇧🇷
+http://185.236.183.117:14014/animalPlanetfhd
+https://new.m3u8.one/animalplanet/index.m3u8
+#EXTINF:-1 cuid="354" tvg-name="Animal Planet Disc 🇧🇷" tvg-id="ANIMALPLANET" tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="🇧🇷 Brasil",Animal Planet Disc 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://s2.100mundial.icu/fontes/nossoplayer/animalplanet.m3u8
+
+--- 🌈🆁™ 𝙎𝙄𝙉𝘼𝙇 𝘼𝘽𝙀𝙍𝙏𝙊
+
+#EXTINF:-1 cuid="355" tvg-name="Urban Travel 🇧🇷" tvg-logo="https://urbantv.com.br/wp-content/uploads/2023/12/cropped-logo-site.png" group-title="🇧🇷 Brasil",Urban Travel 🇧🇷
+http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
+
+#EXTINF:-1 cuid="356" tvg-name="Viajando pelo Brasil 🇧🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ViajandopeloBrasil.webp" group-title="🇧🇷 Brasil",Viajando pelo Brasil 🇧🇷
+https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+
+---
+
+#EXTINF:-1 cuid="357" tvg-name="Canal Saúde 🇧🇷" tvg-id="CANALSAUDE" tvg-logo="https://eitv7.cdn.broadpeak.io/account351-i1495/portal-logo-1715282293.png" group-title="🇧🇷 Brasil",Canal Saúde 🇧🇷
+https://media-gmcdn.eduplay.rnp.br/media/CFwapWdsWCYQ/pDz-5MEOypTJS05pqouUmQ'1/720_index.m3u8
+https://cdn.eduplay.rnp.br/route/CFwapWdsWCYQ/index.m3u8?s=aHR0cHM6Ly9tZWRpYS5lZHVwbGF5LnJucC5ici9tZWRpYS9DRndhcFdkc1dDWVEvaW5kZXgubTN1OD94PTEmbT0tOV9icElwMl9ySFA4V0dnUERBRFRn&x=1&p=10&m=Ax0DMnlL_LQ2dCZxB-vaTQ
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/4.m3u8
+
+--- 🌈🆁™ GLOBO
+
+#EXTINF:-1 cuid="358" tvg-name="Globo ʀᴊ 🇧🇷 ⚽️" tvg-id="GLOBORJ" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="🇧🇷 Brasil",Globo ʀᴊ 🇧🇷 ⚽️
+http://79.127.238.228:14217/GloboHD
+#EXTINF:-1 cuid="359" tvg-name="Globo sᴘ 🇧🇷 ⚽️" tvg-id="GLOBORJ" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="🇧🇷 Brasil",Globo sᴘ 🇧🇷 ⚽️
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/1.m3u8
+#EXTINF:-1 cuid="360" tvg-name="Globo ʙᴀ 🇧🇷 ⚽️" tvg-id="GLOBORJ" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="🇧🇷 Brasil",Globo ʙᴀ 🇧🇷 ⚽️
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+
+--- 🌈🆁™ RECORD
+
+#EXTINF:-1 cuid="361" tvg-name="Record sᴘ 🇧🇷" tvg-id="RECORDSP" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp" group-title="🇧🇷 Brasil",Record tv sᴘ 🇧🇷
+http://185.236.183.117:14567/Recordhd
+https://alanza.iptv2022.com/sh/RecordTV/index.m3u8
+#EXTINF:-1 cuid="362" tvg-name="Record sᴘ 🇧🇷" tvg-id="RECORDSP" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp" group-title="🇧🇷 Brasil",Record tv sᴘ 🇧🇷
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/13.m3u8
+
+#EXTINF:-1 cuid="363" tvg-name="Record sᴘ 🇧🇷" tvg-id="RECORDSP" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp" group-title="🇧🇷 Brasil",Record 🇧🇷
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+
+--- 🌈🆁™ BAND
+
+#EXTINF:-1 cuid="364" tvg-name="Band ⚽️🏎️" tvg-id="São.Paulo/SP..Band.HD.br" tvg-logo="https://logo.iptveditor.com/band.png" group-title="🇧🇷 Brasil",Band ⚽️🏎️
+http://185.236.183.117:14033/Bandfhd
+http://15.235.50.115:14522/Bandsd
+#EXTINF:-1 cuid="365" tvg-name="Band ⚽️🏎️" tvg-id="São.Paulo/SP..Band.HD.br" tvg-logo="https://logo.iptveditor.com/band.png" group-title="🇧🇷 Brasil",Band ⚽️🏎️
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
+https://alanza.iptv2022.com/sh/TV_VALE_DO_URUARA/index.m3u8
+
+--- 🌈🆁™ SBT
+
+#EXTINF:-1 cuid="366" tvg-name="SBT Internacional 🇧🇷 ⚽️" tvg-id="SBTSP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="🇧🇷 Brasil",SBT Internacional 🇧🇷 ⚽️
+http://185.236.183.117:14597/SBTfhd
+http://185.246.208.74:14367/SBTHD
+http://nxt.plus:8080//live/olmos/1234guz/51503.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sbtintl-xiaomi/playlist.m3u8
+#EXTINF:-1 cuid="367" tvg-name="SBT Interior 🇧🇷" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="🇧🇷 Brasil",SBT Interior 🇧🇷
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1 cuid="368" tvg-name="SBT Interior 🇧🇷" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="🇧🇷 Brasil",SBT Interior 🇧🇷
+https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
+
+--- 🌈🆁™ TV BRASIL
+
+#EXTINF:-1 cuid="369" tvg-name="TV Brasilᶠᴴᴰ 🇧🇷" tvg-id="TVBRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/320px-TvBrasil2023.png" group-title="🇧🇷 Brasil",TV Brasilᶠᴴᴰ 🇧🇷
+https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/playlist.m3u8
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 cuid="370" tvg-name="Tv Brasil Internacional 🇧🇷" tvg-id="TVBrasil.br" tvg-logo="https://logo.iptveditor.com/tvbrasil.png" group-title="🇧🇷 Brasil",Tv Brasil Internacional 🇧🇷
+https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
+
+--- 🌈🆁™ REDE TV
+
+#EXTINF:-1 cuid="371" tvg-name="Rede tv GO" tvg-logo="https://redetvgo.com.br/client/assets/logo/logo-oficial.png" group-title="🇧🇷 Brasil",Rede tv GO ⚽️
+https://fast-channels-t.b-cdn.net/redetv/aovivo_abr/playlist.m3u8
+
+#EXTINF:-1 cuid="372" tvg-name="RedeTV! 🇧🇷" tvg-id="6048fc47a44e540007745d2b" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="🇧🇷 Brasil",RedeTV! 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="373" tvg-name="Rede tv mais" tvg-id="6048fc47a44e540007745d2b" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="🇧🇷 Brasil",Rede tv mais
+https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/playlist.m3u8
+
+#EXTINF:-1 cuid="374" tvg-name="RedeTV!ᴘʀ 🇧🇷" tvg-id="6048fc47a44e540007745d2b" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="🇧🇷 Brasil",RedeTV!ᴘʀ 🇧🇷
+https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w492224410.m3u8
+
+#EXTINF:-1 cuid="375" tvg-name="Rede Minas 🇧🇷" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="🇧🇷 Brasil",Rede Minas 🇧🇷
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+
+---
+
+#EXTINF:-1 cuid="376" tvg-name="Curta!ᶠᴴᴰ 🇧🇷" tvg-id="CURTA" tvg-logo="https://canalcurta.tv.br/assets/img/logo_canalcurta.png" group-title="🇧🇷 Brasil",Curta!ᶠᴴᴰ 🇧🇷
+https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
+
+#EXTINF:-1 cuid="377" tvg-name="Curta!ᶠᴴᴰ 🇧🇷" tvg-id="CURTA" tvg-logo="https://canalcurta.tv.br/assets/img/logo_canalcurta.png" group-title="🇧🇷 Brasil",Curta!ᶠᴴᴰ 🇧🇷
+###
+
+#EXTINF:-1 cuid="378" tvg-name="Zoom tvᶠᴴᴰ 🇧🇷" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="🇧🇷 Brasil",Zoom tvᶠᴴᴰ 🇧🇷
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+https://cdn.live.br1.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+
+#EXTINF:-1 cuid="379" tvg-name="TV Zynᶠᴴᴰ 🇧🇷" tvg-logo="https://static.sbt.com.br/media/playlist/20200720191126/20200720211005/tn/20200721143636.jpeg" group-title="🇧🇷 Brasil",TV Zynᶠᴴᴰ 🇧🇷
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
+
+#EXTINF:-1 cuid="380" tvg-name="Cultura Fast 🇧🇷" tvg-id="62e010e6cd663f0007e57dc8" tvg-logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/colorLogoPNG.png" group-title="🇧🇷 Brasil",Cultura Fast 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:-1 cuid="381" tvg-name="Tv Cultura 🇧🇷" tvg-id="62e010e6cd663f0007e57dc8" tvg-logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/colorLogoPNG.png" group-title="🇧🇷 Brasil",Tv Cultura 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="382" tvg-name="Tv Gazeta 🇧🇷" tvg-id="GAZETA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="🇧🇷 Brasil",Tv Gazeta 🇧🇷
+https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1606860923.m3u8
+
+#EXTINF:-1 cuid="383" tvg-name="Manual do Mundo 🇧🇷" tvg-id="664df5221dc48600087592b1" tvg-logo="https://images.pluto.tv/channels/664df5221dc48600087592b1/colorLogoPNG.png" group-title="🇧🇷 Brasil",Manual do Mundo 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/664df5221dc48600087592b1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="384" tvg-name="Cultne tvᶠᴴᴰ 🇧🇷" tvg-id="66296e755a402e00086a2c47" tvg-logo="https://images.pluto.tv/channels/66296e755a402e00086a2c47/colorLogoPNG.png" group-title="🇧🇷 Brasil",Cultne tvᶠᴴᴰ 🇧🇷
+https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
+#EXTINF:-1 cuid="385" tvg-name="Cultne tv 🇧🇷" tvg-id="66296e755a402e00086a2c47" tvg-logo="https://images.pluto.tv/channels/66296e755a402e00086a2c47/colorLogoPNG.png" group-title="🇧🇷 Brasil",Cultne tv 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66296e755a402e00086a2c47/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="386" tvg-name="Canal L!ke 🇧🇷" tvg-id="LIKEHD" tvg-logo="https://canallike.com.br/wp-content/uploads/2020/12/canal-like-logo.png" group-title="🇧🇷 Brasil",Canal L!ke 🇧🇷
+https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
+
+#EXTINF:-1 cuid="387" tvg-name="Canal UOL ⚽️" tvg-id="64b9370b409629000802d32b" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" group-title="🇧🇷 Brasil",Canal UOL ⚽️
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="388" tvg-name="TV Vida Real 🇧🇷" tvg-id="5f32d4d9ec194100070c7449" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" group-title="🇧🇷 Brasil",TV Vida Real 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="389" tvg-name="HomeFul 🇧🇷" tvg-id="65786abdb3801200084c593a" tvg-logo="https://images.pluto.tv/channels/65786abdb3801200084c593a/colorLogoPNG.png" group-title="🇧🇷 Brasil",HomeFul 🇧🇷
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9flatd4lam6vc/master.m3u8
+
+#EXTINF:-1 cuid="390" tvg-name="TV Turbo 🇧🇷" tvg-id="6014761dfb91870008ea6463" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="🇧🇷 Brasil",TV Turbo 🇧🇷
+https://bit.ly/3O1CTE0?profile=6014761dfb91870008ea6463.m3u8
+
+#EXTINF:-1 cuid="391" tvg-name="TV Esporte 🇧🇷" tvg-id="5f32d2db0af67400077f29c4" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="🇧🇷 Brasil",TV Esporte 🇧🇷
+https://is.gd/BdIRpQ?5f32d2db0af67400077f29c4.m3u8
+#EXTINF:-1 cuid="392" tvg-name="Viva wᴇʙ 🇧🇷" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mj-JbMl6QE9StHqpZAxZTpVqXB0eXnAB8NdaiBMTXqdw=w0" group-title="🇧🇷 Brasil",Viva wᴇʙ 🇧🇷
+https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w53904826.m3u8
+#EXTINF:-1 cuid="393" tvg-name="D+ TV 🇧🇷" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/LOGO_PRINCIPAL_PEQUENO_qFeyD6F.png" group-title="🇧🇷 Brasil",D+ TV 🇧🇷
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w916705553.m3u8
+
+#EXTINF:-1 cuid="394" tvg-name="Master show tv 🇧🇷" tvg-logo="https://i.imgur.com/haXHFCT.png" group-title="🇧🇷 Brasil",Master show tv 🇧🇷
+https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+
+#EXTINF:-1 cuid="395" tvg-name="TVE 🇧🇷" tvg-id="TVE" tvg-logo="http://i.imgur.com/gQ4GDzQ.png" group-title="🇧🇷 Brasil",TVE 🇧🇷
+http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
+
+#EXTINF:-1 cuid="396" tvg-name="Resumo da Ópera 🇧🇷" tvg-logo="https://i.imgur.com/yVux2yk.png" group-title="🇧🇷 Brasil",Resumo da Ópera 🇧🇷
+https://011news.akamaized.net/011news/011news/playlist.m3u8
+
+#EXTINF:-1 cuid="397" tvg-name="Tv Mais Brasil 🇧🇷" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/TV_MAIS_BRASIL_LOGO_100x100_V7kHDz6.png" group-title="🇧🇷 Brasil",Tv Mais Brasil 🇧🇷
+https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist_w2083557685.m3u8
+
+#EXTINF:-1 cuid="398" tvg-name="Miss Universo" tvg-logo="https://i.pinimg.com/280x280_RS/8b/86/22/8b86223eee0d9cb0e735dc32739356b6.jpg" group-title="🇧🇷 Brasil",Miss Universo 🇧🇷
+https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
