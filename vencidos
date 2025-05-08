@@ -1,5 +1,4 @@
-
-
+#EXTM3U url-tvg="https://www.temporary-url.com/0FF3,https://www.temporary-url.com/567DBA,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz"
 
 
 #EXTM3U url-tvg="https://www.temporary-url.com/0FF3,https://www.temporary-url.com/567DBA,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz"
@@ -383,34 +382,34 @@ https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mp
 disney
 
 #EXTINF:-1 group-logo="https://i.ibb.co/CM77Yjf/original.png" 
-#EXTINF:-1 ch-number="141" tvg-id="" tvg-logo="https://i.ibb.co/CM77Yjf/original.png" , ESPN en Disney Plus 1
+#EXTINF:-1 ch-number="141" tvg-id="" tvg-logo="https://i.ibb.co/CM77Yjf/original.png" , group-title="Disney+", ESPN en Disney Plus 1
 https://x4ss7l01e.gwjbggdx.space/disney1/index.m3u8
 
-#EXTINF:-1 ch-number="142" tvg-id="" tvg-logo="https://i.ibb.co/CM77Yjf/original.png" , ESPN en Disney Plus 2
+#EXTINF:-1 ch-number="142" tvg-id="" tvg-logo="https://i.ibb.co/CM77Yjf/original.png" , group-title="Disney+", ESPN en Disney Plus 2
 https://x4ss7l01e.gwjbggdx.space/disney2/index.m3u8
 
-#EXTINF:-1 ch-number="143" tvg-id="" tvg-logo="https://i.ibb.co/CM77Yjf/original.png" , ESPN En Disney Plus 3
+#EXTINF:-1 ch-number="143" tvg-id="" tvg-logo="https://i.ibb.co/CM77Yjf/original.png" , group-title="Disney+", ESPN En Disney Plus 3
 https://x4ss7l01e.gwjbggdx.space/disney3/index.m3u8
 
-#EXTINF:-1 ch-number="144" tvg-id="" tvg-logo="https://i.ibb.co/CM77Yjf/original.png" , ESPN en Disney Plus 4
+#EXTINF:-1 ch-number="144" tvg-id="" tvg-logo="https://i.ibb.co/CM77Yjf/original.png" , group-title="Disney+", ESPN en Disney Plus 4
 https://x4ss7l01e.gwjbggdx.space/disney4/index.m3u8
 
-#EXTINF:-1 ch-number="145" tvg-id="" tvg-logo="https://i.ibb.co/CM77Yjf/original.png" , ESPN en Disney Plus 5
+#EXTINF:-1 ch-number="145" tvg-id="" tvg-logo="https://i.ibb.co/CM77Yjf/original.png" , group-title="Disney+", ESPN en Disney Plus 5
 https://x4ss7l01e.gwjbggdx.space/disney5/index.m3u8
 
-#EXTINF:-1 ch-number="146" tvg-id="" tvg-logo="https://i.ibb.co/CM77Yjf/original.png" , ESPN en Disney Plus 6
+#EXTINF:-1 ch-number="146" tvg-id="" tvg-logo="https://i.ibb.co/CM77Yjf/original.png" , group-title="Disney+", ESPN en Disney Plus 6
 https://x4ss7l01e.gwjbggdx.space/disney6/index.m3u8
 
-#EXTINF:-1 ch-number="147" tvg-id="" tvg-logo=, ESPN en Disney Plus 7
+#EXTINF:-1 ch-number="147" tvg-id="" tvg-logo="https://i.ibb.co/CM77Yjf/original.png" , group-title="Disney+", group-title="Disney+", ESPN en Disney Plus 7
 https://x4ss7l01e.gwjbggdx.space/disney7/index.m3u8
 
-#EXTINF:-1 ch-number="148" tvg-id="" tvg-logo="https://i.ibb.co/CM77Yjf/original.png" , ESPN en Disney Plus 8
+#EXTINF:-1 ch-number="148" tvg-id="" tvg-logo="https://i.ibb.co/CM77Yjf/original.png" , group-title="Disney+", ESPN en Disney Plus 8
 https://x4ss7l01e.gwjbggdx.space/disney8/index.m3u8
 
-#EXTINF:-1 ch-number="149" tvg-id="" tvg-logo="https://i.ibb.co/CM77Yjf/original.png" , ESPN en Disney Plus 9
+#EXTINF:-1 ch-number="149" tvg-id="" tvg-logo="https://i.ibb.co/CM77Yjf/original.png" , group-title="Disney+", ESPN en Disney Plus 9
 https://x4ss7l01e.gwjbggdx.space/disney9/index.m3u8
 
-#EXTINF:-1 ch-number="150" tvg-id="" tvg-logo="https://i.ibb.co/CM77Yjf/original.png" , ESPN en Disney Plus 10
+#EXTINF:-1 ch-number="150" tvg-id="" tvg-logo="https://i.ibb.co/CM77Yjf/original.png" , group-title="Disney+", ESPN en Disney Plus 10
 https://x4ss7l01e.gwjbggdx.space/disney10/index.m3u8
 
 
@@ -421,16 +420,16 @@ https://x4ss7l01e.gwjbggdx.space/disney10/index.m3u8
 max
 
 #EXTINF:-1 group-logo="https://i.ibb.co/HpgCH2GS/tnt-max.png" 
-#EXTINF:-1 ch-number="151" tvg-id="" tvg-logo="https://i.ibb.co/HpgCH2GS/tnt-max.png", TNT Sports en Max 1
+#EXTINF:-1 ch-number="151" tvg-id="" tvg-logo="https://i.ibb.co/HpgCH2GS/tnt-max.png", group-title="TNT Max", TNT Sports en Max 1
 https://x4ss7l01e.gwjbggdx.space/max1/index.m3u8
 
-#EXTINF:-1 ch-number="152" tvg-id="" tvg-logo="https://i.ibb.co/HpgCH2GS/tnt-max.png", TNT Sports en Max 2
+#EXTINF:-1 ch-number="152" tvg-id="" tvg-logo="https://i.ibb.co/HpgCH2GS/tnt-max.png", group-title="TNT Max", TNT Sports en Max 2
 https://x4ss7l01e.gwjbggdx.space/max2/index.m3u8
 
-#EXTINF:-1 ch-number="153" tvg-id="" tvg-logo="https://i.ibb.co/HpgCH2GS/tnt-max.png" TNT Sports en Max 3, 
+#EXTINF:-1 ch-number="153" tvg-id="" tvg-logo="https://i.ibb.co/HpgCH2GS/tnt-max.png" group-title="TNT Max", TNT Sports en Max 3, 
 https://x4ss7l01e.gwjbggdx.space/max3/index.m3u8
 
-#EXTINF:-1 ch-number="154" tvg-id="" tvg-logo="https://i.ibb.co/HpgCH2GS/tnt-max.png", TNT Sports en Max 4
+#EXTINF:-1 ch-number="154" tvg-id="" tvg-logo="https://i.ibb.co/HpgCH2GS/tnt-max.png", group-title="TNT Max", TNT Sports en Max 4
 https://x4ss7l01e.gwjbggdx.space/max4/index.m3u8
 
 
@@ -1269,49 +1268,58 @@ http://cdn.sensa.com.ar/bpk-tv/VePlus/default/index_fk.mpd?|referer=https://play
 uruguay
 
 
-#EXTINF:-1 group-logo="https://i.ibb.co/pvCpWYfr/2025-05-06-13-37-13.png" 
+
+#EXTINF:-1 group-logo="https://i.ibb.co/pvCpWYfr/2025-05-06-13-37-13.png"
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b536cd1716647ee94c45fa4836d29d6:d691c88a95440666742d1d8183182347
 #EXTINF:-1 group-title="Uruguay", ch-number="701" tvg-id="TV Ciudad HD.uy" tvg-name="TEVECIUDAD" tvg-logo="https://dl.dropbox.com/scl/fi/xb8mxyjfndxc2a8b26s94/tvciudad.png?rlkey=tdm6cihv0v8kpneo2t8m3j2hv&dl=1", TV Ciudad Uruguay
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ciudad.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
+#EXTINF:-1 group-logo="https://i.ibb.co/pvCpWYfr/2025-05-06-13-37-13.png" 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=202a19e4871c4739a8010aa7b25af37d:07015b4cfa048a3351b83d60aeca5ead
 #EXTINF:-1 ch-number="702" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UCLTV.png?raw=true" group-title="Uruguay", UCL Uruguay
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc_C/Canal_U.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
+#EXTINF:-1 group-logo="https://i.ibb.co/pvCpWYfr/2025-05-06-13-37-13.png" 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b96960aa715a4e51b7e952e81c99ac8e&key=5bbffc680764dbd63d90b774b3aa0c0a
 #EXTINF:-1 group-title="Uruguay", ch-number="703" tvg-id="VTV HD.uy" tvg-name="VTV" tvg-logo="https://dl.dropbox.com/scl/fi/j4p5brzwswii95bs08b2g/vtv.png?rlkey=dqxls5mo4n3idcc6rajqyeawd&dl=1", VTV Uruguay
 https://cdn.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc/VTV_HD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
+#EXTINF:-1 group-logo="https://i.ibb.co/pvCpWYfr/2025-05-06-13-37-13.png" 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dabefaac89742589778fcfab78f08354:896dd914683b01c8044ffd34d7b6416b
 #EXTINF:-1 group-title="Uruguay", ch-number="704" tvg-id="Canal 4 HD.uy" tvg-name="CANAL 4 MONTECARLO" tvg-logo="https://dl.dropbox.com/scl/fi/7ef5e0zgop0g50xhxbiqo/canal4uy.png?rlkey=00sjjzd95ouch0csx3guddlip&dl=1", Canal 4 Uruguay
 https://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
+#EXTINF:-1 group-logo="https://i.ibb.co/pvCpWYfr/2025-05-06-13-37-13.png" 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c50518d7f59f4c0aa9a3079fe2b014fd&key=96038f76a2ba33866ea54eb4b260573f
 #EXTINF:-1 group-title="Uruguay", ch-number="705" tvg-id="Canal 5 HD.uy" tvg-name="CANAL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png", Canal 5 Uruguay
 https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc/TV_Nacional_Uy.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
+#EXTINF:-1 group-logo="https://i.ibb.co/pvCpWYfr/2025-05-06-13-37-13.png" 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8dd34782d754f8fcb1e8b38da9ffad0b&key=6fb97467c0f0ea13f86d41a70e029c51
 #EXTINF:-1 group-title="Uruguay", ch-number="710" tvg-id="Canal 10 HD.uy" tvg-name="SAETA" tvg-logo="https://dl.dropbox.com/scl/fi/ttrrell21rdfzeoakfbfp/canal10uy.png?rlkey=5rhflccdyhxpytvvyhn82xk6r&dl=1", Canal 10 Uruguay
 https://cdn.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
+#EXTINF:-1 group-logo="https://i.ibb.co/pvCpWYfr/2025-05-06-13-37-13.png" 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dfde9d35d7438bfdf61da5dfac0557c1&key=acb13370c03a7254e2bb9cc9d2125017
 #EXTINF:-1 group-title="Uruguay", ch-number="712" tvg-id="La Tele HD.uy" tvg-name="Teledoce" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/05/logo_tele2019.png", Canal 12 Uruguay
 https://cdn.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
+
+
 paraguay
 
 
-#EXTINF:-1 group-logo="https://i.ibb.co/5hGPwzhw/2025-05-06-15-54-37.png" 
+#EXTINF:-1 group-logo="https://i.ibb.co/35C7fRsN/2025-05-06-13-37-44.png" 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=746091c502edcf1e9d003535ce01f3e4:29081b5f92d1a37c88fbbd0ece55c839
 #EXTINF:-1 group-title="Paraguay" ch-number="716" tvg-id="" tvg-logo="https://i.ibb.co/k48NKrR/5diaspy.png", 5 Días Paraguay
@@ -1448,6 +1456,50 @@ https://musicsrc.cvattv.com.ar/RCNN
 
 #EXTINF:-1 group-title="Radios" ch-number="907" ,NACIONAL
 https://musicsrc.cvattv.com.ar/RNAC
+
+
+
+
+adultos
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb
+#EXTINF:-1 group-title="Adultos" adult=1 ch-number="1000" tvg-id="PlayboyTVLatinAmerica.us.uy" tvg-logo="https://dl.dropbox.com/scl/fi/7feu1a3ikd6r8r77pgses/playboy.jpg?rlkey=02u5uorraf4qldh8dxqc43vyh&dl=1", Playboy TV (18+)
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434
+#EXTINF:-1 group-title="Adultos" adult=1 ch-number="1001" tvg-id="Sextreme.br.uy" tvg-logo="https://www.totalmedios.com/img/noticias/2011/05/Noticia11837__236x150.jpg", Sextreme (18+)
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af
+#EXTINF:-1 group-title="Adultos" adult=1 ch-number="1002" tvg-id="Venus.ar.uy" tvg-logo="https://dl.dropbox.com/scl/fi/ccb7fp8758t7obaa9037c/venus.jpg?rlkey=tyvcaenu68rwe1ir2hj9amtc9&dl=1", Venus (18+)
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+
+señales que provienen de otras fuentes
+#EXTINF:-1 content-type="playlist" ,D Sports
+https://francope.elementfx.com/directv/canales/uru.txt
+
+#EXTINF:-1 content-type="playlist" señales youtube
+https://api.m3use.projectmoose.xyz/m3u/francopetrini/fr%20channels.m3u
+
+
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=
+#EXTVLCOPT:http-referrer=
+
+
+
+
 
 
 
