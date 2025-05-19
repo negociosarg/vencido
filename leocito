@@ -351,8 +351,25 @@ http://200.55.244.75:8000/play/a023/index.m3u8
 
 
 
+Gran Hermano
 
+#EXTINF:0 CUID="701" tvg-name="DeporTV" tvg-logo="https://i.ibb.co/SDR41nf9/2025-04-01-11-38-30.png" group-title="Gran Hermano", Gran Hermano
+http://novabox.club/live/conectStreax/K2tbMNebMW/380078.ts
 
+#EXTINF:0 CUID="701" tvg-name="DeporTV" tvg-logo="https://i.ibb.co/SDR41nf9/2025-04-01-11-38-30.png" group-title="Gran Hermano", Gran Hermano 2
+http://novabox.club/live/conectStreax/K2tbMNebMW/380079.ts
+
+#EXTINF:0 CUID="701" tvg-name="DeporTV" tvg-logo="https://i.ibb.co/SDR41nf9/2025-04-01-11-38-30.png" group-title="Gran Hermano", Gran Hermano 3
+http://novabox.club/live/conectStreax/K2tbMNebMW/380080.ts
+
+#EXTINF:0 CUID="701" tvg-name="DeporTV" tvg-logo="https://i.ibb.co/SDR41nf9/2025-04-01-11-38-30.png" group-title="Gran Hermano", Gran Hermano 4
+http://novabox.club/live/conectStreax/K2tbMNebMW/380081.ts
+
+#EXTINF:0 CUID="701" tvg-name="DeporTV" tvg-logo="https://i.ibb.co/SDR41nf9/2025-04-01-11-38-30.png" group-title="Gran Hermano", Gran Hermano 5
+http://novabox.club/live/conectStreax/K2tbMNebMW/399997.ts
+
+#EXTINF:0 CUID="701" tvg-name="DeporTV" tvg-logo="https://i.ibb.co/SDR41nf9/2025-04-01-11-38-30.png" group-title="Gran Hermano", Gran Hermano 6
+http://novabox.club/live/conectStreax/K2tbMNebMW/399998.ts
 
 
 
