@@ -1632,3 +1632,385 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b96
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="PLUTO TV",Karaoke por Stingray
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+FORMULA 1
+
+
+#EXTM3U 
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png"
+#EXTINF:-1 cuid="792" tvg-name="Band Sport 🇧🇷" tvg-id="BANDSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png" group-title="Fórmula 1", Band Sport 🇧🇷
+http://185.236.183.117:14048/Bandsporthd
+https://new.m3u8.one/bandsport/index.m3u8
+
+
+#EXTM3U 
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png"
+#EXTINF:-1 cuid="792" tvg-name="Band Sport 🇧🇷" tvg-id="BANDSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png" group-title="Fórmula 1", Band Sport 🇧🇷
+http://185.236.183.117:14048/Bandsporthd
+https://new.m3u8.one/bandsport/index.m3u8
+
+
+#EXTINF:-1 cuid="793" tvg-name="Band Sport 🇧🇷" tvg-id="São.Paulo/SP..Band.Sports.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png"  group-title="Fórmula 1", Band Sport/Band 🇧🇷
+#EXTVLCOPT:http-origin=https://kisskissplay.cfd
+#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium275/mono.m3u8
+
+#EXTINF:-1 cuid="927" tvg-name="Sky Sports F1 🇩🇪 🏎️" tvg-id="SKY.Sport.F1.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png" group-title="Fórmula 1", Sky Sports F1 🇩🇪 🏎️
+#EXTVLCOPT:http-origin=https://kisskissplay.cfd
+#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium274/mono.m3u8
+
+#EXTINF:-1 cuid="7777" tvg-name="DAZN.F1" tvg-id="DAZN.F1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png" group-title="Fórmula 1",  DAZN F1
+http://novabox.club/live/conectStreax/K2tbMNebMW/367554.ts
+
+
+#EXTINF:-1 cuid="7777" tvg-name="DAZN.F1" tvg-id="DAZN.F1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png" group-title="Fórmula 1",  DAZN F1
+http://novabox.club/live/conectStreax/K2tbMNebMW/367555.ts
+
+#EXTINF:-1 cuid="7777" tvg-name="DAZN.F1" tvg-id="DAZN.F1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png" group-title="Fórmula 1",  DAZN F1
+http://novabox.club/live/conectStreax/K2tbMNebMW/367556.ts
+
+#EXTINF:-1 cuid="7777" tvg-name="DAZN.F1" tvg-id="DAZN.F1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png" group-title="Fórmula 1",  DAZN F1
+http://novabox.club/live/conectStreax/K2tbMNebMW/365147.ts
+
+
+#EXTINF:-1 tvg-name="Band" tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png" group-title="Fórmula 1", Band
+#EXTVLCOPT:http-referrer=https://www.clarotvmais.com.br/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOBNHD/dsc2/manifest.mpd
+
+
+#EXTINF:-1 cuid="364" tvg-name="Band ⚽️🏎️" tvg-id="São.Paulo/SP..Band.HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png" group-title="Fórmula 1", Band
+http://185.236.183.117:14033/Bandfhd
+http://15.235.50.115:14522/Bandsd
+
+#EXTINF:-1 cuid="365" tvg-name="Band ⚽️🏎️" tvg-id="São.Paulo/SP..Band.HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png" group-title="Fórmula 1", Band
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
+https://alanza.iptv2022.com/sh/TV_VALE_DO_URUARA/index.m3u8
+
+#EXTINF:0 CUID="5552" tvg-name="BAND SPORTS FHD²²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png" group-title="Fórmula 1", Band Sports
+http://novabox.club/live/conectStreax/K2tbMNebMW/355630.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEPORTES PREMIUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/cTBqj5X/2c7aaf362485babc23e951c7ac01975d-insignia-de-calidad-premium.webp" 
+#EXTINF:0 CUID="5355" tvg-name="TUDN HD (TL)" tvg-logo="https://logo.iptveditor.com/tudn.png" group-title="Conect Deportes",TUDN HD (TL)
+http://novabox.club/live/conectStreax/K2tbMNebMW/86946.m3u8
+#EXTINF:0 CUID="5356" tvg-name="TUDN" tvg-logo="https://logo.iptveditor.com/tudn.png" group-title="Conect Deportes",TUDN
+http://novabox.club/live/conectStreax/K2tbMNebMW/86945.m3u8
+#EXTINF:0 CUID="5358" tvg-name="ESPN 3 (COL)" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="Conect Deportes",ESPN 3 (COL)
+http://novabox.club/live/conectStreax/K2tbMNebMW/208556.m3u8
+#EXTINF:0 CUID="5359" tvg-name="ESPN 2 (COL)" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="Conect Deportes",ESPN 2 (COL)
+http://novabox.club/live/conectStreax/K2tbMNebMW/208555.m3u8
+#EXTINF:0 CUID="5360" tvg-name="FOX SPORTS 2 (COL)" tvg-logo="https://logo.iptveditor.com/foxsports2.png" group-title="Conect Deportes",FOX SPORTS 2 (COL)
+http://novabox.club/live/conectStreax/K2tbMNebMW/208537.m3u8
+#EXTINF:0 CUID="5361" tvg-name="FOX SPORTS 1 (COL)" tvg-logo="https://logo.iptveditor.com/foxsports1.png" group-title="Conect Deportes",FOX SPORTS 1 (COL)
+http://novabox.club/live/conectStreax/K2tbMNebMW/208536.m3u8
+#EXTINF:0 CUID="5362" tvg-name="ESPN 1 (COL)" tvg-logo="https://logo.iptveditor.com/espn1.png" group-title="Conect Deportes",ESPN 1 (COL)
+http://novabox.club/live/conectStreax/K2tbMNebMW/208534.m3u8
+#EXTINF:0 CUID="5363" tvg-name="DIRECTV SPORTS 1 HD" tvg-logo="https://logo.iptveditor.com/directvsports1.png" group-title="Conect Deportes",DIRECTV SPORTS 1 HD
+http://novabox.club/live/conectStreax/K2tbMNebMW/208532.m3u8
+#EXTINF:0 CUID="5364" tvg-name="AR | DIRECTV SPORTS HD" tvg-logo="https://logo.iptveditor.com/directvsports.png" group-title="Conect Deportes",AR | DIRECTV SPORTS HD
+http://novabox.club/live/conectStreax/K2tbMNebMW/212422.m3u8
+#EXTINF:0 CUID="5366" tvg-name="AR | ESPN PREMIUM 1" tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="Conect Deportes",AR | ESPN PREMIUM 1
+http://novabox.club/live/conectStreax/K2tbMNebMW/191389.m3u8
+#EXTINF:0 CUID="5367" tvg-name="ESPN PREMIUM AR" tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="Conect Deportes",ESPN PREMIUM AR
+http://novabox.club/live/conectStreax/K2tbMNebMW/191290.m3u8
+#EXTINF:0 CUID="5368" tvg-name="ESPN PREMIUM AR" tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="Conect Deportes",ESPN PREMIUM AR
+http://novabox.club/live/conectStreax/K2tbMNebMW/191289.m3u8
+#EXTINF:0 CUID="5369" tvg-name="AR | FOX SPORTS 3" tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="Conect Deportes",AR | FOX SPORTS 3
+http://novabox.club/live/conectStreax/K2tbMNebMW/185775.m3u8
+#EXTINF:0 CUID="5370" tvg-name="AR | FOX SPORTS 2" tvg-logo="https://logo.iptveditor.com/foxsports2.png" group-title="Conect Deportes",AR | FOX SPORTS 2
+http://novabox.club/live/conectStreax/K2tbMNebMW/185774.m3u8
+#EXTINF:0 CUID="5371" tvg-name="AR | FOX SPORTS 1" tvg-logo="https://logo.iptveditor.com/foxsports1.png" group-title="Conect Deportes",AR | FOX SPORTS 1
+http://novabox.club/live/conectStreax/K2tbMNebMW/185773.m3u8
+#EXTINF:0 CUID="5372" tvg-name="AR | TNT SPORTS HD" tvg-logo="https://logo.iptveditor.com/tntsports.png" group-title="Conect Deportes",AR | TNT SPORTS HD
+http://novabox.club/live/conectStreax/K2tbMNebMW/177601.m3u8
+#EXTINF:0 CUID="5373" tvg-name="AR | ESPN 3" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="Conect Deportes",AR | ESPN 3
+http://novabox.club/live/conectStreax/K2tbMNebMW/177590.m3u8
+#EXTINF:0 CUID="5376" tvg-name="FOX SPORTS 2 (CHI)" tvg-logo="https://logo.iptveditor.com/foxsports2.png" group-title="Conect Deportes",FOX SPORTS 2 (CHI)
+http://novabox.club/live/conectStreax/K2tbMNebMW/208554.m3u8
+#EXTINF:0 CUID="5377" tvg-name="ESPN 3  (CHI)" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="Conect Deportes",ESPN 3  (CHI)
+http://novabox.club/live/conectStreax/K2tbMNebMW/208551.m3u8
+#EXTINF:0 CUID="5378" tvg-name="ESPN 2 (CHI)" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="Conect Deportes",ESPN 2 (CHI)
+http://novabox.club/live/conectStreax/K2tbMNebMW/208550.m3u8
+#EXTINF:0 CUID="5379" tvg-name="ESPN 1 SUR (CHI)" tvg-logo="https://logo.iptveditor.com/espnsur.png" group-title="Conect Deportes",ESPN 1 SUR (CHI)
+http://novabox.club/live/conectStreax/K2tbMNebMW/208549.m3u8
+#EXTINF:0 CUID="5380" tvg-name="LIGA CHILENA: TNT SPORTS  SD" tvg-logo="http://novabox.club:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj7V8gouTVGnqniazDwKoUta_m5dxwik7LTcxwbCHfjEozcJFdMfugWDi-OD2K8eYkvmz_wZ7uUsqnzR6cxWYwi1qwBgGnCBpMJcgN4Hmx2ao.png" group-title="Conect Deportes",LIGA CHILENA: TNT SPORTS  SD
+http://novabox.club/live/conectStreax/K2tbMNebMW/208545.m3u8
+#EXTINF:0 CUID="5381" tvg-name="LIGA CHILENA: TNT SPORTS FHD" tvg-logo="http://novabox.club:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj7V8gouTVGnqniazDwKoUta_m5dxwik7LTcxwbCHfjEozcJFdMfugWDi-OD2K8eYkvmz_wZ7uUsqnzR6cxWYwi1qwBgGnCBpMJcgN4Hmx2ao.png" group-title="Conect Deportes",LIGA CHILENA: TNT SPORTS FHD
+http://novabox.club/live/conectStreax/K2tbMNebMW/208544.m3u8
+#EXTINF:0 CUID="5382" tvg-name="LIGA CHILENA: TNT SPORTS PREMIUM 2 HD" tvg-logo="https://logo.iptveditor.com/tntsportspremium.png" group-title="Conect Deportes",LIGA CHILENA: TNT SPORTS PREMIUM 2 HD
+http://novabox.club/live/conectStreax/K2tbMNebMW/208543.m3u8
+#EXTINF:0 CUID="5383" tvg-name="LIGA CHILE: TNT SPORTS PREMIUM HD" tvg-logo="https://logo.iptveditor.com/tntsportspremium.png" group-title="Conect Deportes",LIGA CHILE: TNT SPORTS PREMIUM HD
+http://novabox.club/live/conectStreax/K2tbMNebMW/208542.m3u8
+#EXTINF:0 CUID="5384" tvg-name="CL | TNT SPORTS PREMIUM 3" tvg-logo="https://logo.iptveditor.com/tntsportspremium.png" group-title="Conect Deportes",CL | TNT SPORTS PREMIUM 3
+http://novabox.club/live/conectStreax/K2tbMNebMW/208538.m3u8
+#EXTINF:0 CUID="5385" tvg-name="CL | TNT SPORTS PREMIUM HD" tvg-logo="https://logo.iptveditor.com/tntsportspremium.png" group-title="Conect Deportes",CL | TNT SPORTS PREMIUM HD
+http://novabox.club/live/conectStreax/K2tbMNebMW/185851.m3u8
+#EXTINF:0 CUID="5386" tvg-name="AR | ESPN 3 SUR" tvg-logo="https://logo.iptveditor.com/espn3sur.png" group-title="Conect Deportes",AR | ESPN 3 SUR
+http://novabox.club/live/conectStreax/K2tbMNebMW/209837.m3u8
+#EXTINF:0 CUID="5387" tvg-name="AR | ESPN HD" tvg-logo="https://logo.iptveditor.com/espn.png" group-title="Conect Deportes",AR | ESPN HD
+http://novabox.club/live/conectStreax/K2tbMNebMW/209836.m3u8
+#EXTINF:0 CUID="5389" tvg-name="MONTERICO PERU" tvg-logo="https://logo.iptveditor.com/monterricotv.png" group-title="Conect Deportes",MONTERICO PERU
+http://novabox.club/live/conectStreax/K2tbMNebMW/324111.m3u8
+#EXTINF:0 CUID="5390" tvg-name="ESPN PERU OP2" tvg-logo="https://logo.iptveditor.com/espnod.png" group-title="Conect Deportes",ESPN PERU OP2
+http://novabox.club/live/conectStreax/K2tbMNebMW/324108.m3u8
+#EXTINF:0 CUID="5391" tvg-name="ESPN PERU" tvg-logo="https://logo.iptveditor.com/espn.png" group-title="Conect Deportes",ESPN PERU
+http://novabox.club/live/conectStreax/K2tbMNebMW/324107.m3u8
+#EXTINF:0 CUID="5392" tvg-name="GOL TV PERU OP3" tvg-logo="https://logo.iptveditor.com/goltv.png" group-title="Conect Deportes",GOL TV PERU OP3
+http://novabox.club/live/conectStreax/K2tbMNebMW/324106.m3u8
+#EXTINF:0 CUID="5393" tvg-name="GOL TV PERU OP2" tvg-logo="https://logo.iptveditor.com/goltv.png" group-title="Conect Deportes",GOL TV PERU OP2
+http://novabox.club/live/conectStreax/K2tbMNebMW/324105.m3u8
+#EXTINF:0 CUID="5394" tvg-name="GOL TV PERU" tvg-logo="https://logo.iptveditor.com/goltv.png" group-title="Conect Deportes",GOL TV PERU
+http://novabox.club/live/conectStreax/K2tbMNebMW/324104.m3u8
+#EXTINF:0 CUID="5395" tvg-name="OVACION TV PERU" tvg-logo="https://logo.iptveditor.com/ovaciontv.png" group-title="Conect Deportes",OVACION TV PERU
+http://novabox.club/live/conectStreax/K2tbMNebMW/324102.m3u8
+#EXTINF:0 CUID="5396" tvg-name="LA 1 MAX PERU OP3" tvg-logo="https://elcomercio.pe/resizer/B6H3HRs6cygo7DsP4dshkAj03uY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YYO6MTKKL5EGPNR3OIVKF5V7LI.jpeg" group-title="Conect Deportes",LA 1 MAX PERU OP3
+http://novabox.club/live/conectStreax/K2tbMNebMW/324101.m3u8
+#EXTINF:0 CUID="5397" tvg-name="LA 1 MAX PERU OP2" tvg-logo="https://elcomercio.pe/resizer/B6H3HRs6cygo7DsP4dshkAj03uY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YYO6MTKKL5EGPNR3OIVKF5V7LI.jpeg" group-title="Conect Deportes",LA 1 MAX PERU OP2
+http://novabox.club/live/conectStreax/K2tbMNebMW/324100.m3u8
+#EXTINF:0 CUID="5398" tvg-name="LA 1 MAX PERU" tvg-logo="https://elcomercio.pe/resizer/B6H3HRs6cygo7DsP4dshkAj03uY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YYO6MTKKL5EGPNR3OIVKF5V7LI.jpeg" group-title="Conect Deportes",LA 1 MAX PERU
+http://novabox.club/live/conectStreax/K2tbMNebMW/324099.m3u8
+#EXTINF:0 CUID="5399" tvg-name="MOVISTAR PLUS PERU OP2" tvg-logo="https://logo.iptveditor.com/movistarplus.png" group-title="Conect Deportes",MOVISTAR PLUS PERU OP2
+http://novabox.club/live/conectStreax/K2tbMNebMW/324098.m3u8
+#EXTINF:0 CUID="5400" tvg-name="MOVISTAR PLUS PERU" tvg-logo="https://logo.iptveditor.com/movistarplus.png" group-title="Conect Deportes",MOVISTAR PLUS PERU
+http://novabox.club/live/conectStreax/K2tbMNebMW/324097.m3u8
+#EXTINF:0 CUID="5401" tvg-name="MOVISTAR DEPORTES PERU OP2" tvg-logo="https://logo.iptveditor.com/movistardeportes.png" group-title="Conect Deportes",MOVISTAR DEPORTES PERU OP2
+http://novabox.club/live/conectStreax/K2tbMNebMW/324096.m3u8
+#EXTINF:0 CUID="5402" tvg-name="MOVISTAR DEPORTES PERU" tvg-logo="https://logo.iptveditor.com/movistardeportes.png" group-title="Conect Deportes",MOVISTAR DEPORTES PERU
+http://novabox.club/live/conectStreax/K2tbMNebMW/324095.m3u8
+#EXTINF:0 CUID="5403" tvg-name="DIRECTV PERU 2" tvg-logo="https://logo.iptveditor.com/tvdirect.png" group-title="Conect Deportes",DIRECTV PERU 2
+http://novabox.club/live/conectStreax/K2tbMNebMW/324093.m3u8
+#EXTINF:0 CUID="5404" tvg-name="DIREC TV PERU" tvg-logo="https://logo.iptveditor.com/tvdirect.png" group-title="Conect Deportes",DIREC TV PERU
+http://novabox.club/live/conectStreax/K2tbMNebMW/324092.m3u8
+#EXTINF:0 CUID="5405" tvg-name="LIGA 1 PERU" tvg-logo="https://logo.iptveditor.com/liga.png" group-title="Conect Deportes",LIGA 1 PERU
+http://novabox.club/live/conectStreax/K2tbMNebMW/324112.m3u8
+#EXTINF:0 CUID="5406" tvg-name="LIGA  1 OP2" tvg-logo="https://elbocon.pe/resizer/Epj7pxq5YnK6dFBSrcqA_qu4dxI=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/Z3C7CCH5NVADDMIKMCQZTBZCVA.jpg" group-title="Conect Deportes",LIGA  1 OP2
+http://novabox.club/live/conectStreax/K2tbMNebMW/324113.m3u8
+#EXTINF:0 CUID="5407" tvg-name="LIGA 1 OP3" tvg-logo="https://elbocon.pe/resizer/Epj7pxq5YnK6dFBSrcqA_qu4dxI=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/Z3C7CCH5NVADDMIKMCQZTBZCVA.jpg" group-title="Conect Deportes",LIGA 1 OP3
+http://novabox.club/live/conectStreax/K2tbMNebMW/324114.m3u8
+#EXTINF:0 CUID="5408" tvg-name="DIREC TV URUGUAY" tvg-logo="https://logo.iptveditor.com/tvdirect.png" group-title="Conect Deportes",DIREC TV URUGUAY
+http://novabox.club/live/conectStreax/K2tbMNebMW/357651.m3u8
+#EXTINF:0 CUID="5409" tvg-name="DIREC TV URUGUAY OP2" tvg-logo="https://logo.iptveditor.com/tvdirect.png" group-title="Conect Deportes",DIREC TV URUGUAY OP2
+http://novabox.club/live/conectStreax/K2tbMNebMW/357652.m3u8
+#EXTINF:0 CUID="5410" tvg-name="MX | Azteca 7 Directo" tvg-logo="http://novabox.club:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjJEOj59CLU7ZSrCmwZ24p7R_8ArX8ZPJHcvCoU98_pvZ57MpI0PgtzbYJgvtMjdm8.png" group-title="Conect Deportes",MX | Azteca 7 Directo
+http://novabox.club/live/conectStreax/K2tbMNebMW/357664.m3u8
+#EXTINF:0 CUID="5411" tvg-name="MEXICO AZTECA 7" tvg-logo="https://logo.iptveditor.com/azteca7.png" group-title="Conect Deportes",MEXICO AZTECA 7
+http://novabox.club/live/conectStreax/K2tbMNebMW/357665.m3u8
+#EXTINF:0 CUID="5412" tvg-name="MEXICO CANAL 5" tvg-logo="https://logo.iptveditor.com/canal5.png" group-title="Conect Deportes",MEXICO CANAL 5
+http://novabox.club/live/conectStreax/K2tbMNebMW/357666.m3u8
+#EXTINF:0 CUID="5413" tvg-name="MEXICO CANAL 5" tvg-logo="https://logo.iptveditor.com/canal5.png" group-title="Conect Deportes",MEXICO CANAL 5
+http://novabox.club/live/conectStreax/K2tbMNebMW/357667.m3u8
+#EXTINF:0 CUID="5414" tvg-name="MEXICO CANAL 5 Directo" tvg-logo="http://novabox.club:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjJEOj59CLU7ZSrCmwZ24p7R_8ArX8ZPJHcvCoU98_pvZ57MpI0PgtzbYJgvtMjdm8.png" group-title="Conect Deportes",MEXICO CANAL 5 Directo
+http://novabox.club/live/conectStreax/K2tbMNebMW/357668.m3u8
+#EXTINF:0 CUID="5415" tvg-name="MEXICO TUDN" tvg-logo="https://logo.iptveditor.com/tudn.png" group-title="Conect Deportes",MEXICO TUDN
+http://novabox.club/live/conectStreax/K2tbMNebMW/357669.m3u8
+#EXTINF:0 CUID="5416" tvg-name="TUDN MEXICO" tvg-logo="https://logo.iptveditor.com/tudn.png" group-title="Conect Deportes",TUDN MEXICO
+http://novabox.club/live/conectStreax/K2tbMNebMW/357670.m3u8
+#EXTINF:0 CUID="5417" tvg-name="TUDN USA" tvg-logo="https://logo.iptveditor.com/tudn.png" group-title="Conect Deportes",TUDN USA
+http://novabox.club/live/conectStreax/K2tbMNebMW/357672.m3u8
+#EXTINF:0 CUID="5418" tvg-name="TUDN USA" tvg-logo="https://logo.iptveditor.com/tudn.png" group-title="Conect Deportes",TUDN USA
+http://novabox.club/live/conectStreax/K2tbMNebMW/357673.m3u8
+#EXTINF:0 CUID="5420" tvg-name="Movistar PERU" tvg-logo="https://logo.iptveditor.com/movistar.png" group-title="Conect Deportes",Movistar PERU
+http://novabox.club/live/conectStreax/K2tbMNebMW/367165.m3u8
+#EXTINF:0 CUID="5421" tvg-name="Movistar peru" tvg-logo="https://logo.iptveditor.com/movistar.png" group-title="Conect Deportes",Movistar peru
+http://novabox.club/live/conectStreax/K2tbMNebMW/367166.m3u8
+#EXTINF:0 CUID="5426" tvg-name="TNT SPORTS ESTADIO 2 HD(SOLO EVENTOS)" tvg-logo="https://logo.iptveditor.com/tntsportspremium.png" group-title="Conect Deportes",TNT SPORTS ESTADIO 2 HD(SOLO EVENTOS)
+http://novabox.club/live/conectStreax/K2tbMNebMW/373197.m3u8
+#EXTINF:0 CUID="5427" tvg-name="LIGA CHILENA: TNT SPORTS ESTADIO HD" tvg-logo="https://logo.iptveditor.com/tntsportspremium.png" group-title="Conect Deportes",LIGA CHILENA: TNT SPORTS ESTADIO HD
+http://novabox.club/live/conectStreax/K2tbMNebMW/373198.m3u8
+#EXTINF:0 CUID="5428" tvg-name="FOX SPORTS 1 (CHI)" tvg-logo="https://logo.iptveditor.com/foxsports1.png" group-title="Conect Deportes",FOX SPORTS 1 (CHI)
+http://novabox.club/live/conectStreax/K2tbMNebMW/373199.m3u8
+#EXTINF:0 CUID="5429" tvg-name="CL | CDO Premium" tvg-logo="https://logo.iptveditor.com/cdopremium.png" group-title="Conect Deportes",CL | CDO Premium
+http://novabox.club/live/conectStreax/K2tbMNebMW/373200.m3u8
+#EXTINF:0 CUID="5430" tvg-name="DIRECTV SPORTS 2 (CHI)" tvg-logo="https://logo.iptveditor.com/directvsports2.png" group-title="Conect Deportes",DIRECTV SPORTS 2 (CHI)
+http://novabox.club/live/conectStreax/K2tbMNebMW/373201.m3u8
+#EXTINF:0 CUID="5431" tvg-name="DIRECTV SPORTS 1 (CHI)" tvg-logo="https://logo.iptveditor.com/directvsports1.png" group-title="Conect Deportes",DIRECTV SPORTS 1 (CHI)
+http://novabox.club/live/conectStreax/K2tbMNebMW/373202.m3u8
+#EXTINF:0 CUID="5480" tvg-name="VE | VTV Venezolana de Television" tvg-logo="https://logo.iptveditor.com/venezolanadetelevision.png" group-title="Conect Deportes",VE | VTV Venezolana de Television
+http://novabox.club/live/conectStreax/K2tbMNebMW/402186.m3u8
+#EXTINF:0 CUID="5481" tvg-name="Fox Deportes (op2)" tvg-logo="https://logo.iptveditor.com/foxdeportes.png" group-title="Conect Deportes",Fox Deportes (op2)
+http://novabox.club/live/conectStreax/K2tbMNebMW/401551.m3u8
+#EXTINF:0 CUID="5482" tvg-name="Fox Deportes" tvg-logo="https://logo.iptveditor.com/foxdeportes.png" group-title="Conect Deportes",Fox Deportes
+http://novabox.club/live/conectStreax/K2tbMNebMW/401550.m3u8
+#EXTINF:0 CUID="5483" tvg-name="Zapping Sports op1" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRRwRYdLpXv2Vvq02XwltCMAcQHrrK-2tB3T928Wu1FneN6Pe5jTI9TUtjnVCsDX8mw.png" group-title="Conect Deportes",Zapping Sports op1
+http://novabox.club/live/conectStreax/K2tbMNebMW/402190.m3u8
+#EXTINF:0 CUID="5484" tvg-name="Zapping Sports op2" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRRwRYdLpXv2Vvq02XwltCMAcQHrrK-2tB3T928Wu1FneN6Pe5jTI9TUtjnVCsDX8mw.png" group-title="Conect Deportes",Zapping Sports op2
+http://novabox.club/live/conectStreax/K2tbMNebMW/402191.m3u8
+#EXTINF:0 CUID="5485" tvg-name="ECDF" tvg-logo="https://logo.iptveditor.com/cdf.png" group-title="Conect Deportes",ECDF
+http://novabox.club/live/conectStreax/K2tbMNebMW/402192.m3u8
+#EXTINF:0 CUID="5486" tvg-name="ECDF 2" tvg-logo="http://novabox.club:80/images/fIC-K1r7WE5o2UFcBxyi5CGUCLqDqyyRmMAWMeMthHD6434B76Y2BBfC8_HDhTjo471TVkI0E6Uf4Ga65M0yEbmVmFnrB_sZUpwzH7PtZj8.png" group-title="Conect Deportes",ECDF 2
+http://novabox.club/live/conectStreax/K2tbMNebMW/402193.m3u8
+#EXTINF:0 CUID="5487" tvg-name="DIRECTV" tvg-logo="https://logo.iptveditor.com/tvdirect.png" group-title="Conect Deportes",DIRECTV
+http://novabox.club/live/conectStreax/K2tbMNebMW/402217.m3u8
+#EXTINF:0 CUID="5488" tvg-name="DSPORTS ECUADOR" tvg-logo="https://logo.iptveditor.com/dsports.png" group-title="Conect Deportes",DSPORTS ECUADOR
+http://novabox.club/live/conectStreax/K2tbMNebMW/402218.m3u8
+#EXTINF:0 CUID="5489" tvg-name="GOL TV ECUADOR OP1" tvg-logo="https://logo.iptveditor.com/goltv.png" group-title="Conect Deportes",GOL TV ECUADOR OP1
+http://novabox.club/live/conectStreax/K2tbMNebMW/402219.m3u8
+#EXTINF:0 CUID="5490" tvg-name="GOL TV ECUADOR OP2" tvg-logo="https://logo.iptveditor.com/goltv.png" group-title="Conect Deportes",GOL TV ECUADOR OP2
+http://novabox.club/live/conectStreax/K2tbMNebMW/402220.m3u8
+#EXTINF:0 CUID="5491" tvg-name="GOL TV ECUADOR OP3" tvg-logo="https://logo.iptveditor.com/goltv.png" group-title="Conect Deportes",GOL TV ECUADOR OP3
+http://novabox.club/live/conectStreax/K2tbMNebMW/402221.m3u8
+#EXTINF:0 CUID="5492" tvg-name="FOX SPORT ECUADOR" tvg-logo="https://logo.iptveditor.com/foxsport.png" group-title="Conect Deportes",FOX SPORT ECUADOR
+http://novabox.club/live/conectStreax/K2tbMNebMW/402222.m3u8
+#EXTINF:0 CUID="5501" tvg-name="AR | DIRECTV SPORTS 2 FHD" tvg-logo="https://logo.iptveditor.com/directvsports2.png" group-title="Conect Deportes",AR | DIRECTV SPORTS 2 FHD
+http://novabox.club/live/conectStreax/K2tbMNebMW/384296.m3u8
+#EXTINF:0 CUID="5503" tvg-name="AR | ESPN HD" tvg-logo="https://logo.iptveditor.com/espn.png" group-title="Conect Deportes",AR | ESPN HD
+http://novabox.club/live/conectStreax/K2tbMNebMW/177592.m3u8
+#EXTINF:0 CUID="5504" tvg-name="AR | ESPN 2" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="Conect Deportes",AR | ESPN 2
+http://novabox.club/live/conectStreax/K2tbMNebMW/177589.m3u8
+#EXTINF:0 CUID="5505" tvg-name="LIGA 1 MAX" tvg-logo="https://elcomercio.pe/resizer/B6H3HRs6cygo7DsP4dshkAj03uY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YYO6MTKKL5EGPNR3OIVKF5V7LI.jpeg" group-title="Conect Deportes",LIGA 1 MAX
+http://novabox.club/live/conectStreax/K2tbMNebMW/381716.m3u8
+#EXTINF:0 CUID="5506" tvg-name="LIGA 1 MAX" tvg-logo="https://elcomercio.pe/resizer/B6H3HRs6cygo7DsP4dshkAj03uY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YYO6MTKKL5EGPNR3OIVKF5V7LI.jpeg" group-title="Conect Deportes",LIGA 1 MAX
+http://novabox.club/live/conectStreax/K2tbMNebMW/381692.m3u8
+#EXTINF:0 CUID="5507" tvg-name="LIVE || ZAPPING SPORTS CL (2)" tvg-logo="http://novabox.club:80/images/d-bk-9X1vhfyAJ2H2K-o4Z-lB6S1VcOaJIx_1TRZ2paTLRkLqxgCqFVqpJEVjha0yBkJUS4MkYaK_9W-cmavMU6Z-ggvDT2bPatGEs8Vrvk.jpg" group-title="Conect Deportes",LIVE || ZAPPING SPORTS CL (2)
+http://novabox.club/live/conectStreax/K2tbMNebMW/382011.m3u8
+#EXTINF:0 CUID="5508" tvg-name="LIVE || ZAPPING SPORTS CL (1)" tvg-logo="http://novabox.club:80/images/d-bk-9X1vhfyAJ2H2K-o4Z-lB6S1VcOaJIx_1TRZ2paTLRkLqxgCqFVqpJEVjha0yBkJUS4MkYaK_9W-cmavMU6Z-ggvDT2bPatGEs8Vrvk.jpg" group-title="Conect Deportes",LIVE || ZAPPING SPORTS CL (1)
+http://novabox.club/live/conectStreax/K2tbMNebMW/382010.m3u8
+#EXTINF:0 CUID="5509" tvg-name="CHI| Te.le.tra.k (Va.lp.ar.a.i.so Sp.o.r.t.ing)" tvg-logo="https://logo.iptveditor.com/teletrak.png" group-title="Conect Deportes",CHI| Te.le.tra.k (Va.lp.ar.a.i.so Sp.o.r.t.ing)
+http://novabox.club/live/conectStreax/K2tbMNebMW/382006.m3u8
+#EXTINF:0 CUID="5510" tvg-name="TNT SPORTS PREMIUM op1" tvg-logo="https://logo.iptveditor.com/tntsportspremium.png" group-title="Conect Deportes",TNT SPORTS PREMIUM op1
+http://novabox.club/live/conectStreax/K2tbMNebMW/373195.m3u8
+#EXTINF:0 CUID="5511" tvg-name="TNT SPORTS PREMIUM op2" tvg-logo="https://logo.iptveditor.com/tntsportspremium.png" group-title="Conect Deportes",TNT SPORTS PREMIUM op2
+http://novabox.club/live/conectStreax/K2tbMNebMW/373194.m3u8
+#EXTINF:0 CUID="5512" tvg-name="TNT SPORTD PREMIUM" tvg-logo="https://logo.iptveditor.com/tntsportspremium.png" group-title="Conect Deportes",TNT SPORTD PREMIUM
+http://novabox.club/live/conectStreax/K2tbMNebMW/373193.m3u8
+#EXTINF:0 CUID="5513" tvg-name="CL | LIGA 2D - solo eventos 2da division" tvg-logo="http://novabox.club:80/images/QCqX5p5x3Y181Q8jwb82JB-yhnWNyWzF2OwRMeryGUhZWq8DS19Dxry024FZjVFq0Yqm-yvFyncZjZxIMuOgoK627WthZ1VRts_xFeBuexE.png" group-title="Conect Deportes",CL | LIGA 2D - solo eventos 2da division
+http://novabox.club/live/conectStreax/K2tbMNebMW/347670.m3u8
+#EXTINF:0 CUID="5514" tvg-name="CL | LIGA 2D" tvg-logo="https://logo.iptveditor.com/liga.png" group-title="Conect Deportes",CL | LIGA 2D
+http://novabox.club/live/conectStreax/K2tbMNebMW/346423.m3u8
+#EXTINF:0 CUID="5515" tvg-name="VTV + 1" tvg-logo="https://logo.iptveditor.com/vtv1.png" group-title="Conect Deportes",VTV + 1
+http://novabox.club/live/conectStreax/K2tbMNebMW/368643.m3u8
+#EXTINF:0 CUID="5516" tvg-name="VTV PLUS FHD" tvg-logo="https://logo.iptveditor.com/vtvplus.png" group-title="Conect Deportes",VTV PLUS FHD
+http://novabox.club/live/conectStreax/K2tbMNebMW/367164.m3u8
+#EXTINF:0 CUID="5517" tvg-name="VTV PLUS FHD" tvg-logo="https://logo.iptveditor.com/vtvplus.png" group-title="Conect Deportes",VTV PLUS FHD
+http://novabox.club/live/conectStreax/K2tbMNebMW/355588.m3u8
+#EXTINF:0 CUID="5518" tvg-name="AUFTV 3" group-title="Conect Deportes",AUFTV 3
+http://novabox.club/live/conectStreax/K2tbMNebMW/353341.m3u8
+#EXTINF:0 CUID="5519" tvg-name="NOSSO FUTEBOL 2(NET)" tvg-logo="http://novabox.club:80/images/Om6hjLsYDPG-1L_qMe6thg6LmnUmqAMkXQ-xu60K85wvER7M6Fe8y595Fs7i0M9z7K79B_xAnyri__RH__octQ.jpg" group-title="Conect Deportes",NOSSO FUTEBOL 2(NET)
+http://novabox.club/live/conectStreax/K2tbMNebMW/361406.m3u8
+#EXTINF:0 CUID="5520" tvg-name="NOSSO FUTEBOL 1(NET)" tvg-logo="http://novabox.club:80/images/Om6hjLsYDPG-1L_qMe6thg6LmnUmqAMkXQ-xu60K85wvER7M6Fe8y595Fs7i0M9z7K79B_xAnyri__RH__octQ.jpg" group-title="Conect Deportes",NOSSO FUTEBOL 1(NET)
+http://novabox.club/live/conectStreax/K2tbMNebMW/361405.m3u8
+#EXTINF:0 CUID="5521" tvg-name="FISH TV(NET)" tvg-logo="https://logo.iptveditor.com/fishtv.png" group-title="Conect Deportes",FISH TV(NET)
+http://novabox.club/live/conectStreax/K2tbMNebMW/361404.m3u8
+#EXTINF:0 CUID="5522" tvg-name="PREMIERE  Solo eventos OP 2(NET)" tvg-logo="https://assets.goal.com/images/v3/bltf395068874dfe7f9/feb9c2070b32898e950adae21b937982f722cd41.jpg?auto=webp&format=pjpg&width=3840&quality=60" group-title="Conect Deportes",PREMIERE  Solo eventos OP 2(NET)
+http://novabox.club/live/conectStreax/K2tbMNebMW/361403.m3u8
+#EXTINF:0 CUID="5523" tvg-name="PREMIERE  Solo eventos(NET)" tvg-logo="https://assets.goal.com/images/v3/bltf395068874dfe7f9/feb9c2070b32898e950adae21b937982f722cd41.jpg?auto=webp&format=pjpg&width=3840&quality=60" group-title="Conect Deportes",PREMIERE  Solo eventos(NET)
+http://novabox.club/live/conectStreax/K2tbMNebMW/361402.m3u8
+#EXTINF:0 CUID="5524" tvg-name="PRIME VIDEO 2(NET)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuX44KD2ClrcsnDmzLpyOHkakftcmX59I35g&s" group-title="Conect Deportes",PRIME VIDEO 2(NET)
+http://novabox.club/live/conectStreax/K2tbMNebMW/361401.m3u8
+#EXTINF:0 CUID="5525" tvg-name="PRIME VIDEO 1(NET)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuX44KD2ClrcsnDmzLpyOHkakftcmX59I35g&s" group-title="Conect Deportes",PRIME VIDEO 1(NET)
+http://novabox.club/live/conectStreax/K2tbMNebMW/361400.m3u8
+#EXTINF:0 CUID="5526" tvg-name="BR: PARAMOUNT + 2(NET)" tvg-logo="https://logo.iptveditor.com/paramount.png" group-title="Conect Deportes",BR: PARAMOUNT + 2(NET)
+http://novabox.club/live/conectStreax/K2tbMNebMW/361393.m3u8
+#EXTINF:0 CUID="5527" tvg-name="BR:  PARAMOUNT + 1 (NET)" tvg-logo="https://logo.iptveditor.com/paramount.png" group-title="Conect Deportes",BR:  PARAMOUNT + 1 (NET)
+http://novabox.club/live/conectStreax/K2tbMNebMW/361391.m3u8
+#EXTINF:0 CUID="5528" tvg-name="SPORTV 3 (MAS)" tvg-logo="https://logo.iptveditor.com/sportv3.png" group-title="Conect Deportes",SPORTV 3 (MAS)
+http://novabox.club/live/conectStreax/K2tbMNebMW/355860.m3u8
+#EXTINF:0 CUID="5529" tvg-name="SPORTV 3 (MAS)" tvg-logo="https://logo.iptveditor.com/sportv3.png" group-title="Conect Deportes",SPORTV 3 (MAS)
+http://novabox.club/live/conectStreax/K2tbMNebMW/355859.m3u8
+#EXTINF:0 CUID="5530" tvg-name="SPORTV 3 (MAS)" tvg-logo="https://logo.iptveditor.com/sportv3.png" group-title="Conect Deportes",SPORTV 3 (MAS)
+http://novabox.club/live/conectStreax/K2tbMNebMW/355858.m3u8
+#EXTINF:0 CUID="5531" tvg-name="SPORTV 2 (MAS)" tvg-logo="https://logo.iptveditor.com/sportv2.png" group-title="Conect Deportes",SPORTV 2 (MAS)
+http://novabox.club/live/conectStreax/K2tbMNebMW/355857.m3u8
+#EXTINF:0 CUID="5532" tvg-name="SPORTV 2 (MAS)" tvg-logo="https://logo.iptveditor.com/sportv2.png" group-title="Conect Deportes",SPORTV 2 (MAS)
+http://novabox.club/live/conectStreax/K2tbMNebMW/355856.m3u8
+#EXTINF:0 CUID="5533" tvg-name="SPORTV 2 (MAS)" tvg-logo="https://logo.iptveditor.com/sportv2.png" group-title="Conect Deportes",SPORTV 2 (MAS)
+http://novabox.club/live/conectStreax/K2tbMNebMW/355855.m3u8
+#EXTINF:0 CUID="5534" tvg-name="SPORTV 1 (MAS)" tvg-logo="https://logo.iptveditor.com/sportv1.png" group-title="Conect Deportes",SPORTV 1 (MAS)
+http://novabox.club/live/conectStreax/K2tbMNebMW/355854.m3u8
+#EXTINF:0 CUID="5535" tvg-name="SPORTV 1 (MAS)" tvg-logo="https://logo.iptveditor.com/sportv1.png" group-title="Conect Deportes",SPORTV 1 (MAS)
+http://novabox.club/live/conectStreax/K2tbMNebMW/355853.m3u8
+#EXTINF:0 CUID="5536" tvg-name="PREMIERE CLUBES 3(MAS)" tvg-logo="https://logo.iptveditor.com/premiereclubes.png" group-title="Conect Deportes",PREMIERE CLUBES 3(MAS)
+http://novabox.club/live/conectStreax/K2tbMNebMW/355844.m3u8
+#EXTINF:0 CUID="5537" tvg-name="PREMIERE CLUBES 3(MAS)" tvg-logo="https://logo.iptveditor.com/premiereclubes.png" group-title="Conect Deportes",PREMIERE CLUBES 3(MAS)
+http://novabox.club/live/conectStreax/K2tbMNebMW/355788.m3u8
+#EXTINF:0 CUID="5538" tvg-name="PREMIERE CLUBES 2 (MAS)" tvg-logo="https://logo.iptveditor.com/premiereclubes.png" group-title="Conect Deportes",PREMIERE CLUBES 2 (MAS)
+http://novabox.club/live/conectStreax/K2tbMNebMW/355787.m3u8
+#EXTINF:0 CUID="5539" tvg-name="PREMIERE CLUBES (MAS)" tvg-logo="https://logo.iptveditor.com/premiereclubes.png" group-title="Conect Deportes",PREMIERE CLUBES (MAS)
+http://novabox.club/live/conectStreax/K2tbMNebMW/355786.m3u8
+#EXTINF:0 CUID="5540" tvg-name="FOX SPORTS 2 HD²" tvg-logo="https://logo.iptveditor.com/foxsports2.png" group-title="Conect Deportes",FOX SPORTS 2 HD²
+http://novabox.club/live/conectStreax/K2tbMNebMW/355650.m3u8
+#EXTINF:0 CUID="5541" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://logo.iptveditor.com/foxsports2.png" group-title="Conect Deportes",FOX SPORTS 2 HD
+http://novabox.club/live/conectStreax/K2tbMNebMW/355649.m3u8
+#EXTINF:0 CUID="5542" tvg-name="ESPN EXTRA HD²" tvg-logo="https://logo.iptveditor.com/espnextra.png" group-title="Conect Deportes",ESPN EXTRA HD²
+http://novabox.club/live/conectStreax/K2tbMNebMW/355648.m3u8
+#EXTINF:0 CUID="5543" tvg-name="ESPN EXTRA HD" tvg-logo="https://logo.iptveditor.com/espnextra.png" group-title="Conect Deportes",ESPN EXTRA HD
+http://novabox.club/live/conectStreax/K2tbMNebMW/355647.m3u8
+#EXTINF:0 CUID="5544" tvg-name="ESPN EXTRA FHD²²" tvg-logo="https://logo.iptveditor.com/espnextra.png" group-title="Conect Deportes",ESPN EXTRA FHD²²
+http://novabox.club/live/conectStreax/K2tbMNebMW/355646.m3u8
+#EXTINF:0 CUID="5545" tvg-name="ESPN EXTRA FHD" tvg-logo="https://logo.iptveditor.com/espnextra.png" group-title="Conect Deportes",ESPN EXTRA FHD
+http://novabox.club/live/conectStreax/K2tbMNebMW/355645.m3u8
+#EXTINF:0 CUID="5546" tvg-name="ESPN 2 HD²" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="Conect Deportes",ESPN 2 HD²
+http://novabox.club/live/conectStreax/K2tbMNebMW/355644.m3u8
+#EXTINF:0 CUID="5547" tvg-name="ESPN 2 FHD²²" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="Conect Deportes",ESPN 2 FHD²²
+http://novabox.club/live/conectStreax/K2tbMNebMW/355642.m3u8
+#EXTINF:0 CUID="5548" tvg-name="ESPN 2" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="Conect Deportes",ESPN 2
+http://novabox.club/live/conectStreax/K2tbMNebMW/355641.m3u8
+#EXTINF:0 CUID="5549" tvg-name="ESPN 1 FHD" tvg-logo="https://logo.iptveditor.com/espn1.png" group-title="Conect Deportes",ESPN 1 FHD
+http://novabox.club/live/conectStreax/K2tbMNebMW/355637.m3u8
+#EXTINF:0 CUID="5550" tvg-name="COMBATE HD²(NET)" tvg-logo="https://logo.iptveditor.com/combate.png" group-title="Conect Deportes",COMBATE HD²(NET)
+http://novabox.club/live/conectStreax/K2tbMNebMW/355636.m3u8
+#EXTINF:0 CUID="5551" tvg-name="DAZ COMBATE" tvg-logo="https://logo.iptveditor.com/combate.png" group-title="Conect Deportes",DAZ COMBATE
+http://novabox.club/live/conectStreax/K2tbMNebMW/355634.m3u8
+#EXTINF:0 CUID="5552" tvg-name="BAND SPORTS FHD²²" tvg-logo="https://logo.iptveditor.com/bandsports.png" group-title="Conect Deportes",BAND SPORTS FHD²²
+http://novabox.club/live/conectStreax/K2tbMNebMW/355630.m3u8
+#EXTINF:0 CUID="5556" tvg-name="Win Sports" tvg-logo="https://logo.iptveditor.com/winsports.png" group-title="Conect Deportes",Win Sports
+http://novabox.club/live/conectStreax/K2tbMNebMW/176910.m3u8
+#EXTINF:0 CUID="5557" tvg-name="Win Sports + OP2" tvg-logo="https://logo.iptveditor.com/winsports.png" group-title="Conect Deportes",Win Sports + OP2
+http://novabox.club/live/conectStreax/K2tbMNebMW/176909.m3u8
+#EXTINF:0 CUID="5558" tvg-name="Win Sports +" tvg-logo="https://logo.iptveditor.com/winsports.png" group-title="Conect Deportes",Win Sports +
+http://novabox.club/live/conectStreax/K2tbMNebMW/176908.m3u8
+#EXTINF:0 CUID="5559" tvg-name="CO | Win Sports + OP1" tvg-logo="https://logo.iptveditor.com/winsports.png" group-title="Conect Deportes",CO | Win Sports + OP1
+http://novabox.club/live/conectStreax/K2tbMNebMW/176907.m3u8
+#EXTINF:0 CUID="5560" tvg-name="Win Sports OP1" tvg-logo="https://logo.iptveditor.com/winsports.png" group-title="Conect Deportes",Win Sports OP1
+http://novabox.club/live/conectStreax/K2tbMNebMW/176906.m3u8
+#EXTINF:0 CUID="5561" tvg-name="MEXICO AZTECA 7" tvg-logo="https://logo.iptveditor.com/azteca7.png" group-title="Conect Deportes",MEXICO AZTECA 7
+http://novabox.club/live/conectStreax/K2tbMNebMW/357663.m3u8
+#EXTINF:0 CUID="1315" tvg-name="Sp: Sky Sports Latino Premier League" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="Conect Deportes", Sky Sports Latino Premier League
+https://593zona.live:8443/live/PelisOTT25/PelisOTT25/863351.ts
+
+
