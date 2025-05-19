@@ -228,7 +228,7 @@ https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/in
 
 
 #EXTINF:0 CUID="738" tvg-name="HBO" tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="Pack HBO",HBO
-http://181.209.114.13:8000/play/a06o/index.m3u8
+http://novabox.club/live/conectStreax/K2tbMNebMW/405974.ts
 #EXTINF:0 CUID="738" tvg-name="HBO" tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="Pack HBO",HBO OP2
 http://tvunico.site/live/Goldtv2025/Goldtv2025/576901.m3u8
 #EXTINF:0 CUID="739" tvg-name="HBO 2" tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="Pack HBO",HBO 2
@@ -238,7 +238,7 @@ http://200.55.244.75:8000/play/a06r/index.m3u8
 #EXTINF:0 CUID="741" tvg-name="HBO Mundi" tvg-logo="https://logo.iptveditor.com/hbomundi.png" group-title="Pack HBO",HBO Mundi
 http://200.55.244.75:8000/play/a02a/index.m3u8
 #EXTINF:0 CUID="742" tvg-name="HBO Plus" tvg-logo="https://logo.iptveditor.com/hboplus.png" group-title="Pack HBO",HBO Plus
-http://181.209.114.13:8000/play/a06p/index.m3u8
+http://novabox.club/live/conectStreax/K2tbMNebMW/405993.ts
 #EXTINF:0 CUID="742" tvg-name="HBO Plus" tvg-logo="https://logo.iptveditor.com/hboplus.png" group-title="Pack HBO",HBO Plus OP2
 http://tvunico.site/live/Goldtv2025/Goldtv2025/581403.m3u8
 #EXTINF:0 CUID="743" tvg-name="HBO Signature" tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-title="Pack HBO",HBO Signature
@@ -348,47 +348,6 @@ http://200.55.244.75:8000/play/a0et/index.m3u8
 http://200.55.244.75:8000/play/a023/index.m3u8
 
 
-
-#EXTINF:0 CUID="493" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="https://i.ibb.co/ZKNb722/Las-Estrellas-logo-2016.png" group-title="Novelas",CANAL DE LAS ESTRELLAS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:0 CUID="494" tvg-name="CANELA TELENOVELAS" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/image.jpg" group-title="Novelas",CANELA TELENOVELAS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-#EXTINF:0 CUID="495" tvg-name="ESTRELLA NEWS" tvg-logo="https://image.xumo.com/v1/channels/channel/99991776/600x337.webp?type=channelTile" group-title="Novelas",ESTRELLA NEWS
-https://dbrb49pjoymg4.cloudfront.net/10001/99991776/hls/playlist.m3u8?ads.xumo_channelId=99991776
-#EXTINF:0 CUID="496" tvg-name="NOVELAS INOLVIDABLES" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/channel-novelas-inolvidables-16x9_0.jpg" group-title="Novelas",NOVELAS INOLVIDABLES
-https://ov.ottera.tv/channels/cnm_niv/master.m3u8
-#EXTINF:0 CUID="502" tvg-name="CANELA TELENOVELAS" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/image.jpg" group-title="Novelas",CANELA TELENOVELAS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-#EXTINF:0 CUID="503" tvg-name="ESTRELLA NEWS" tvg-logo="https://image.xumo.com/v1/channels/channel/99991776/600x337.webp?type=channelTile" group-title="Novelas",ESTRELLA NEWS
-https://dbrb49pjoymg4.cloudfront.net/10001/99991776/hls/playlist.m3u8?ads.xumo_channelId=99991776
-#EXTINF:0 CUID="504" tvg-name="NOVELAS INOLVIDABLES" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/channel-novelas-inolvidables-16x9_0.jpg" group-title="Novelas",NOVELAS INOLVIDABLES
-https://ov.ottera.tv/channels/cnm_niv/master.m3u8
-#EXTINF:0 CUID="2283" tvg-name="TLNovelas" tvg-logo="https://logo.iptveditor.com/tlnovelas.png" group-title="Novelas",TLNovelas
-http://181.209.114.13:8000/play/a09v/index.m3u8
-#EXTINF:0 CUID="2284" tvg-name="TNT Novelas HD" tvg-logo="https://logo.iptveditor.com/tntnovelas.png" group-title="Novelas",TNT Novelas HD
-http://181.209.114.13:8000/play/a07g/index.m3u8
-
-
-
-
-
-
-DIRECT SPORTS
-
-
-
-
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DIRECTV Sports", DSPORTS 
-http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DIRECTV Sports", DSPORTS
-http://190.216.162.157:8001/play/a05h/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DIRECTV Sports", DSPORTS
-http://190.216.162.157:8001/play/a09s/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DIRECTV Sports", DSPORTS
-http://190.216.162.157:8001/play/a05g/index.m3u8
 
 
 
