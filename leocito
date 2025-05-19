@@ -181,9 +181,9 @@ http://200.55.244.75:8000/play/a05b/index.m3u8
 #EXTINF:0 CUID="719" tvg-name="ESPN 4 HD" tvg-logo="https://logo.iptveditor.com/espn4.png" group-title="Deportes Argentina",ESPN 4 HD
 http://200.55.244.75:8000/play/a076/index.m3u8
 #EXTINF:0 CUID="720" tvg-name="ESPN 5 HD" tvg-logo="https://logo.iptveditor.com/espn5.png" group-title="Deportes Argentina",ESPN 5 HD
-http://200.55.244.75:8000/play/a0es/index.m3u8
+http://zona593.live:8080/live/PelisOTT25/PelisOTT25/822874.ts
 #EXTINF:0 CUID="721" tvg-name="ESPN 6 HD" tvg-logo="https://logo.iptveditor.com/espn6.png" group-title="Deportes Argentina",ESPN 6 HD
-http://200.55.244.75:8000/play/a0ew/index.m3u8
+http://zona593.live:8080/live/PelisOTT25/PelisOTT25/760255.ts
 #EXTINF:0 CUID="722" tvg-name="ESPN 7 HD" tvg-logo="https://logo.iptveditor.com/espn7.png" group-title="Deportes Argentina",ESPN 7 HD
 http://200.55.244.75:8000/play/a0ex/index.m3u8
 #EXTINF:0 CUID="723" tvg-name="ESPN HD" tvg-logo="https://logo.iptveditor.com/espn.png" group-title="Deportes Argentina",ESPN HD
