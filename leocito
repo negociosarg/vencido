@@ -186,7 +186,7 @@ http://200.55.244.75:8000/play/a02s/index.m3u8
 http://200.55.244.75:8000/play/a078/index.m3u8
 #EXTINF:0 CUID="667" tvg-name="AM Sports" tvg-logo="https://logo.iptveditor.com/amsports.png" group-title="Deportes",AM Sports
 http://200.55.244.75:8000/play/a01v/index.m3u8
-#EXTINF:0 CUID="711" tvg-name="E! Entertainment" tvg-logo="https://logo.iptveditor.com/eentertainment.png" group-title="Entretenimiento",E! Entertainment
+#EXTINF:0 CUID="711" tvg-name="E! Entertainment" tvg-logo="https://logo.iptveditor.com/eentertainment.png" group-title="Variedades",E! Entertainment
 http://200.55.244.75:8000/play/a050/index.m3u8
 
 #EXTINF:0 CUID="249" tvg-name="TYC SPORTS (PLAY 1)" tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="🇦🇷 TyC Sports Play",TYC SPORTS (PLAY 1)
