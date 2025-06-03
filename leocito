@@ -1,82 +1,82 @@
 #EXTM3U
-#EXTINF:0 CUID="161" tvg-name="El Trece Hd" tvg-logo="https://logo.iptveditor.com/eltrece.png" group-title="TV Argentina",El Trece Hd
+#EXTINF:0 CUID="161" tvg-name="El Trece Hd" tvg-logo="https://logo.iptveditor.com/eltrece.png" group-title="Argentina",El Trece Hd
 http://181.209.114.13:8000/play/a06d/index.m3u8
 https://logo.iptveditor.com/eltrece.png
-#EXTINF:0 CUID="803" tvg-name="el trece HD" tvg-logo="https://logo.iptveditor.com/eltrece.png" group-title="TV Argentina",el trece HD
+#EXTINF:0 CUID="803" tvg-name="el trece HD" tvg-logo="https://logo.iptveditor.com/eltrece.png" group-title="Argentina",el trece HD
 http://200.55.244.75:8000/play/a0bg/index.m3u8
-#EXTINF:0 CUID="700" tvg-name="DIPUTADOS TV" tvg-logo="https://logo.iptveditor.com/diputadostv.png" group-title="TV Argentina",DIPUTADOS TV
+#EXTINF:0 CUID="700" tvg-name="DIPUTADOS TV" tvg-logo="https://logo.iptveditor.com/diputadostv.png" group-title="Argentina",DIPUTADOS TV
 http://200.55.244.75:8000/play/a0dp/index.m3u8
-#EXTINF:0 CUID="802" tvg-name="el nueve HD" tvg-logo="https://logo.iptveditor.com/elnueve.png" group-title="TV Argentina",el nueve HD
+#EXTINF:0 CUID="802" tvg-name="el nueve HD" tvg-logo="https://logo.iptveditor.com/elnueve.png" group-title="Argentina",el nueve HD
 http://200.55.244.75:8000/play/a04h/index.m3u8
-#EXTINF:0 CUID="788" tvg-name="TV Publica HD" tvg-logo="https://logo.iptveditor.com/tvpublica.png" group-title="TV Argentina",TV Publica HD
+#EXTINF:0 CUID="788" tvg-name="TV Publica HD" tvg-logo="https://logo.iptveditor.com/tvpublica.png" group-title="Argentina",TV Publica HD
 http://200.55.244.75:8000/play/a0dg/index.m3u8
-#EXTINF:0 CUID="787" tvg-name="TV PUBLICA CH" tvg-logo="https://logo.iptveditor.com/tvpublica.png" group-title="TV Argentina",TV PUBLICA CH
+#EXTINF:0 CUID="787" tvg-name="TV PUBLICA CH" tvg-logo="https://logo.iptveditor.com/tvpublica.png" group-title="Argentina",TV PUBLICA CH
 http://200.55.244.75:8000/play/a0dm/index.m3u8
-#EXTINF:0 CUID="786" tvg-name="TV PUBLICA" tvg-logo="https://logo.iptveditor.com/tvpublica.png" group-title="TV Argentina",TV PUBLICA
+#EXTINF:0 CUID="786" tvg-name="TV PUBLICA" tvg-logo="https://logo.iptveditor.com/tvpublica.png" group-title="Argentina",TV PUBLICA
 http://200.55.244.75:8000/play/a0ec/index.m3u8
-#EXTINF:0 CUID="691" tvg-name="CRONICA TV" tvg-logo="https://logo.iptveditor.com/cronicatv.png" group-title="TV Argentina",CRONICA TV
+#EXTINF:0 CUID="691" tvg-name="CRONICA TV" tvg-logo="https://logo.iptveditor.com/cronicatv.png" group-title="Argentina",CRONICA TV
 http://200.55.244.75:8000/play/a0e9/index.m3u8
-#EXTINF:0 CUID="690" tvg-name="CNN en Espaæol" tvg-logo="https://logo.iptveditor.com/cnnenespaol.png" group-title="TV Argentina",CNN en Espaæol
+#EXTINF:0 CUID="690" tvg-name="CNN en Espaæol" tvg-logo="https://logo.iptveditor.com/cnnenespaol.png" group-title="Argentina",CNN en Espaæol
 http://200.55.244.75:8000/play/a054/index.m3u8
-#EXTINF:0 CUID="688" tvg-name="CN23" tvg-logo="https://logo.iptveditor.com/cn23.png" group-title="TV Argentina",CN23
+#EXTINF:0 CUID="688" tvg-name="CN23" tvg-logo="https://logo.iptveditor.com/cn23.png" group-title="Argentina",CN23
 http://200.55.244.75:8000/play/a0dx/index.m3u8
-#EXTINF:0 CUID="677" tvg-name="C5N" tvg-logo="https://logo.iptveditor.com/c5n.png" group-title="TV Argentina",C5N
+#EXTINF:0 CUID="677" tvg-name="C5N" tvg-logo="https://logo.iptveditor.com/c5n.png" group-title="Argentina",C5N
 http://200.55.244.75:8000/play/a01p/index.m3u8
-#EXTINF:0 CUID="673" tvg-name="America TV HD" tvg-logo="https://logo.iptveditor.com/americatv.png" group-title="TV Argentina",America TV HD
+#EXTINF:0 CUID="673" tvg-name="America TV HD" tvg-logo="https://logo.iptveditor.com/americatv.png" group-title="Argentina",America TV HD
 http://200.55.244.75:8000/play/a055/index.m3u8
-#EXTINF:0 CUID="666" tvg-name="A24" tvg-logo="https://logo.iptveditor.com/a24.png" group-title="TV Argentina",A24
+#EXTINF:0 CUID="666" tvg-name="A24" tvg-logo="https://logo.iptveditor.com/a24.png" group-title="Argentina",A24
 http://200.55.244.75:8000/play/a01o/index.m3u8
-#EXTINF:0 CUID="664" tvg-name="26TV" group-title="TV Argentina",26TV
+#EXTINF:0 CUID="664" tvg-name="26TV" group-title="Argentina",26TV
 http://200.55.244.75:8000/play/a01r/index.m3u8
-#EXTINF:0 CUID="699" tvg-name="Cronica" tvg-logo="https://logo.iptveditor.com/cronica.png" group-title="TV Argentina",Cronica
+#EXTINF:0 CUID="699" tvg-name="Cronica" tvg-logo="https://logo.iptveditor.com/cronica.png" group-title="Argentina",Cronica
 http://200.55.244.75:8000/play/a01q/index.m3u8
-#EXTINF:0 CUID="768" tvg-name="Rural" tvg-logo="https://logo.iptveditor.com/elrural.png" group-title="TV Argentina",Rural
+#EXTINF:0 CUID="768" tvg-name="Rural" tvg-logo="https://logo.iptveditor.com/elrural.png" group-title="Argentina",Rural
 http://200.55.244.75:8000/play/a02f/index.m3u8
-#EXTINF:0 CUID="760" tvg-name="PRESIDENCIA HD" tvg-logo="https://logo.iptveditor.com/residenciasaude.png" group-title="TV Argentina",PRESIDENCIA HD
+#EXTINF:0 CUID="760" tvg-name="PRESIDENCIA HD" tvg-logo="https://logo.iptveditor.com/residenciasaude.png" group-title="Argentina",PRESIDENCIA HD
 http://200.55.244.75:8000/play/a0dj/index.m3u8
-#EXTINF:0 CUID="751" tvg-name="La Nacion TV" tvg-logo="https://logo.iptveditor.com/lanacion+.png" group-title="TV Argentina",La Nacion TV
+#EXTINF:0 CUID="751" tvg-name="La Nacion TV" tvg-logo="https://logo.iptveditor.com/lanacion+.png" group-title="Argentina",La Nacion TV
 http://200.55.244.75:8000/play/a01s/index.m3u8
-#EXTINF:0 CUID="749" tvg-name="IP" group-title="TV Argentina",IP
+#EXTINF:0 CUID="749" tvg-name="IP" group-title="Argentina",IP
 http://200.55.244.75:8000/play/a0eb/index.m3u8
-#EXTINF:0 CUID="669" tvg-name="ARGENTINISIMA" tvg-logo="https://logo.iptveditor.com/argentinísima.png" group-title="TV Argentina",ARGENTINISIMA
+#EXTINF:0 CUID="669" tvg-name="ARGENTINISIMA" tvg-logo="https://logo.iptveditor.com/argentinísima.png" group-title="Argentina",ARGENTINISIMA
 http://200.55.244.75:8000/play/a0ey/index.m3u8
-#EXTINF:0 CUID="676" tvg-name="C12 POSADAS" group-title="TV Argentina",C12 POSADAS
+#EXTINF:0 CUID="676" tvg-name="C12 POSADAS" group-title="Argentina",C12 POSADAS
 http://200.55.244.75:8000/play/a0dn/index.m3u8
-#EXTINF:0 CUID="678" tvg-name="CANAL 9 LINK HD" tvg-logo="https://logo.iptveditor.com/canal9.png" group-title="TV Argentina",CANAL 9 LINK HD
+#EXTINF:0 CUID="678" tvg-name="CANAL 9 LINK HD" tvg-logo="https://logo.iptveditor.com/canal9.png" group-title="Argentina",CANAL 9 LINK HD
 http://200.55.244.75:8000/play/a0dc/index.m3u8
-#EXTINF:0 CUID="679" tvg-name="CANAL 9 RIO GALLEGOS" group-title="TV Argentina",CANAL 9 RIO GALLEGOS
+#EXTINF:0 CUID="679" tvg-name="CANAL 9 RIO GALLEGOS" group-title="Argentina",CANAL 9 RIO GALLEGOS
 http://200.55.244.75:8000/play/a0dq/index.m3u8
-#EXTINF:0 CUID="681" tvg-name="CANAL LOCAL" tvg-logo="https://logo.iptveditor.com/canallocal.png" group-title="TV Argentina",CANAL LOCAL
+#EXTINF:0 CUID="681" tvg-name="CANAL LOCAL" tvg-logo="https://logo.iptveditor.com/canallocal.png" group-title="Argentina",CANAL LOCAL
 http://200.55.244.75:8000/play/a0ev/index.m3u8
-#EXTINF:0 CUID="682" tvg-name="CANAL2MISIONES" tvg-logo="https://logo.iptveditor.com/canal2misiones.png" group-title="TV Argentina",CANAL2MISIONES
+#EXTINF:0 CUID="682" tvg-name="CANAL2MISIONES" tvg-logo="https://logo.iptveditor.com/canal2misiones.png" group-title="Argentina",CANAL2MISIONES
 http://200.55.244.75:8000/play/a0do/index.m3u8
-#EXTINF:0 CUID="683" tvg-name="CHANNEL 129" tvg-logo="https://logo.iptveditor.com/channel12.png" group-title="TV Argentina",CHANNEL 129
+#EXTINF:0 CUID="683" tvg-name="CHANNEL 129" tvg-logo="https://logo.iptveditor.com/channel12.png" group-title="Argentina",CHANNEL 129
 http://200.55.244.75:8000/play/a0dt/index.m3u8
-#EXTINF:0 CUID="684" tvg-name="CHANNEL 131" tvg-logo="https://logo.iptveditor.com/channel13.png" group-title="TV Argentina",CHANNEL 131
+#EXTINF:0 CUID="684" tvg-name="CHANNEL 131" tvg-logo="https://logo.iptveditor.com/channel13.png" group-title="Argentina",CHANNEL 131
 http://200.55.244.75:8000/play/a0du/index.m3u8
-#EXTINF:0 CUID="685" tvg-name="CHANNEL 133" tvg-logo="https://logo.iptveditor.com/channel13.png" group-title="TV Argentina",CHANNEL 133
+#EXTINF:0 CUID="685" tvg-name="CHANNEL 133" tvg-logo="https://logo.iptveditor.com/channel13.png" group-title="Argentina",CHANNEL 133
 http://200.55.244.75:8000/play/a0dv/index.m3u8
-#EXTINF:0 CUID="714" tvg-name="EL FOLKLORICO TV" group-title="TV Argentina",EL FOLKLORICO TV
+#EXTINF:0 CUID="714" tvg-name="EL FOLKLORICO TV" group-title="Argentina",EL FOLKLORICO TV
 http://200.55.244.75:8000/play/a0em/index.m3u8
-#EXTINF:0 CUID="715" tvg-name="ENCUENTRO HD" tvg-logo="https://logo.iptveditor.com/encuentro.png" group-title="TV Argentina",ENCUENTRO HD
+#EXTINF:0 CUID="715" tvg-name="ENCUENTRO HD" tvg-logo="https://logo.iptveditor.com/encuentro.png" group-title="Argentina",ENCUENTRO HD
 http://200.55.244.75:8000/play/a0dz/index.m3u8
-#EXTINF:0 CUID="728" tvg-name="Encuentro" tvg-logo="https://logo.iptveditor.com/encuentro.png" group-title="TV Argentina",Encuentro
+#EXTINF:0 CUID="728" tvg-name="Encuentro" tvg-logo="https://logo.iptveditor.com/encuentro.png" group-title="Argentina",Encuentro
 http://200.55.244.75:8000/play/a01m/index.m3u8
-#EXTINF:0 CUID="776" tvg-name="T5 SATELITAL" tvg-logo="https://logo.iptveditor.com/t5satelital.png" group-title="TV Argentina",T5 SATELITAL
+#EXTINF:0 CUID="776" tvg-name="T5 SATELITAL" tvg-logo="https://logo.iptveditor.com/t5satelital.png" group-title="Argentina",T5 SATELITAL
 http://200.55.244.75:8000/play/a0eo/index.m3u8
-#EXTINF:0 CUID="792" tvg-name="Telefe HD" tvg-logo="https://logo.iptveditor.com/telefe.png" group-title="TV Argentina",Telefe HD
+#EXTINF:0 CUID="792" tvg-name="Telefe HD" tvg-logo="https://logo.iptveditor.com/telefe.png" group-title="Argentina",Telefe HD
 http://200.55.244.75:8000/play/a06c/index.m3u8
-#EXTINF:0 CUID="801" tvg-name="ciudad magazine" tvg-logo="https://logo.iptveditor.com/ciudadmagazine.png" group-title="TV Argentina",ciudad magazine
+#EXTINF:0 CUID="801" tvg-name="ciudad magazine" tvg-logo="https://logo.iptveditor.com/ciudadmagazine.png" group-title="Argentina",ciudad magazine
 http://200.55.244.75:8000/play/a02h/index.m3u8
-#EXTINF:0 CUID="670" tvg-name="AUNAR" tvg-logo="https://logo.iptveditor.com/aunar.png" group-title="TV Argentina",AUNAR
+#EXTINF:0 CUID="670" tvg-name="AUNAR" tvg-logo="https://logo.iptveditor.com/aunar.png" group-title="Argentina",AUNAR
 http://200.55.244.75:8000/play/a0ed/index.m3u8
-#EXTINF:0 CUID="693" tvg-name="Canal de la Ciudad" tvg-logo="https://logo.iptveditor.com/canallaciudad.png" group-title="TV Argentina",Canal de la Ciudad
+#EXTINF:0 CUID="693" tvg-name="Canal de la Ciudad" tvg-logo="https://logo.iptveditor.com/canallaciudad.png" group-title="Argentina",Canal de la Ciudad
 http://200.55.244.75:8000/play/a06e/index.m3u8
-#EXTINF:0 CUID="755" tvg-name="Metro" tvg-logo="https://logo.iptveditor.com/metro.png" group-title="TV Argentina",Metro
+#EXTINF:0 CUID="755" tvg-name="Metro" tvg-logo="https://logo.iptveditor.com/metro.png" group-title="Argentina",Metro
 http://200.55.244.75:8000/play/a02g/index.m3u8
-#EXTINF:0 CUID="770" tvg-name="Somos Uno" tvg-logo="https://logo.iptveditor.com/somos.png" group-title="TV Argentina",Somos Uno
+#EXTINF:0 CUID="770" tvg-name="Somos Uno" tvg-logo="https://logo.iptveditor.com/somos.png" group-title="Argentina",Somos Uno
 http://200.55.244.75:8000/play/a0en/index.m3u8
-#EXTINF:0 CUID="781" tvg-name="TN HD"tvg-logo="https://logo.iptveditor.com/todonoticias.png"group-title="TV Argentina",TN HD
+#EXTINF:0 CUID="781" tvg-name="TN HD"tvg-logo="https://logo.iptveditor.com/todonoticias.png"group-title="Argentina",TN HD
 http://200.55.244.75:8000/play/a058/index.m3u8
 
 
