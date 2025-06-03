@@ -67,9 +67,9 @@ http://200.55.244.75:8000/play/a058/index.m3u8
 
 
 
-#EXTINF:0 CUID="804" tvg-name="TNT Sports HD" tvg-logo="https://logo.iptveditor.com/tntsports.png" group-title="Pack Futbol Argentino",TNT Sports HD
+#EXTINF:0 CUID="804" tvg-name="TNT Sports HD" tvg-logo="https://logo.iptveditor.com/tntsports.png" group-title="Pack Fútbol Argentino",TNT Sports HD
 http://200.55.244.75:8000/play/a0bc/index.m3u8
-#EXTINF:0 CUID="805" tvg-name="ESPN Premium HD" tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="Pack Futbol Argentino",ESPN Premium HD
+#EXTINF:0 CUID="805" tvg-name="ESPN Premium HD" tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="Pack Fútbol Argentino",ESPN Premium HD
 http://200.55.244.75:8000/play/a078/index.m3u8
 
 
