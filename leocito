@@ -42,20 +42,8 @@ http://200.55.244.75:8000/play/a0eb/index.m3u8
 http://200.55.244.75:8000/play/a0ey/index.m3u8
 #EXTINF:0 CUID="676" tvg-name="C12 POSADAS" group-title="Argentina",C12 POSADAS
 http://200.55.244.75:8000/play/a0dn/index.m3u8
-#EXTINF:0 CUID="678" tvg-name="CANAL 9 LINK HD" tvg-logo="https://logo.iptveditor.com/canal9.png" group-title="Argentina",CANAL 9 LINK HD
-http://200.55.244.75:8000/play/a0dc/index.m3u8
-#EXTINF:0 CUID="679" tvg-name="CANAL 9 RIO GALLEGOS" group-title="Argentina",CANAL 9 RIO GALLEGOS
-http://200.55.244.75:8000/play/a0dq/index.m3u8
-#EXTINF:0 CUID="681" tvg-name="CANAL LOCAL" tvg-logo="https://logo.iptveditor.com/canallocal.png" group-title="Argentina",CANAL LOCAL
-http://200.55.244.75:8000/play/a0ev/index.m3u8
 #EXTINF:0 CUID="682" tvg-name="CANAL2MISIONES" tvg-logo="https://logo.iptveditor.com/canal2misiones.png" group-title="Argentina",CANAL2MISIONES
 http://200.55.244.75:8000/play/a0do/index.m3u8
-#EXTINF:0 CUID="683" tvg-name="CHANNEL 129" tvg-logo="https://logo.iptveditor.com/channel12.png" group-title="Argentina",CHANNEL 129
-http://200.55.244.75:8000/play/a0dt/index.m3u8
-#EXTINF:0 CUID="684" tvg-name="CHANNEL 131" tvg-logo="https://logo.iptveditor.com/channel13.png" group-title="Argentina",CHANNEL 131
-http://200.55.244.75:8000/play/a0du/index.m3u8
-#EXTINF:0 CUID="685" tvg-name="CHANNEL 133" tvg-logo="https://logo.iptveditor.com/channel13.png" group-title="Argentina",CHANNEL 133
-http://200.55.244.75:8000/play/a0dv/index.m3u8
 #EXTINF:0 CUID="714" tvg-name="EL FOLKLORICO TV" group-title="Argentina",EL FOLKLORICO TV
 http://200.55.244.75:8000/play/a0em/index.m3u8
 #EXTINF:0 CUID="715" tvg-name="ENCUENTRO HD" tvg-logo="https://logo.iptveditor.com/encuentro.png" group-title="Argentina",ENCUENTRO HD
@@ -68,8 +56,6 @@ http://200.55.244.75:8000/play/a0eo/index.m3u8
 http://200.55.244.75:8000/play/a06c/index.m3u8
 #EXTINF:0 CUID="801" tvg-name="ciudad magazine" tvg-logo="https://logo.iptveditor.com/ciudadmagazine.png" group-title="Argentina",ciudad magazine
 http://200.55.244.75:8000/play/a02h/index.m3u8
-#EXTINF:0 CUID="670" tvg-name="AUNAR" tvg-logo="https://logo.iptveditor.com/aunar.png" group-title="Argentina",AUNAR
-http://200.55.244.75:8000/play/a0ed/index.m3u8
 #EXTINF:0 CUID="693" tvg-name="Canal de la Ciudad" tvg-logo="https://logo.iptveditor.com/canallaciudad.png" group-title="Argentina",Canal de la Ciudad
 http://200.55.244.75:8000/play/a06e/index.m3u8
 #EXTINF:0 CUID="755" tvg-name="Metro" tvg-logo="https://logo.iptveditor.com/metro.png" group-title="Argentina",Metro
@@ -81,9 +67,9 @@ http://200.55.244.75:8000/play/a058/index.m3u8
 
 
 
-#EXTINF:0 CUID="804" tvg-name="TNT Sports HD" tvg-logo="https://logo.iptveditor.com/tntsports.png" group-title="⚽ Pack Futbol Argentino",TNT Sports HD
+#EXTINF:0 CUID="804" tvg-name="TNT Sports HD" tvg-logo="https://logo.iptveditor.com/tntsports.png" group-title="Pack Futbol Argentino",TNT Sports HD
 http://200.55.244.75:8000/play/a0bc/index.m3u8
-#EXTINF:0 CUID="805" tvg-name="ESPN Premium HD" tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="⚽ Pack Futbol Argentino",ESPN Premium HD
+#EXTINF:0 CUID="805" tvg-name="ESPN Premium HD" tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="Pack Futbol Argentino",ESPN Premium HD
 http://200.55.244.75:8000/play/a078/index.m3u8
 
 
@@ -109,96 +95,96 @@ http://200.55.244.75:8000/play/a01n/index.m3u8
 
 
 
-#EXTINF:0 CUID="665" tvg-name="A&E HD" tvg-logo="https://logo.iptveditor.com/ae.png" group-title="🎞️ Cine, Novelas y Series",A&E HD
+#EXTINF:0 CUID="665" tvg-name="A&E HD" tvg-logo="https://logo.iptveditor.com/ae.png" group-title="Cine, Novelas y Series",A&E HD
 http://200.55.244.75:8000/play/a05i/index.m3u8
-#EXTINF:0 CUID="752" tvg-name="Lifetime" tvg-logo="https://logo.iptveditor.com/lifetime.png" group-title="🎞️ Cine, Novelas y Series",Lifetime
+#EXTINF:0 CUID="752" tvg-name="Lifetime" tvg-logo="https://logo.iptveditor.com/lifetime.png" group-title="Cine, Novelas y Series",Lifetime
 http://200.55.244.75:8000/play/a06n/index.m3u8
-#EXTINF:0 CUID="771" tvg-name="Sony HD" tvg-logo="https://logo.iptveditor.com/sony.png" group-title="🎞️ Cine, Novelas y Series",Sony HD
+#EXTINF:0 CUID="771" tvg-name="Sony HD" tvg-logo="https://logo.iptveditor.com/sony.png" group-title="Cine, Novelas y Series",Sony HD
 http://200.55.244.75:8000/play/a05d/index.m3u8
-#EXTINF:0 CUID="695" tvg-name="Cine.AR" tvg-logo="https://logo.iptveditor.com/cine.png" group-title="🎞️ Cine, Novelas y Series",Cine.AR
+#EXTINF:0 CUID="695" tvg-name="Cine.AR" tvg-logo="https://logo.iptveditor.com/cine.png" group-title="Cine, Novelas y Series",Cine.AR
 http://200.55.244.75:8000/play/a024/index.m3u8
-#EXTINF:0 CUID="696" tvg-name="Cinecanal HD" tvg-logo="https://logo.iptveditor.com/cinecanal.png" group-title="🎞️ Cine, Novelas y Series",Cinecanal HD
+#EXTINF:0 CUID="696" tvg-name="Cinecanal HD" tvg-logo="https://logo.iptveditor.com/cinecanal.png" group-title="Cine, Novelas y Series",Cinecanal HD
 http://200.55.244.75:8000/play/a07b/index.m3u8
-#EXTINF:0 CUID="772" tvg-name="Sony Movies HD" tvg-logo="https://logo.iptveditor.com/sonymovies.png" group-title="🎞️ Cine, Novelas y Series",Sony Movies HD
+#EXTINF:0 CUID="772" tvg-name="Sony Movies HD" tvg-logo="https://logo.iptveditor.com/sonymovies.png" group-title="Cine, Novelas y Series",Sony Movies HD
 http://200.55.244.75:8000/play/a05k/index.m3u8
-#EXTINF:0 CUID="774" tvg-name="Star Channel HD" tvg-logo="https://logo.iptveditor.com/starchannel.png" group-title="🎞️ Cine, Novelas y Series",Star Channel HD
+#EXTINF:0 CUID="774" tvg-name="Star Channel HD" tvg-logo="https://logo.iptveditor.com/starchannel.png" group-title="Cine, Novelas y Series",Star Channel HD
 http://200.55.244.75:8000/play/a079/index.m3u8
-#EXTINF:0 CUID="697" tvg-name="Cinemax" tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="🎞️ Cine, Novelas y Series",Cinemax
+#EXTINF:0 CUID="697" tvg-name="Cinemax" tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="Cine, Novelas y Series",Cinemax
 http://200.55.244.75:8000/play/a04s/index.m3u8
-#EXTINF:0 CUID="698" tvg-name="Comedy Central HD" tvg-logo="https://logo.iptveditor.com/comedycentral.png" group-title="🎞️ Cine, Novelas y Series",Comedy Central HD
+#EXTINF:0 CUID="698" tvg-name="Comedy Central HD" tvg-logo="https://logo.iptveditor.com/comedycentral.png" group-title="Cine, Novelas y Series",Comedy Central HD
 http://200.55.244.75:8000/play/a02x/index.m3u8
-#EXTINF:0 CUID="775" tvg-name="Studio Universal" tvg-logo="https://logo.iptveditor.com/studiouniversal.png" group-title="🎞️ Cine, Novelas y Series",Studio Universal
+#EXTINF:0 CUID="775" tvg-name="Studio Universal" tvg-logo="https://logo.iptveditor.com/studiouniversal.png" group-title="Cine, Novelas y Series",Studio Universal
 http://200.55.244.75:8000/play/a022/index.m3u8
-#EXTINF:0 CUID="780" tvg-name="TLNovelas" tvg-logo="https://logo.iptveditor.com/tlnovelas.png" group-title="🎞️ Cine, Novelas y Series",TLNovelas
+#EXTINF:0 CUID="780" tvg-name="TLNovelas" tvg-logo="https://logo.iptveditor.com/tlnovelas.png" group-title="Cine, Novelas y Series",TLNovelas
 http://200.55.244.75:8000/play/a0ae/index.m3u8
-#EXTINF:0 CUID="730" tvg-name="Europa Europa" tvg-logo="https://logo.iptveditor.com/europaeuropa.png" group-title="🎞️ Cine, Novelas y Series",Europa Europa
+#EXTINF:0 CUID="730" tvg-name="Europa Europa" tvg-logo="https://logo.iptveditor.com/europaeuropa.png" group-title="Cine, Novelas y Series",Europa Europa
 http://200.55.244.75:8000/play/a06v/index.m3u8
-#EXTINF:0 CUID="732" tvg-name="FX HD" tvg-logo="https://logo.iptveditor.com/fx.png" group-title="🎞️ Cine, Novelas y Series",FX HD
+#EXTINF:0 CUID="732" tvg-name="FX HD" tvg-logo="https://logo.iptveditor.com/fx.png" group-title="Cine, Novelas y Series",FX HD
 http://200.55.244.75:8000/play/a02v/index.m3u8
-#EXTINF:0 CUID="782" tvg-name="TNT HD" tvg-logo="https://logo.iptveditor.com/tnt.png" group-title="🎞️ Cine, Novelas y Series",TNT HD
+#EXTINF:0 CUID="782" tvg-name="TNT HD" tvg-logo="https://logo.iptveditor.com/tnt.png" group-title="Cine, Novelas y Series",TNT HD
 http://200.55.244.75:8000/play/a07d/index.m3u8
-#EXTINF:0 CUID="733" tvg-name="Film & Arts HD" tvg-logo="https://logo.iptveditor.com/filmarts.png" group-title="🎞️ Cine, Novelas y Series",Film & Arts HD
+#EXTINF:0 CUID="733" tvg-name="Film & Arts HD" tvg-logo="https://logo.iptveditor.com/filmarts.png" group-title="Cine, Novelas y Series",Film & Arts HD
 http://200.55.244.75:8000/play/a030/index.m3u8
-#EXTINF:0 CUID="773" tvg-name="Space HD" tvg-logo="https://logo.iptveditor.com/space.png" group-title="🎞️ Cine, Novelas y Series",Space HD
+#EXTINF:0 CUID="773" tvg-name="Space HD" tvg-logo="https://logo.iptveditor.com/space.png" group-title="Cine, Novelas y Series",Space HD
 http://200.55.244.75:8000/play/a02w/index.m3u8
-#EXTINF:0 CUID="783" tvg-name="TNT Novelas HD" tvg-logo="https://logo.iptveditor.com/tntnovelas.png" group-title="🎞️ Cine, Novelas y Series",TNT Novelas HD
+#EXTINF:0 CUID="783" tvg-name="TNT Novelas HD" tvg-logo="https://logo.iptveditor.com/tntnovelas.png" group-title="Cine, Novelas y Series",TNT Novelas HD
 http://200.55.244.75:8000/play/a07g/index.m3u8
-#EXTINF:0 CUID="777" tvg-name="TCM" tvg-logo="https://logo.iptveditor.com/tcm.png" group-title="🎞️ Cine, Novelas y Series",TCM
+#EXTINF:0 CUID="777" tvg-name="TCM" tvg-logo="https://logo.iptveditor.com/tcm.png" group-title="Cine, Novelas y Series",TCM
 http://200.55.244.75:8000/play/a020/index.m3u8
-#EXTINF:0 CUID="797" tvg-name="Universal HD" tvg-logo="https://logo.iptveditor.com/universal.png" group-title="🎞️ Cine, Novelas y Series",Universal HD
+#EXTINF:0 CUID="797" tvg-name="Universal HD" tvg-logo="https://logo.iptveditor.com/universal.png" group-title="Cine, Novelas y Series",Universal HD
 http://200.55.244.75:8000/play/a05j/index.m3u8
-#EXTINF:0 CUID="784" tvg-name="TNT Series HD" tvg-logo="https://logo.iptveditor.com/tntseries.png" group-title="🎞️ Cine, Novelas y Series",TNT Series HD
+#EXTINF:0 CUID="784" tvg-name="TNT Series HD" tvg-logo="https://logo.iptveditor.com/tntseries.png" group-title="Cine, Novelas y Series",TNT Series HD
 http://200.55.244.75:8000/play/a07e/index.m3u8
-#EXTINF:0 CUID="799" tvg-name="Volver" tvg-logo="https://logo.iptveditor.com/volver.png" group-title="🎞️ Cine, Novelas y Series",Volver
+#EXTINF:0 CUID="799" tvg-name="Volver" tvg-logo="https://logo.iptveditor.com/volver.png" group-title="Cine, Novelas y Series",Volver
 http://200.55.244.75:8000/play/a021/index.m3u8
-#EXTINF:0 CUID="668" tvg-name="AMC" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="🎞️ Cine, Novelas y Series",AMC
+#EXTINF:0 CUID="668" tvg-name="AMC" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="Cine, Novelas y Series",AMC
 http://200.55.244.75:8000/play/a01z/index.m3u8
-#EXTINF:0 CUID="671" tvg-name="AXN HD" tvg-logo="https://logo.iptveditor.com/axn.png" group-title="🎞️ Cine, Novelas y Series",AXN HD
+#EXTINF:0 CUID="671" tvg-name="AXN HD" tvg-logo="https://logo.iptveditor.com/axn.png" group-title="Cine, Novelas y Series",AXN HD
 http://200.55.244.75:8000/play/a05f/index.m3u8
-#EXTINF:0 CUID="686" tvg-name="CINE.AR" tvg-logo="https://logo.iptveditor.com/cine.png" group-title="🎞️ Cine, Novelas y Series",CINE.AR
+#EXTINF:0 CUID="686" tvg-name="CINE.AR" tvg-logo="https://logo.iptveditor.com/cine.png" group-title="Cine, Novelas y Series",CINE.AR
 http://200.55.244.75:8000/play/a0e5/index.m3u8
-#EXTINF:0 CUID="687" tvg-name="CINE.AR HD" tvg-logo="https://logo.iptveditor.com/cine.png" group-title="🎞️ Cine, Novelas y Series",CINE.AR HD
+#EXTINF:0 CUID="687" tvg-name="CINE.AR HD" tvg-logo="https://logo.iptveditor.com/cine.png" group-title="Cine, Novelas y Series",CINE.AR HD
 http://200.55.244.75:8000/play/a0dk/index.m3u8
-#EXTINF:0 CUID="762" tvg-name="Paramount HD" tvg-logo="https://logo.iptveditor.com/paramount.png" group-title="🎞️ Cine, Novelas y Series",Paramount HD
+#EXTINF:0 CUID="762" tvg-name="Paramount HD" tvg-logo="https://logo.iptveditor.com/paramount.png" group-title="Cine, Novelas y Series",Paramount HD
 http://200.55.244.75:8000/play/a02y/index.m3u8
-#EXTINF:0 CUID="726" tvg-name="El Canal  de las Estrellas" tvg-logo="https://logo.iptveditor.com/canallasestrellas.png" group-title="🎞️ Cine, Novelas y Series",El Canal  de las Estrellas
+#EXTINF:0 CUID="726" tvg-name="El Canal  de las Estrellas" tvg-logo="https://logo.iptveditor.com/canallasestrellas.png" group-title="Cine, Novelas y Series",El Canal  de las Estrellas
 http://200.55.244.75:8000/play/a06z/index.m3u8
-#EXTINF:0 CUID="763" tvg-name="Pasiones HD" tvg-logo="https://logo.iptveditor.com/pasiones.png" group-title="🎞️ Cine, Novelas y Series",Pasiones HD
+#EXTINF:0 CUID="763" tvg-name="Pasiones HD" tvg-logo="https://logo.iptveditor.com/pasiones.png" group-title="Cine, Novelas y Series",Pasiones HD
 http://200.55.244.75:8000/play/a0d7/index.m3u8
-#EXTINF:0 CUID="800" tvg-name="Warner Channel HD" tvg-logo="https://logo.iptveditor.com/warnerchannel.png" group-title="🎞️ Cine, Novelas y Series",Warner Channel HD
+#EXTINF:0 CUID="800" tvg-name="Warner Channel HD" tvg-logo="https://logo.iptveditor.com/warnerchannel.png" group-title="Cine, Novelas y Series",Warner Channel HD
 http://200.55.244.75:8000/play/a05e/index.m3u8
-#EXTINF:0 CUID="672" tvg-name="Adult swim HD" tvg-logo="https://logo.iptveditor.com/adultswim.png" group-title="🎞️ Cine, Novelas y Series",Adult swim HD
+#EXTINF:0 CUID="672" tvg-name="Adult swim HD" tvg-logo="https://logo.iptveditor.com/adultswim.png" group-title="Cine, Novelas y Series",Adult swim HD
 http://200.55.244.75:8000/play/a0dd/index.m3u8
 
 
 
-#EXTINF:0 CUID="701" tvg-name="DeporTV" tvg-logo="https://logo.iptveditor.com/deportv.png" group-title="Deportes Argentina",DeporTV
+#EXTINF:0 CUID="701" tvg-name="DeporTV" tvg-logo="https://logo.iptveditor.com/deportv.png" group-title="Deportes",DeporTV
 http://200.55.244.75:8000/play/a06h/index.m3u8
-#EXTINF:0 CUID="717" tvg-name="ESPN 2 HD" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="Deportes Argentina",ESPN 2 HD
+#EXTINF:0 CUID="717" tvg-name="ESPN 2 HD" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="Deportes",ESPN 2 HD
 http://200.55.244.75:8000/play/a059/index.m3u8
-#EXTINF:0 CUID="718" tvg-name="ESPN 3 HD" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="Deportes Argentina",ESPN 3 HD
+#EXTINF:0 CUID="718" tvg-name="ESPN 3 HD" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="Deportes",ESPN 3 HD
 http://200.55.244.75:8000/play/a05b/index.m3u8
-#EXTINF:0 CUID="719" tvg-name="ESPN 4 HD" tvg-logo="https://logo.iptveditor.com/espn4.png" group-title="Deportes Argentina",ESPN 4 HD
+#EXTINF:0 CUID="719" tvg-name="ESPN 4 HD" tvg-logo="https://logo.iptveditor.com/espn4.png" group-title="Deportes",ESPN 4 HD
 http://200.55.244.75:8000/play/a076/index.m3u8
-#EXTINF:0 CUID="720" tvg-name="ESPN 5 HD" tvg-logo="https://logo.iptveditor.com/espn5.png" group-title="Deportes Argentina",ESPN 5 HD
+#EXTINF:0 CUID="720" tvg-name="ESPN 5 HD" tvg-logo="https://logo.iptveditor.com/espn5.png" group-title="Deportes",ESPN 5 HD
 http://zona593.live:8080/live/PelisOTT25/PelisOTT25/822874.ts
-#EXTINF:0 CUID="721" tvg-name="ESPN 6 HD" tvg-logo="https://logo.iptveditor.com/espn6.png" group-title="Deportes Argentina",ESPN 6 HD
+#EXTINF:0 CUID="721" tvg-name="ESPN 6 HD" tvg-logo="https://logo.iptveditor.com/espn6.png" group-title="Deportes",ESPN 6 HD
 http://zona593.live:8080/live/PelisOTT25/PelisOTT25/760255.ts
-#EXTINF:0 CUID="723" tvg-name="ESPN HD" tvg-logo="https://logo.iptveditor.com/espn.png" group-title="Deportes Argentina",ESPN HD
+#EXTINF:0 CUID="723" tvg-name="ESPN HD" tvg-logo="https://logo.iptveditor.com/espn.png" group-title="Deportes",ESPN HD
 http://200.55.244.75:8000/play/a05a/index.m3u8
-#EXTINF:0 CUID="734" tvg-name="Fox Sports 2 HD" tvg-logo="https://logo.iptveditor.com/foxsports2.png" group-title="Deportes Argentina",Fox Sports 2 HD
+#EXTINF:0 CUID="734" tvg-name="Fox Sports 2 HD" tvg-logo="https://logo.iptveditor.com/foxsports2.png" group-title="Deportes",Fox Sports 2 HD
 http://200.55.244.75:8000/play/a05c/index.m3u8
-#EXTINF:0 CUID="735" tvg-name="Fox Sports 3 HD" tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="Deportes Argentina",Fox Sports 3 HD
+#EXTINF:0 CUID="735" tvg-name="Fox Sports 3 HD" tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="Deportes",Fox Sports 3 HD
 http://200.55.244.75:8000/play/a02t/index.m3u8
-#EXTINF:0 CUID="736" tvg-name="Fox Sports HD" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="Deportes Argentina",Fox Sports HD
+#EXTINF:0 CUID="736" tvg-name="Fox Sports HD" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="Deportes",Fox Sports HD
 http://200.55.244.75:8000/play/a07j/index.m3u8
-#EXTINF:0 CUID="785" tvg-name="TNT Sports HD" tvg-logo="https://logo.iptveditor.com/tntsports.png" group-title="Deportes Argentina",TNT Sports HD
+#EXTINF:0 CUID="785" tvg-name="TNT Sports HD" tvg-logo="https://logo.iptveditor.com/tntsports.png" group-title="Deportes",TNT Sports HD
 http://200.55.244.75:8000/play/a0bc/index.m3u8
-#EXTINF:0 CUID="795" tvg-name="TyC Sports HD" tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="Deportes Argentina",TyC Sports HD
+#EXTINF:0 CUID="795" tvg-name="TyC Sports HD" tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="Deportes",TyC Sports HD
 http://200.55.244.75:8000/play/a02s/index.m3u8
-#EXTINF:0 CUID="724" tvg-name="ESPN Premium HD" tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="Deportes Argentina",ESPN Premium HD
+#EXTINF:0 CUID="724" tvg-name="ESPN Premium HD" tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="Deportes",ESPN Premium HD
 http://200.55.244.75:8000/play/a078/index.m3u8
-#EXTINF:0 CUID="667" tvg-name="AM Sports" tvg-logo="https://logo.iptveditor.com/amsports.png" group-title="Deportes Argentina",AM Sports
+#EXTINF:0 CUID="667" tvg-name="AM Sports" tvg-logo="https://logo.iptveditor.com/amsports.png" group-title="Deportes",AM Sports
 http://200.55.244.75:8000/play/a01v/index.m3u8
 #EXTINF:0 CUID="711" tvg-name="E! Entertainment" tvg-logo="https://logo.iptveditor.com/eentertainment.png" group-title="Entretenimiento",E! Entertainment
 http://200.55.244.75:8000/play/a050/index.m3u8
@@ -245,41 +231,41 @@ http://200.55.244.75:8000/play/a02c/index.m3u8
 http://200.55.244.75:8000/play/a02b/index.m3u8
 
 
-#EXTINF:0 CUID="287" tvg-name="CNN en Espaæol" tvg-logo="https://logo.iptveditor.com/cnnenespaol.png" group-title="🟪Variedades",CNN en Espaæol
+#EXTINF:0 CUID="287" tvg-name="CNN en Espaæol" tvg-logo="https://logo.iptveditor.com/cnnenespaol.png" group-title="Variedades",CNN en Espaæol
 http://181.209.114.13:8000/play/a054/index.m3u8
-#EXTINF:0 CUID="288" tvg-name="Discovery Channel HD" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="🟪Variedades",Discovery Channel HD
+#EXTINF:0 CUID="288" tvg-name="Discovery Channel HD" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="Variedades",Discovery Channel HD
 http://181.209.114.13:8000/play/a07i/index.m3u8
-#EXTINF:0 CUID="289" tvg-name="Discovery H&H HD" tvg-logo="https://logo.iptveditor.com/discovery.png" group-title="🟪Variedades",Discovery H&H HD
+#EXTINF:0 CUID="289" tvg-name="Discovery H&H HD" tvg-logo="https://logo.iptveditor.com/discovery.png" group-title="Variedades",Discovery H&H HD
 http://181.209.114.13:8000/play/a07h/index.m3u8
-#EXTINF:0 CUID="290" tvg-name="Discovery Science" tvg-logo="https://logo.iptveditor.com/discoveryscience.png" group-title="🟪Variedades",Discovery Science
+#EXTINF:0 CUID="290" tvg-name="Discovery Science" tvg-logo="https://logo.iptveditor.com/discoveryscience.png" group-title="Variedades",Discovery Science
 http://181.209.114.13:8000/play/a02k/index.m3u8
-#EXTINF:0 CUID="291" tvg-name="Discovery Theater HD" tvg-logo="https://logo.iptveditor.com/discoverytheater.png" group-title="🟪Variedades",Discovery Theater HD
+#EXTINF:0 CUID="291" tvg-name="Discovery Theater HD" tvg-logo="https://logo.iptveditor.com/discoverytheater.png" group-title="Variedades",Discovery Theater HD
 http://181.209.114.13:8000/play/a02z/index.m3u8
-#EXTINF:0 CUID="292" tvg-name="Discovery Turbo" tvg-logo="https://logo.iptveditor.com/discoveryturbo.png" group-title="🟪Variedades",Discovery Turbo
+#EXTINF:0 CUID="292" tvg-name="Discovery Turbo" tvg-logo="https://logo.iptveditor.com/discoveryturbo.png" group-title="Variedades",Discovery Turbo
 http://181.209.114.13:8000/play/a01w/index.m3u8
-#EXTINF:0 CUID="293" tvg-name="Discovery World HD" tvg-logo="https://logo.iptveditor.com/discoveryworld.png" group-title="🟪Variedades",Discovery World HD
+#EXTINF:0 CUID="293" tvg-name="Discovery World HD" tvg-logo="https://logo.iptveditor.com/discoveryworld.png" group-title="Variedades",Discovery World HD
 http://181.209.114.13:8000/play/a031/index.m3u8
-#EXTINF:0 CUID="294" tvg-name="E! Entertainment" tvg-logo="https://logo.iptveditor.com/eentertainment.png" group-title="🟪Variedades",E! Entertainment
+#EXTINF:0 CUID="294" tvg-name="E! Entertainment" tvg-logo="https://logo.iptveditor.com/eentertainment.png" group-title="Variedades",E! Entertainment
 http://181.209.114.13:8000/play/a050/index.m3u8
-#EXTINF:0 CUID="295" tvg-name="El Canal  de las Estrellas" tvg-logo="https://logo.iptveditor.com/canallasestrellas.png" group-title="🟪Variedades",El Canal  de las Estrellas
+#EXTINF:0 CUID="295" tvg-name="El Canal  de las Estrellas" tvg-logo="https://logo.iptveditor.com/canallasestrellas.png" group-title="Variedades",El Canal  de las Estrellas
 http://181.209.114.13:8000/play/a06z/index.m3u8
-#EXTINF:0 CUID="296" tvg-name="El Gourmet" tvg-logo="https://logo.iptveditor.com/elgourmet.png" group-title="🟪Variedades",El Gourmet
+#EXTINF:0 CUID="296" tvg-name="El Gourmet" tvg-logo="https://logo.iptveditor.com/elgourmet.png" group-title="Variedades",El Gourmet
 http://181.209.114.13:8000/play/a06w/index.m3u8
-#EXTINF:0 CUID="297" tvg-name="Film & Arts HD" tvg-logo="https://logo.iptveditor.com/filmarts.png" group-title="🟪Variedades",Film & Arts HD
+#EXTINF:0 CUID="297" tvg-name="Film & Arts HD" tvg-logo="https://logo.iptveditor.com/filmarts.png" group-title="Variedades",Film & Arts HD
 http://181.209.114.13:8000/play/a030/index.m3u8
-#EXTINF:0 CUID="298" tvg-name="HGTV" tvg-logo="https://logo.iptveditor.com/hgtv.png" group-title="🟪Variedades",HGTV
+#EXTINF:0 CUID="298" tvg-name="HGTV" tvg-logo="https://logo.iptveditor.com/hgtv.png" group-title="Variedades",HGTV
 http://181.209.114.13:8000/play/a02j/index.m3u8
-#EXTINF:0 CUID="299" tvg-name="The History Channel HD" tvg-logo="https://logo.iptveditor.com/thehistorychannel.png" group-title="🟪Variedades",The History Channel HD
+#EXTINF:0 CUID="299" tvg-name="The History Channel HD" tvg-logo="https://logo.iptveditor.com/thehistorychannel.png" group-title="Variedades",The History Channel HD
 http://181.209.114.13:8000/play/a05h/index.m3u8
-#EXTINF:0 CUID="300" tvg-name="History Channel" tvg-logo="https://logo.iptveditor.com/historychannel.png" group-title="🟪Variedades",History Channel
+#EXTINF:0 CUID="300" tvg-name="History Channel" tvg-logo="https://logo.iptveditor.com/historychannel.png" group-title="Variedades",History Channel
 http://181.209.114.13:8000/play/a051/index.m3u8
-#EXTINF:0 CUID="301" tvg-name="Lifetime" tvg-logo="https://logo.iptveditor.com/lifetime.png" group-title="🟪Variedades",Lifetime
+#EXTINF:0 CUID="301" tvg-name="Lifetime" tvg-logo="https://logo.iptveditor.com/lifetime.png" group-title="Variedades",Lifetime
 http://181.209.114.13:8000/play/a06n/index.m3u8
-#EXTINF:0 CUID="302" tvg-name="Nat Geo HD" tvg-logo="https://logo.iptveditor.com/natgeo.png" group-title="🟪Variedades",Nat Geo HD
+#EXTINF:0 CUID="302" tvg-name="Nat Geo HD" tvg-logo="https://logo.iptveditor.com/natgeo.png" group-title="Variedades",Nat Geo HD
 http://181.209.114.13:8000/play/a05g/index.m3u8
-#EXTINF:0 CUID="303" tvg-name="RAI Italia" tvg-logo="https://logo.iptveditor.com/raiitalia.png" group-title="🟪Variedades",RAI Italia
+#EXTINF:0 CUID="303" tvg-name="RAI Italia" tvg-logo="https://logo.iptveditor.com/raiitalia.png" group-title="Variedades",RAI Italia
 http://181.209.114.13:8000/play/a02p/index.m3u8
-#EXTINF:0 CUID="304" tvg-name="TVE" tvg-logo="https://logo.iptveditor.com/tve.png" group-title="🟪Variedades",TVE
+#EXTINF:0 CUID="304" tvg-name="TVE" tvg-logo="https://logo.iptveditor.com/tve.png" group-title="Variedades",TVE
 http://181.209.114.13:8000/play/a072/index.m3u8 
 
 #EXTINF:0 CUID="764" tvg-name="Playboy" tvg-logo="https://logo.iptveditor.com/playboy.png" group-title="Adultos +18",Playboy
@@ -300,21 +286,21 @@ http://200.55.244.75:8000/play/a02n/index.m3u8
 http://181.209.114.13:8000/play/a02o/index.m3u8
 
 
-#EXTINF:0 CUID="674" tvg-name="Animal Planet HD" tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="Cultura",Animal Planet HD
+#EXTINF:0 CUID="674" tvg-name="Animal Planet HD" tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="Variedades",Animal Planet HD
 http://200.55.244.75:8000/play/a0eu/index.m3u8
-#EXTINF:0 CUID="727" tvg-name="El Gourmet" tvg-logo="https://logo.iptveditor.com/elgourmet.png" group-title="Cultura",El Gourmet
+#EXTINF:0 CUID="727" tvg-name="El Gourmet" tvg-logo="https://logo.iptveditor.com/elgourmet.png" group-title="Variedades",El Gourmet
 http://200.55.244.75:8000/play/a06w/index.m3u8
-#EXTINF:0 CUID="745" tvg-name="HGTV" tvg-logo="https://logo.iptveditor.com/hgtv.png" group-title="Cultura",HGTV
+#EXTINF:0 CUID="745" tvg-name="HGTV" tvg-logo="https://logo.iptveditor.com/hgtv.png" group-title="Variedades",HGTV
 http://200.55.244.75:8000/play/a02j/index.m3u8
-#EXTINF:0 CUID="746" tvg-name="HTV" tvg-logo="https://logo.iptveditor.com/htv.png" group-title="Cultura",HTV
+#EXTINF:0 CUID="746" tvg-name="HTV" tvg-logo="https://logo.iptveditor.com/htv.png" group-title="Variedades",HTV
 http://200.55.244.75:8000/play/a02o/index.m3u8
-#EXTINF:0 CUID="747" tvg-name="History 2" tvg-logo="https://logo.iptveditor.com/history2.png" group-title="Cultura",History 2
+#EXTINF:0 CUID="747" tvg-name="History 2" tvg-logo="https://logo.iptveditor.com/history2.png" group-title="Variedades",History 2
 http://200.55.244.75:8000/play/a0ab/index.m3u8
-#EXTINF:0 CUID="748" tvg-name="History Channel" tvg-logo="https://logo.iptveditor.com/historychannel.png" group-title="Cultura",History Channel
+#EXTINF:0 CUID="748" tvg-name="History Channel" tvg-logo="https://logo.iptveditor.com/historychannel.png" group-title="Variedades",History Channel
 http://200.55.244.75:8000/play/a051/index.m3u8
-#EXTINF:0 CUID="756" tvg-name="Nat Geo HD" tvg-logo="https://logo.iptveditor.com/natgeo.png" group-title="Cultura",Nat Geo HD
+#EXTINF:0 CUID="756" tvg-name="Nat Geo HD" tvg-logo="https://logo.iptveditor.com/natgeo.png" group-title="Variedades",Nat Geo HD
 http://200.55.244.75:8000/play/a05g/index.m3u8
-#EXTINF:0 CUID="794" tvg-name="The History Channel HD" tvg-logo="https://logo.iptveditor.com/thehistorychannel.png" group-title="Cultura",The History Channel HD
+#EXTINF:0 CUID="794" tvg-name="The History Channel HD" tvg-logo="https://logo.iptveditor.com/thehistorychannel.png" group-title="Variedades",The History Channel HD
 http://200.55.244.75:8000/play/a05h/index.m3u8
 #EXTINF:0 CUID="692" tvg-name="Canal a" tvg-logo="https://logo.iptveditor.com/canala.png" group-title="Documentales",Canal a
 http://200.55.244.75:8000/play/a09j/index.m3u8
