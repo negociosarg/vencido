@@ -1,53 +1,3 @@
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
-#EXTINF:-1   group-title="Deportes Brasil" tvg-id="PREMIERECLUBES.tv" tvg-name="PREMIERECLUBES.tv" tvg-logo="https://images.uncyc.org/pt/f/f1/Logotipo_PFC.png" ch-number="22",PREMIERE  CLUBES
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
-#EXTINF:-1   group-title="Deportes Brasil" tvg-id="PREMIERE2.tv" tvg-name="PREMIERE2.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" ch-number="23",PREMIERE 2
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
-#EXTINF:-1   group-title="Deportes Brasil" tvg-id="PREMIERE3.tv" tvg-name="PREMIERE3.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" ch-number="24",PREMIERE 3
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
-#EXTINF:-1   group-title="Deportes Brasil" tvg-id="PREMIERE4.tv" tvg-name="PREMIERE4.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" ch-number="25",PREMIERE 4
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
-#EXTINF:-1   group-title="Deportes Brasil" tvg-id="PREMIERE5.tv" tvg-name="PREMIERE5.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" ch-number="26",PREMIERE 5
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
-#EXTINF:-1   group-title="Deportes Brasil" tvg-id="PREMIERE6.tv" tvg-name="PREMIERE6.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" ch-number="27",PREMIERE 6
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
-#EXTINF:-1   group-title="Deportes Brasil" tvg-id="PREMIERE7.tv" tvg-name="PREMIERE7.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" ch-number="28",PREMIERE 7
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
-#EXTINF:-1   group-title="Deportes Brasil" tvg-id="PREMIERE8MOSAICO.tv" tvg-name="PREMIERE8MOSAICO.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" ch-number="29",PREMIERE 8 MOSAICO
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-#EXTINF:-1  group-title="Deportes Brasil" tvg-id="CAZÉTV.tv" tvg-name="CAZÉTV.tv" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" ch-number="30",CAZÉ TV
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
-#EXTINF:-1  group-title="Deportes Brasil" tvg-id="CAZÉTV2.tv" tvg-name="CAZÉTV2.tv" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" ch-number="31",CAZÉ TV 2
-https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1  group-title="Deportes Brasil" tvg-id="ESPNBR.br" tvg-name="ESPNBR.br" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" ch-number="32",ESPN BR
-http://new.m3u8.one/espn/index.m3u8
-#EXTINF:-1  group-title="Deportes Brasil" tvg-id="ESPN2BR.br" tvg-name="ESPN2BR.br" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png" ch-number="33",ESPN 2 BR
-http://new.m3u8.one/espn2/index.m3u8
-#EXTINF:-1  group-title="Deportes Brasil" tvg-id="ESPN3BR.br" tvg-name="ESPN3BR.br" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/160/160/0/0/85904894074972.png" ch-number="34",ESPN 3 BR
-http://new.m3u8.one/espn3/index.m3u8
-#EXTINF:-1  group-title="Deportes Brasil" tvg-id="ESPN4BR.br" tvg-name="ESPN4BR.br" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png" ch-number="35",ESPN 4 BR
-http://new.m3u8.one/espn4/index.m3u8
-
-
 #EXTM3U
 #EXTINF:0 CUID="161" tvg-name="El Trece Hd" tvg-logo="https://logo.iptveditor.com/eltrece.png" group-title="Argentina",El Trece Hd
 http://181.209.114.13:8000/play/a06d/index.m3u8
@@ -5652,7 +5602,54 @@ http://novabox.club/live/conectStreax/K2tbMNebMW/381692.ts
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
+#EXTINF:-1   group-title="Deportes Brasil" tvg-id="PREMIERECLUBES.tv" tvg-name="PREMIERECLUBES.tv" tvg-logo="https://images.uncyc.org/pt/f/f1/Logotipo_PFC.png" ch-number="22",PREMIERE  CLUBES
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
+#EXTINF:-1   group-title="Deportes Brasil" tvg-id="PREMIERE2.tv" tvg-name="PREMIERE2.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" ch-number="23",PREMIERE 2
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
+#EXTINF:-1   group-title="Deportes Brasil" tvg-id="PREMIERE3.tv" tvg-name="PREMIERE3.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" ch-number="24",PREMIERE 3
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
+#EXTINF:-1   group-title="Deportes Brasil" tvg-id="PREMIERE4.tv" tvg-name="PREMIERE4.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" ch-number="25",PREMIERE 4
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
+#EXTINF:-1   group-title="Deportes Brasil" tvg-id="PREMIERE5.tv" tvg-name="PREMIERE5.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" ch-number="26",PREMIERE 5
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
+#EXTINF:-1   group-title="Deportes Brasil" tvg-id="PREMIERE6.tv" tvg-name="PREMIERE6.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" ch-number="27",PREMIERE 6
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
+#EXTINF:-1   group-title="Deportes Brasil" tvg-id="PREMIERE7.tv" tvg-name="PREMIERE7.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" ch-number="28",PREMIERE 7
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
+#EXTINF:-1   group-title="Deportes Brasil" tvg-id="PREMIERE8MOSAICO.tv" tvg-name="PREMIERE8MOSAICO.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" ch-number="29",PREMIERE 8 MOSAICO
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+#EXTINF:-1  group-title="Deportes Brasil" tvg-id="CAZÉTV.tv" tvg-name="CAZÉTV.tv" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" ch-number="30",CAZÉ TV
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+#EXTINF:-1  group-title="Deportes Brasil" tvg-id="CAZÉTV2.tv" tvg-name="CAZÉTV2.tv" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" ch-number="31",CAZÉ TV 2
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1  group-title="Deportes Brasil" tvg-id="ESPNBR.br" tvg-name="ESPNBR.br" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" ch-number="32",ESPN BR
+http://new.m3u8.one/espn/index.m3u8
+#EXTINF:-1  group-title="Deportes Brasil" tvg-id="ESPN2BR.br" tvg-name="ESPN2BR.br" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png" ch-number="33",ESPN 2 BR
+http://new.m3u8.one/espn2/index.m3u8
+#EXTINF:-1  group-title="Deportes Brasil" tvg-id="ESPN3BR.br" tvg-name="ESPN3BR.br" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/160/160/0/0/85904894074972.png" ch-number="34",ESPN 3 BR
+http://new.m3u8.one/espn3/index.m3u8
+#EXTINF:-1  group-title="Deportes Brasil" tvg-id="ESPN4BR.br" tvg-name="ESPN4BR.br" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png" ch-number="35",ESPN 4 BR
+http://new.m3u8.one/espn4/index.m3u8
 
 
 
