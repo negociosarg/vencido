@@ -259,11 +259,7 @@ http://200.55.244.75:8000/play/a0dp/index.m3u8
 #EXTINF:0 group-title="Argentina" tvg-name="el nueve HD" tvg-logo="https://logo.iptveditor.com/elnueve.png" cuid="802",el nueve HD
 http://200.55.244.75:8000/play/a04h/index.m3u8
 #EXTINF:0 group-title="Argentina" tvg-name="TV Publica HD" tvg-logo="https://logo.iptveditor.com/tvpublica.png" cuid="788",TV Publica HD
-http://200.55.244.75:8000/play/a0dg/index.m3u8
-#EXTINF:0 group-title="Argentina" tvg-name="TV PUBLICA CH" tvg-logo="https://logo.iptveditor.com/tvpublica.png" cuid="787",TV PUBLICA CH
-http://200.55.244.75:8000/play/a0dm/index.m3u8
-#EXTINF:0 group-title="Argentina" tvg-name="TV PUBLICA" tvg-logo="https://logo.iptveditor.com/tvpublica.png" cuid="786",TV PUBLICA
-http://200.55.244.75:8000/play/a0ec/index.m3u8
+https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:0 group-title="Argentina" tvg-name="CRONICA TV" tvg-logo="https://logo.iptveditor.com/cronicatv.png" cuid="691",CRONICA TV
 http://200.55.244.75:8000/play/a0e9/index.m3u8
 #EXTINF:0 group-title="Argentina" tvg-name="CNN en Espaæol" tvg-logo="https://logo.iptveditor.com/cnnenespaol.png" cuid="690",CNN en Espaæol
@@ -5354,3 +5350,377 @@ http://cambsasyplaya.gesell.com.ar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", LA PINOCHA VILLA GESELL
 http://camlapinocha.gesell.com.ar/playlist.m3u8
+
+
+
+
+-------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0 CUID="18581" tvg-name="CINE - A&E (L)(1080)" tvg-id="Canal.13.de.Argentina.(El.Trece).ar" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMhNKtNR8wO7ALKUcLlINzRx9gXJfZYaCODMqS1Ln8yy2oZ_JQma0mcAP5FlimFpl9Qz9O3Fk0E9NxdX0KqHvnya5bC2ZI8GGflH9bhR0oUf1WATHHOgDBZ_8FswkWuttx8lh_gOGAZSeBYs-aqsYn9M.png" group-title="✅CINE PREMIUM LATINO",CINE - A&E (L)(1080)
+http://novabox.club/live/conectStreax/K2tbMNebMW/405961.ts
+#EXTINF:0 CUID="18582" tvg-name="CINE - A&E (M)(1080)" tvg-id="Canal.1.(Colombia).ar" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMhNKtNR8wO7ALKUcLlINzRx9gXJfZYaCODMqS1Ln8yy2oZ_JQma0mcAP5FlimFpl9Qz9O3Fk0E9NxdX0KqHvnya5bC2ZI8GGflH9bhR0oUf1WATHHOgDBZ_8FswkWuttx8lh_gOGAZSeBYs-aqsYn9M.png" group-title="✅CINE PREMIUM LATINO",CINE - A&E (M)(1080)
+http://novabox.club/live/conectStreax/K2tbMNebMW/405962.ts
+#EXTINF:0 CUID="18583" tvg-name="CINE - A&E" tvg-id="A&E.co" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMhNKtNR8wO7ALKUcLlINzRx9gXJfZYaCODMqS1Ln8yy2oZ_JQma0mcAP5FlimFpl9Qz9O3Fk0E9NxdX0KqHvnya5bC2ZI8GGflH9bhR0oUf1WATHHOgDBZ_8FswkWuttx8lh_gOGAZSeBYs-aqsYn9M.png" group-title="✅CINE PREMIUM LATINO",CINE - A&E
+http://novabox.club/live/conectStreax/K2tbMNebMW/405963.ts
+#EXTINF:0 CUID="18584" tvg-name="A3 Cine" tvg-id="M+.Cine.Español.es" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMiKa8FGk6rjE4p4se38RtiEii7NmQ2QIX1OLbOcCxQPupckXM5fFSm-XQLgY5zkGDbBTbfDYoe1rPsqTbK8vOcS-4UY8OFYb5B3QYRBQ8bMDqL2HUjh5kWcQXffcOHuQ0iuyMvxJ9XL4hIHZvP3jiwBPXeVxisxJZrpsHcQnsdxQ.png" group-title="✅CINE PREMIUM LATINO",A3 Cine
+http://novabox.club/live/conectStreax/K2tbMNebMW/405964.ts
+#EXTINF:0 CUID="18585" tvg-name="A3 Series" tvg-id="Atreseries.es" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMpvaPldgCpdT321NXA-ZyRMjxmanJxazAKnocFztZdsB8w6hvcVCs0h87xXN5G9dv5gVv6vYOKMdPkeIEO2Xb-a3Dvom7aX8gyVPvhTv3aMSFX-Ony5qlWrgGJfQ-avUMZCRdnqccDiPnY4Z0nLaFBE.png" group-title="✅CINE PREMIUM LATINO",A3 Series
+http://novabox.club/live/conectStreax/K2tbMNebMW/405965.ts
+#EXTINF:0 CUID="18586" tvg-name="AMC" tvg-id="AMC.HD.co" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMn58ePf_eBVdcXF1Ud16Ha42pjj_6BtBNnKJip5JfwnmFRtDmP2Utt1Tpht3To4qUDdLktec6PLpRlaw7TSJs-JVE6Cx7nZI2TwZ-e5CEY_3Ofv6ggH1tGz3GPowv0Kb6PsY47r8dxlMBjhDEHKmqGM.png" group-title="✅CINE PREMIUM LATINO",AMC
+http://novabox.club/live/conectStreax/K2tbMNebMW/405966.ts
+#EXTINF:0 CUID="18587" tvg-name="CINE - AMC (TV)(720)" tvg-id="AMC.HD.co" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMn58ePf_eBVdcXF1Ud16Ha42pjj_6BtBNnKJip5JfwnmFRtDmP2Utt1Tpht3To4qUDdLktec6PLpRlaw7TSJs-JVE6Cx7nZI2TwZ-e5CEY_3Ofv6ggH1tGz3GPowv0Kb6PsY47r8dxlMBjhDEHKmqGM.png" group-title="✅CINE PREMIUM LATINO",CINE - AMC (TV)(720)
+http://novabox.club/live/conectStreax/K2tbMNebMW/405967.ts
+#EXTINF:0 CUID="18588" tvg-name="AXN" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMjVqjMYNj8RpjgdY7VfnRqGY-6sblFayx38LfjfeuHyjEZFgSD6vv0MKz2D_9cuwELgvinHaX_6JuugK28IU2TRcwp-EDQsyJR0N912Z2qktRhoIpWwE3K8J9aiEsGxOoFjgkPjYwXMnSMEcbxK4zao.png" group-title="✅CINE PREMIUM LATINO",AXN
+http://novabox.club/live/conectStreax/K2tbMNebMW/405969.ts
+#EXTINF:0 CUID="18589" tvg-name="CINE - AXN (TV)(720)" tvg-id="AXN.co" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMjVqjMYNj8RpjgdY7VfnRqGY-6sblFayx38LfjfeuHyjEZFgSD6vv0MKz2D_9cuwELgvinHaX_6JuugK28IU2TRcwp-EDQsyJR0N912Z2qktRhoIpWwE3K8J9aiEsGxOoFjgkPjYwXMnSMEcbxK4zao.png" group-title="✅CINE PREMIUM LATINO",CINE - AXN (TV)(720)
+http://novabox.club/live/conectStreax/K2tbMNebMW/405971.ts
+#EXTINF:0 CUID="18590" tvg-name="AXN" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMjVqjMYNj8RpjgdY7VfnRqGY-6sblFayx38LfjfeuHyjEZFgSD6vv0MKz2D_9cuwELgvinHaX_6JuugK28IU2TRcwp-EDQsyJR0N912Z2qktRhoIpWwE3K8J9aiEsGxOoFjgkPjYwXMnSMEcbxK4zao.png" group-title="✅CINE PREMIUM LATINO",AXN
+http://novabox.club/live/conectStreax/K2tbMNebMW/405972.ts
+#EXTINF:0 CUID="18591" tvg-name="CINE - HBO (M)(1080)" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMlTsT7GZJJSSKVYCUl9jLkZINc7jhzdhzy3jzNBz_c8J8qN6ZwuKZXVhEhgevyKAEgZoRudkoDsU1uZ3bfZ8zK46YHXXMr9dNUw171M4P1FLspjmnBO4r2ivMRnSzEjKFoh59AzNFhLZxCFEUIkmf7E.png" group-title="✅CINE PREMIUM LATINO",CINE - HBO (M)(1080)
+http://novabox.club/live/conectStreax/K2tbMNebMW/405973.ts
+#EXTINF:0 CUID="18592" tvg-name="CINE - HBO" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMlTsT7GZJJSSKVYCUl9jLkZINc7jhzdhzy3jzNBz_c8J8qN6ZwuKZXVhEhgevyKAEgZoRudkoDsU1uZ3bfZ8zK46YHXXMr9dNUw171M4P1FLspjmnBO4r2ivMRnSzEjKFoh59AzNFhLZxCFEUIkmf7E.png" group-title="✅CINE PREMIUM LATINO",CINE - HBO
+http://novabox.club/live/conectStreax/K2tbMNebMW/405974.ts
+#EXTINF:0 CUID="18595" tvg-name="HBO 2" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMs9WckS8H8BAYwgewDuY1WDX8BkYJTaahqYZlSxr181FpI9QiufKh3xSm1zzWWlKNZR9NPfo72_EYyk5HlLKwY-GYZ4tc6ft_N5ogPbXC9pnIQp398A9kcAc4f8xdHxaGOwv1uKMcNHc_Gh0XXiemuU.png" group-title="✅CINE PREMIUM LATINO",HBO 2
+http://novabox.club/live/conectStreax/K2tbMNebMW/405979.ts
+#EXTINF:0 CUID="18596" tvg-name="HBO 2" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMs9WckS8H8BAYwgewDuY1WDX8BkYJTaahqYZlSxr181FpI9QiufKh3xSm1zzWWlKNZR9NPfo72_EYyk5HlLKwY-GYZ4tc6ft_N5ogPbXC9pnIQp398A9kcAc4f8xdHxaGOwv1uKMcNHc_Gh0XXiemuU.png" group-title="✅CINE PREMIUM LATINO",HBO 2
+http://novabox.club/live/conectStreax/K2tbMNebMW/405980.ts
+#EXTINF:0 CUID="18597" tvg-name="CINE - HBO Family (T)(1080)" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMlTsT7GZJJSSKVYCUl9jLkZINc7jhzdhzy3jzNBz_c8J8qN6ZwuKZXVhEhgevyKAEgZoRudkoDsU1uZ3bfZ8zK46YHXXMr9dNUw171M4P1FLspjmnBO4r2ivMRnSzEjKFoh59AzNFhLZxCFEUIkmf7E.png" group-title="✅CINE PREMIUM LATINO",CINE - HBO Family (T)(1080)
+http://novabox.club/live/conectStreax/K2tbMNebMW/405983.ts
+#EXTINF:0 CUID="18598" tvg-name="HBO Family" tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMlTsT7GZJJSSKVYCUl9jLkZINc7jhzdhzy3jzNBz_c8J8qN6ZwuKZXVhEhgevyKAEgZoRudkoDsU1uZ3bfZ8zK46YHXXMr9dNUw171M4P1FLspjmnBO4r2ivMRnSzEjKFoh59AzNFhLZxCFEUIkmf7E.png" group-title="✅CINE PREMIUM LATINO",HBO Family
+http://novabox.club/live/conectStreax/K2tbMNebMW/405984.ts
+#EXTINF:0 CUID="18599" tvg-name="HBO Family" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMq2Zhv0RLYLhodpfayGjykQ3dTCFtRKB1hClHYCyP4OJtAwjBuq4xGaMTJuDxiKjbQxO3Y6NMwDwLECQD1VGaIiTtxNsAGzH7KI84hWKfJGkUV8U2jz9DRxCzfHLPebemnN_dDYt7YxlaBB12-XF01Y.png" group-title="✅CINE PREMIUM LATINO",HBO Family
+http://novabox.club/live/conectStreax/K2tbMNebMW/405986.ts
+#EXTINF:0 CUID="18600" tvg-name="CINE - HBO Mundi (L)(720)" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMux3ZuuLcg8oqOGotCznv-G25LDKPH6a98SYRoGIcw3b3kVAt-DFPyN9_gQ14gjI9UBDB57JHptlWDiQ1ibB8HxQzquHgZZSHzdNg8L2XzXueHpeBnU5hafFH_Fl3VYCzG2UCih5PyfYAlRj8OkHCY0AMiEKXteIaTEseJXumS4b.png" group-title="✅CINE PREMIUM LATINO",CINE - HBO Mundi (L)(720)
+http://novabox.club/live/conectStreax/K2tbMNebMW/405988.ts
+#EXTINF:0 CUID="18601" tvg-name="CINE - HBO Mundi (TV)(720)" tvg-id="Canal.HBO.Mundi.mx" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMux3ZuuLcg8oqOGotCznv-G25LDKPH6a98SYRoGIcw3b3kVAt-DFPyN9_gQ14gjI9UBDB57JHptlWDiQ1ibB8HxQzquHgZZSHzdNg8L2XzXueHpeBnU5hafFH_Fl3VYCzG2UCih5PyfYAlRj8OkHCY0AMiEKXteIaTEseJXumS4b.png" group-title="✅CINE PREMIUM LATINO",CINE - HBO Mundi (TV)(720)
+http://novabox.club/live/conectStreax/K2tbMNebMW/405989.ts
+#EXTINF:0 CUID="18602" tvg-name="HBO Mundi" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMux3ZuuLcg8oqOGotCznv-G25LDKPH6a98SYRoGIcw3b3kVAt-DFPyN9_gQ14gjI9UBDB57JHptlWDiQ1ibB8HxQzquHgZZSHzdNg8L2XzXueHpeBnU5hafFH_Fl3VYCzG2UCih5PyfYAlRj8OkHCY0AMiEKXteIaTEseJXumS4b.png" group-title="✅CINE PREMIUM LATINO",HBO Mundi
+http://novabox.club/live/conectStreax/K2tbMNebMW/405990.ts
+#EXTINF:0 CUID="18603" tvg-name="HBO Plus" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMiNvwIjOC04k1qJTwbHi4JEY-fdB0fcx5GsgMENW2Oc_s40FAaGwgY73MLwm43JzZIHrStlMWvaGhXCcy2NwXZeav3eMMiHYfv-D1NAQ2FwSQWtg_5etFVGXhsJuNlKFwVosokETnIwSd2Pj3oW5_jE.png" group-title="✅CINE PREMIUM LATINO",HBO Plus
+http://novabox.club/live/conectStreax/K2tbMNebMW/405991.ts
+#EXTINF:0 CUID="18604" tvg-name="HBO Plus" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMiNvwIjOC04k1qJTwbHi4JEY-fdB0fcx5GsgMENW2Oc_s40FAaGwgY73MLwm43JzZIHrStlMWvaGhXCcy2NwXZeav3eMMiHYfv-D1NAQ2FwSQWtg_5etFVGXhsJuNlKFwVosokETnIwSd2Pj3oW5_jE.png" group-title="✅CINE PREMIUM LATINO",HBO Plus
+http://novabox.club/live/conectStreax/K2tbMNebMW/405992.ts
+#EXTINF:0 CUID="18606" tvg-name="CINE - HBO POP (M)(1080)" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMqW55h9_Hk8LOcbxxZHzjMGp7CbEll-H87FVuG4nwiA8YZ_CCqMw0nfxhgBNymMmJ2aw2EtBM6VfnwWM0tWI5FIAXHhg4cXcVfRernZFG3VS32kzx9yvQletMpY4Q6EV_lQyRQ4ZUTvLOrtRQ1vj4Ic.png" group-title="✅CINE PREMIUM LATINO",CINE - HBO POP (M)(1080)
+http://novabox.club/live/conectStreax/K2tbMNebMW/405995.ts
+#EXTINF:0 CUID="18608" tvg-name="HBO POP" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMqW55h9_Hk8LOcbxxZHzjMGp7CbEll-H87FVuG4nwiA8YZ_CCqMw0nfxhgBNymMmJ2aw2EtBM6VfnwWM0tWI5FIAXHhg4cXcVfRernZFG3VS32kzx9yvQletMpY4Q6EV_lQyRQ4ZUTvLOrtRQ1vj4Ic.png" group-title="✅CINE PREMIUM LATINO",HBO POP
+http://novabox.club/live/conectStreax/K2tbMNebMW/405997.ts
+#EXTINF:0 CUID="18609" tvg-name="CINE - HBO Signature (M)(720)" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMq-57Ymf6m8VwQmDZu1FMudodeO7YomuxK9Vcqb-iw8f8GZX4iwIkulktWlJGsSsypl5XYlnb5ZwWtjO-V8CfvB-HU2631dHYzuXd_G29YOUm8gHTlld7EBVHWbIsszYivuvlbr5tM7upVjqG8WYIbnVo5FS83Wpmo24p2LT382C.png" group-title="✅CINE PREMIUM LATINO",CINE - HBO Signature (M)(720)
+http://novabox.club/live/conectStreax/K2tbMNebMW/405998.ts
+#EXTINF:0 CUID="18611" tvg-name="HBO Signature" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMt7jvp1RKZO2IXLSSI0oBFik8krd2ZOom-AY5BuR4JLImCDnPDJJXmdFazGrdMA7oMDKroaRXwPVvMltwc9vIBeOkrOIKrhly5e8AlJFVlFLx9JmwCGyc8DUq8aDsJgmfNj9n21uRjPOkFcSczkfVR0.png" group-title="✅CINE PREMIUM LATINO",HBO Signature
+http://novabox.club/live/conectStreax/K2tbMNebMW/406000.ts
+#EXTINF:0 CUID="18612" tvg-name="CINE - HBO Xtreme (M)(1080)" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMteygu0nL5RA60FMXu4TIej26iZgRTfpgzMe0NTI4ww1BnDMjAHIEDldnlbb2XUmFSdjI06kloXxQHOVG7wBpMp7zlCf9XpWqVbAJsiItyVX11gwZ70wWFtviBEDIrKV8KoP2unKZMcsi-H5_Y7UelM.png" group-title="✅CINE PREMIUM LATINO",CINE - HBO Xtreme (M)(1080)
+http://novabox.club/live/conectStreax/K2tbMNebMW/406004.ts
+#EXTINF:0 CUID="18613" tvg-name="HBO Xtreme" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMteygu0nL5RA60FMXu4TIej26iZgRTfpgzMe0NTI4ww1BnDMjAHIEDldnlbb2XUmFSdjI06kloXxQHOVG7wBpMp7zlCf9XpWqVbAJsiItyVX11gwZ70wWFtviBEDIrKV8KoP2unKZMcsi-H5_Y7UelM.png" group-title="✅CINE PREMIUM LATINO",HBO Xtreme
+http://novabox.club/live/conectStreax/K2tbMNebMW/406007.ts
+#EXTINF:0 CUID="18614" tvg-name="Cine Latino" tvg-logo="https://yt3.googleusercontent.com/NKN8usqtQbTO_GNLIgyHfU1MYfBnxkirUKXkpJER1ALWrp8HoeSKJt1MwdU-pshOCwvTsAwYAA=s900-c-k-c0x00ffffff-no-rj" group-title="✅CINE PREMIUM LATINO",Cine Latino
+http://novabox.club/live/conectStreax/K2tbMNebMW/406009.ts
+#EXTINF:0 CUID="18615" tvg-name="Cine Latino" tvg-logo="https://yt3.googleusercontent.com/NKN8usqtQbTO_GNLIgyHfU1MYfBnxkirUKXkpJER1ALWrp8HoeSKJt1MwdU-pshOCwvTsAwYAA=s900-c-k-c0x00ffffff-no-rj" group-title="✅CINE PREMIUM LATINO",Cine Latino
+http://novabox.club/live/conectStreax/K2tbMNebMW/406010.ts
+#EXTINF:0 CUID="18616" tvg-name="Cinecanal" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMn1GwR8nTFbRbkuJ7AJkyRvG1wLWgmylSmQbAD4Mu2AlZaUHh9j2vO4I04hT8szlwzIlBBlI6rx_pUtjeUutgJEwm0OcmhgW7MQE5nw_AMRkE7LWAiRCxaxRuIqzn_sAI_9GzJR_5upmEJMLCyBlsag.png" group-title="✅CINE PREMIUM LATINO",Cinecanal
+http://novabox.club/live/conectStreax/K2tbMNebMW/406011.ts
+#EXTINF:0 CUID="18617" tvg-name="CineCanal op2" tvg-id="AdultSwim.co" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMn1GwR8nTFbRbkuJ7AJkyRvG1wLWgmylSmQbAD4Mu2AlZaUHh9j2vO4I04hT8szlwzIlBBlI6rx_pUtjeUutgJEwm0OcmhgW7MQE5nw_AMRkE7LWAiRCxaxRuIqzn_sAI_9GzJR_5upmEJMLCyBlsag.png" group-title="✅CINE PREMIUM LATINO",CineCanal op2
+http://novabox.club/live/conectStreax/K2tbMNebMW/406012.ts
+#EXTINF:0 CUID="18618" tvg-name="CineCanal op3" tvg-id="Cinecanal.co" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMn1GwR8nTFbRbkuJ7AJkyRvG1wLWgmylSmQbAD4Mu2AlZaUHh9j2vO4I04hT8szlwzIlBBlI6rx_pUtjeUutgJEwm0OcmhgW7MQE5nw_AMRkE7LWAiRCxaxRuIqzn_sAI_9GzJR_5upmEJMLCyBlsag.png" group-title="✅CINE PREMIUM LATINO",CineCanal op3
+http://novabox.club/live/conectStreax/K2tbMNebMW/406013.ts
+#EXTINF:0 CUID="18619" tvg-name="Cinema Dinamita" tvg-logo="http://novabox.club:80/images/-SDw2geaAtc_0H-ojyKxVhg92yX1lskVCPAR7yyw3-f5yd63FfMA9PAKJUT5bjz8aWh_BSc227IpMrpsY8zI7geKV_18CgQEAq5pBqa1D9w.png" group-title="✅CINE PREMIUM LATINO",Cinema Dinamita
+http://novabox.club/live/conectStreax/K2tbMNebMW/406015.ts
+#EXTINF:0 CUID="18620" tvg-name="Cinemax" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMuvp3ttcHmzCaWjuhqkk6Uo89-lWBrmXe2pvO6rl17Rz4386414XpQw9ldPNaFNA8dxzrTj8vnFCPZL8J906xH3co1n30o2Uls-oXpMrr0fv9w-Uq0IOVdCn3uzJ8Yj0PzGNH_nYiYD-bxAUXoNUujM.png" group-title="✅CINE PREMIUM LATINO",Cinemax
+http://novabox.club/live/conectStreax/K2tbMNebMW/406016.ts
+#EXTINF:0 CUID="18621" tvg-name="Cinemax op2" tvg-id="Cinemax.co" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMuvp3ttcHmzCaWjuhqkk6Uo89-lWBrmXe2pvO6rl17Rz4386414XpQw9ldPNaFNA8dxzrTj8vnFCPZL8J906xH3co1n30o2Uls-oXpMrr0fv9w-Uq0IOVdCn3uzJ8Yj0PzGNH_nYiYD-bxAUXoNUujM.png" group-title="✅CINE PREMIUM LATINO",Cinemax op2
+http://novabox.club/live/conectStreax/K2tbMNebMW/406017.ts
+#EXTINF:0 CUID="18622" tvg-name="Cinemax op3" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMuvp3ttcHmzCaWjuhqkk6Uo89-lWBrmXe2pvO6rl17Rz4386414XpQw9ldPNaFNA8dxzrTj8vnFCPZL8J906xH3co1n30o2Uls-oXpMrr0fv9w-Uq0IOVdCn3uzJ8Yj0PzGNH_nYiYD-bxAUXoNUujM.png" group-title="✅CINE PREMIUM LATINO",Cinemax op3
+http://novabox.club/live/conectStreax/K2tbMNebMW/406018.ts
+#EXTINF:0 CUID="18623" tvg-name="Comedy Central" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMgunha3Bp0Mf8qqV9j65R79KY09hgoCfumc2-dZ94sAO1Vj2M1Gmd6ShCIO7hx-g5-AviyxE6m1pCx5lqpyQuIcoRXuEwPtUfDPRHtQ6pPD2cc3rzxwRMP7LSKne9JQOP0_mt5supax5QEHNh9rLQn4.png" group-title="✅CINE PREMIUM LATINO",Comedy Central
+http://novabox.club/live/conectStreax/K2tbMNebMW/406019.ts
+#EXTINF:0 CUID="18624" tvg-name="Comedy Central op2" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMgunha3Bp0Mf8qqV9j65R79KY09hgoCfumc2-dZ94sAO1Vj2M1Gmd6ShCIO7hx-g5-AviyxE6m1pCx5lqpyQuIcoRXuEwPtUfDPRHtQ6pPD2cc3rzxwRMP7LSKne9JQOP0_mt5supax5QEHNh9rLQn4.png" group-title="✅CINE PREMIUM LATINO",Comedy Central op2
+http://novabox.club/live/conectStreax/K2tbMNebMW/406020.ts
+#EXTINF:0 CUID="18625" tvg-name="CINE - Paramount (Z)(720) -" tvg-logo="http://novabox.club:80/images/Q1IbbG8ygUN1BiMdZv9KWWc-6_cgU8oya3k8qSxWdZu3nYMZ2AjPg1UXmVp1gx_gNeVHp847GaUvt3I8KwM2w14e9GjJRTQD0g2ymcHvZBhKC1q2ipnZTATpiI_AeDgmKjDSw3WP8kvAMt9h2OAIBw.png" group-title="✅CINE PREMIUM LATINO",CINE - Paramount (Z)(720) -
+http://novabox.club/live/conectStreax/K2tbMNebMW/406021.ts
+#EXTINF:0 CUID="18626" tvg-name="CINE - Paramount Channel" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMvlkBv-NRF52FJSbBS_lW0k-PZlAsXKR1j_rme1sjp7b-NlniqLxkMFl20-KWoShUANT629CuhlNhyUk5i_VtOTt6x_4rtHlhJx2jRFteMvhaYMsjJHwqgLV7gUegBy5GdpMNWVzCYX-L-4GynI9mZc.png" group-title="✅CINE PREMIUM LATINO",CINE - Paramount Channel
+http://novabox.club/live/conectStreax/K2tbMNebMW/406022.ts
+#EXTINF:0 CUID="18627" tvg-name="CINE - Paramount Network (M)(1080)" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMvlkBv-NRF52FJSbBS_lW0k-PZlAsXKR1j_rme1sjp7b-NlniqLxkMFl20-KWoShUANT629CuhlNhyUk5i_VtOTt6x_4rtHlhJx2jRFteMvhaYMsjJHwqgLV7gUegBy5GdpMNWVzCYX-L-4GynI9mZc.png" group-title="✅CINE PREMIUM LATINO",CINE - Paramount Network (M)(1080)
+http://novabox.club/live/conectStreax/K2tbMNebMW/406023.ts
+#EXTINF:0 CUID="18628" tvg-name="CINE - TNT (M)(720)" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMgGrxAdTL_QNfqBGPCA5vef_hRRdrlConyNWS_ISmfWsLHwuXe96n9-OzrD_68jgNKomWhswKETMpV3MOKRdaoaiHKo9vcA-cGHi2t0aqTGpjxCq1BYEY613-rnDJuXRHpv48R0skXqIdkS25-P_2fQ.png" group-title="✅CINE PREMIUM LATINO",CINE - TNT (M)(720)
+http://novabox.club/live/conectStreax/K2tbMNebMW/406026.ts
+#EXTINF:0 CUID="18629" tvg-name="CINE - TNT (TV)(1080)" tvg-id="TNT.co" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMgGrxAdTL_QNfqBGPCA5vef_hRRdrlConyNWS_ISmfWsLHwuXe96n9-OzrD_68jgNKomWhswKETMpV3MOKRdaoaiHKo9vcA-cGHi2t0aqTGpjxCq1BYEY613-rnDJuXRHpv48R0skXqIdkS25-P_2fQ.png" group-title="✅CINE PREMIUM LATINO",CINE - TNT (TV)(1080)
+http://novabox.club/live/conectStreax/K2tbMNebMW/406027.ts
+#EXTINF:0 CUID="18630" tvg-name="TNT" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMgGrxAdTL_QNfqBGPCA5vef_hRRdrlConyNWS_ISmfWsLHwuXe96n9-OzrD_68jgNKomWhswKETMpV3MOKRdaoaiHKo9vcA-cGHi2t0aqTGpjxCq1BYEY613-rnDJuXRHpv48R0skXqIdkS25-P_2fQ.png" group-title="✅CINE PREMIUM LATINO",TNT
+http://novabox.club/live/conectStreax/K2tbMNebMW/406028.ts
+#EXTINF:0 CUID="18631" tvg-name="TNT Novelas" tvg-logo="http://novabox.club:80/images/MIvTK_tqMiAOc7C5xaYLwK0V5xJMeP4boVdc8DLjNaWvbNaZsSQxQAGVVsL2ASF_aLp53jAYElqYU3rfsg3GqHiXN4N84_NkroFEYnBwGrw.png" group-title="✅CINE PREMIUM LATINO",TNT Novelas
+http://novabox.club/live/conectStreax/K2tbMNebMW/406029.ts
+#EXTINF:0 CUID="18632" tvg-name="TNT nOVELAS op2" tvg-logo="http://novabox.club:80/images/MIvTK_tqMiAOc7C5xaYLwK0V5xJMeP4boVdc8DLjNaWvbNaZsSQxQAGVVsL2ASF_aLp53jAYElqYU3rfsg3GqHiXN4N84_NkroFEYnBwGrw.png" group-title="✅CINE PREMIUM LATINO",TNT nOVELAS op2
+http://novabox.club/live/conectStreax/K2tbMNebMW/406030.ts
+#EXTINF:0 CUID="18633" tvg-name="CINE - TNT Series (L)(720)" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMuYss1oKWcpB2BoRoJ5_2Mt33fbI3012xZijDSpu17OSJEyCdV-f8t-bxPKUtE1MGIi7ru0DyndYViqal479sTrOpLZYbiA3iZNw5IGpk37ZKadvr7I-LjsEiYq46hpBG0eBiVWuknw2GquYCFr_N_o.png" group-title="✅CINE PREMIUM LATINO",CINE - TNT Series (L)(720)
+http://novabox.club/live/conectStreax/K2tbMNebMW/406031.ts
+#EXTINF:0 CUID="18634" tvg-name="TNT Series" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMuYss1oKWcpB2BoRoJ5_2Mt33fbI3012xZijDSpu17OSJEyCdV-f8t-bxPKUtE1MGIi7ru0DyndYViqal479sTrOpLZYbiA3iZNw5IGpk37ZKadvr7I-LjsEiYq46hpBG0eBiVWuknw2GquYCFr_N_o.png" group-title="✅CINE PREMIUM LATINO",TNT Series
+http://novabox.club/live/conectStreax/K2tbMNebMW/406033.ts
+#EXTINF:0 CUID="18635" tvg-name="Universal Channel" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMkGt4IuLt-VA4ujtKkY6F0jDHHwRTYUu6Wc0meY7zNLsUqO29D-fkxFVgpqDtcmQ2-naKHrpDB7ChpeclQv8XPBzmAyCRpSbmhJF6uNRgLuLSzbCc8zXarjf9oHlcCsAhu5sIohM0mzeA7-vvbC7fDQ.png" group-title="✅CINE PREMIUM LATINO",Universal Channel
+http://novabox.club/live/conectStreax/K2tbMNebMW/406035.ts
+#EXTINF:0 CUID="18636" tvg-name="CINE - Universal Channel" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMkGt4IuLt-VA4ujtKkY6F0jDHHwRTYUu6Wc0meY7zNLsUqO29D-fkxFVgpqDtcmQ2-naKHrpDB7ChpeclQv8XPBzmAyCRpSbmhJF6uNRgLuLSzbCc8zXarjf9oHlcCsAhu5sIohM0mzeA7-vvbC7fDQ.png" group-title="✅CINE PREMIUM LATINO",CINE - Universal Channel
+http://novabox.club/live/conectStreax/K2tbMNebMW/406036.ts
+#EXTINF:0 CUID="18637" tvg-name="Universal Channel" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMkGt4IuLt-VA4ujtKkY6F0jDHHwRTYUu6Wc0meY7zNLsUqO29D-fkxFVgpqDtcmQ2-naKHrpDB7ChpeclQv8XPBzmAyCRpSbmhJF6uNRgLuLSzbCc8zXarjf9oHlcCsAhu5sIohM0mzeA7-vvbC7fDQ.png" group-title="✅CINE PREMIUM LATINO",Universal Channel
+http://novabox.club/live/conectStreax/K2tbMNebMW/406037.ts
+#EXTINF:0 CUID="18638" tvg-name="Universal Cinema" tvg-logo="http://novabox.club:80/images/IvCIXhocdRn-W75B_zR0mlvmeHlIQS5IkWTj0y7wxuZQIN4KkQg5q8nl1ROrrZ438sOLH9gx0H92_8EMuDyoWyHbV0KtVIkHVO-zSEoy7rfBD9d2dfkO9J70tGGef6ogNWDYfCU4tlvLnP4b2Pab45x_aRyW2LcPNIruesUvoNgoLNZRjspkFbq5KitDmSaZw9tTk20mkMBsSZyVa233Ig.png" group-title="✅CINE PREMIUM LATINO",Universal Cinema
+http://novabox.club/live/conectStreax/K2tbMNebMW/406038.ts
+#EXTINF:0 CUID="18639" tvg-name="Universal Cinema op2" tvg-logo="http://novabox.club:80/images/IvCIXhocdRn-W75B_zR0mlvmeHlIQS5IkWTj0y7wxuZQIN4KkQg5q8nl1ROrrZ438sOLH9gx0H92_8EMuDyoWyHbV0KtVIkHVO-zSEoy7rfBD9d2dfkO9J70tGGef6ogNWDYfCU4tlvLnP4b2Pab45x_aRyW2LcPNIruesUvoNgoLNZRjspkFbq5KitDmSaZw9tTk20mkMBsSZyVa233Ig.png" group-title="✅CINE PREMIUM LATINO",Universal Cinema op2
+http://novabox.club/live/conectStreax/K2tbMNebMW/406039.ts
+#EXTINF:0 CUID="18640" tvg-name="Universal Cinema op3" tvg-logo="http://novabox.club:80/images/KMLpDejNYd7vbYYid6aikFcMGW1-9xEUzy78l6yFfDd6psyqt8OxEo5MPZlQU2geYaddjahDnUQe-iI0LTeEPajmCIGmNmG3nqm_HHmWI-A.png" group-title="✅CINE PREMIUM LATINO",Universal Cinema op3
+http://novabox.club/live/conectStreax/K2tbMNebMW/406040.ts
+#EXTINF:0 CUID="18641" tvg-name="CINE - Universal Comedy (TV)(720)" tvg-logo="http://novabox.club:80/images/IvCIXhocdRn-W75B_zR0mlvmeHlIQS5IkWTj0y7wxuZFtdT8Ck4qZ48q3Mrg8kcG5K1TfsUClmvOeuIvAB_IwiCLmIlfziIp4dTfObAc0udYXEh_8etQW9mo2L-ELn4bc47XKehVpvPWH5LFU35BIRe045zlM-ww6fnOZX0s2g3MEB31mZx9aIFWBKf3z8dhq0FgvQamWGPwUX0NSnqEkg.png" group-title="✅CINE PREMIUM LATINO",CINE - Universal Comedy (TV)(720)
+http://novabox.club/live/conectStreax/K2tbMNebMW/406041.ts
+#EXTINF:0 CUID="18642" tvg-name="Universal Comedy" tvg-logo="http://novabox.club:80/images/IvCIXhocdRn-W75B_zR0mlvmeHlIQS5IkWTj0y7wxuZFtdT8Ck4qZ48q3Mrg8kcG5K1TfsUClmvOeuIvAB_IwiCLmIlfziIp4dTfObAc0udYXEh_8etQW9mo2L-ELn4bc47XKehVpvPWH5LFU35BIRe045zlM-ww6fnOZX0s2g3MEB31mZx9aIFWBKf3z8dhq0FgvQamWGPwUX0NSnqEkg.png" group-title="✅CINE PREMIUM LATINO",Universal Comedy
+http://novabox.club/live/conectStreax/K2tbMNebMW/406042.ts
+#EXTINF:0 CUID="18643" tvg-name="CINE - Universal Crime (L)(720)" tvg-logo="http://novabox.club:80/images/IvCIXhocdRn-W75B_zR0mlvmeHlIQS5IkWTj0y7wxuZQIN4KkQg5q8nl1ROrrZ438sOLH9gx0H92_8EMuDyoWyHbV0KtVIkHVO-zSEoy7rfBD9d2dfkO9J70tGGef6ogNWDYfCU4tlvLnP4b2Pab45x_aRyW2LcPNIruesUvoNgoLNZRjspkFbq5KitDmSaZw9tTk20mkMBsSZyVa233Ig.png" group-title="✅CINE PREMIUM LATINO",CINE - Universal Crime (L)(720)
+http://novabox.club/live/conectStreax/K2tbMNebMW/406043.ts
+#EXTINF:0 CUID="18644" tvg-name="CINE - Universal Crime (M)(720)" tvg-logo="http://novabox.club:80/images/IvCIXhocdRn-W75B_zR0mlvmeHlIQS5IkWTj0y7wxuZQIN4KkQg5q8nl1ROrrZ438sOLH9gx0H92_8EMuDyoWyHbV0KtVIkHVO-zSEoy7rfBD9d2dfkO9J70tGGef6ogNWDYfCU4tlvLnP4b2Pab45x_aRyW2LcPNIruesUvoNgoLNZRjspkFbq5KitDmSaZw9tTk20mkMBsSZyVa233Ig.png" group-title="✅CINE PREMIUM LATINO",CINE - Universal Crime (M)(720)
+http://novabox.club/live/conectStreax/K2tbMNebMW/406044.ts
+#EXTINF:0 CUID="18645" tvg-name="Universal Crime" tvg-logo="http://novabox.club:80/images/IvCIXhocdRn-W75B_zR0mlvmeHlIQS5IkWTj0y7wxuZQIN4KkQg5q8nl1ROrrZ438sOLH9gx0H92_8EMuDyoWyHbV0KtVIkHVO-zSEoy7rfBD9d2dfkO9J70tGGef6ogNWDYfCU4tlvLnP4b2Pab45x_aRyW2LcPNIruesUvoNgoLNZRjspkFbq5KitDmSaZw9tTk20mkMBsSZyVa233Ig.png" group-title="✅CINE PREMIUM LATINO",Universal Crime
+http://novabox.club/live/conectStreax/K2tbMNebMW/406045.ts
+#EXTINF:0 CUID="18646" tvg-name="Universal Premier" tvg-logo="http://novabox.club:80/images/IvCIXhocdRn-W75B_zR0mlvmeHlIQS5IkWTj0y7wxuZ9K4ZvEAU9PQudIe-iqeOeQiC9UkGEopVSuDrJpOeAfGLme9rjNxjBJe_-yhaRZ__BYSe_nhBIAeA9QiE7_3Byr1A0q2inrApskdyvJ7MPFFi8x89LBHsx2u791-RedaA57IX2WQRHuYkJKmGYT7IgkRUKbG_qEGP8cuQ33ykbag.png" group-title="✅CINE PREMIUM LATINO",Universal Premier
+http://novabox.club/live/conectStreax/K2tbMNebMW/406047.ts
+#EXTINF:0 CUID="18647" tvg-name="Universal Premier" tvg-logo="http://novabox.club:80/images/IvCIXhocdRn-W75B_zR0mlvmeHlIQS5IkWTj0y7wxuZ9K4ZvEAU9PQudIe-iqeOeQiC9UkGEopVSuDrJpOeAfGLme9rjNxjBJe_-yhaRZ__BYSe_nhBIAeA9QiE7_3Byr1A0q2inrApskdyvJ7MPFFi8x89LBHsx2u791-RedaA57IX2WQRHuYkJKmGYT7IgkRUKbG_qEGP8cuQ33ykbag.png" group-title="✅CINE PREMIUM LATINO",Universal Premier
+http://novabox.club/live/conectStreax/K2tbMNebMW/406048.ts
+#EXTINF:0 CUID="18648" tvg-name="Universal Premier" tvg-logo="http://novabox.club:80/images/IvCIXhocdRn-W75B_zR0mlvmeHlIQS5IkWTj0y7wxuZ9K4ZvEAU9PQudIe-iqeOeQiC9UkGEopVSuDrJpOeAfGLme9rjNxjBJe_-yhaRZ__BYSe_nhBIAeA9QiE7_3Byr1A0q2inrApskdyvJ7MPFFi8x89LBHsx2u791-RedaA57IX2WQRHuYkJKmGYT7IgkRUKbG_qEGP8cuQ33ykbag.png" group-title="✅CINE PREMIUM LATINO",Universal Premier
+http://novabox.club/live/conectStreax/K2tbMNebMW/406049.ts
+#EXTINF:0 CUID="18649" tvg-name="Universal Reality" tvg-id="Universal.TV.co" tvg-logo="http://novabox.club:80/images/IvCIXhocdRn-W75B_zR0mlvmeHlIQS5IkWTj0y7wxuYPWhnHuBdW-ssymHmzvtqErIhDAXC4JdSw-TyClMXenOPfLaFEjU8uKzcAiSEaFwYem1Gydw3q7tshZ3l1ZLkZmBnhjT4d7a4wrGuY-8gfxEb-UcaNVxJ6BLU4H7T26f0rHukmd1HTyH7NtkEGBIJLpxh2IcyjH_7fE1cElmmI8A.png" group-title="✅CINE PREMIUM LATINO",Universal Reality
+http://novabox.club/live/conectStreax/K2tbMNebMW/406053.ts
+#EXTINF:0 CUID="18650" tvg-name="Universal Reality" tvg-logo="http://novabox.club:80/images/KMLpDejNYd7vbYYid6aikFcMGW1-9xEUzy78l6yFfDd6psyqt8OxEo5MPZlQU2geYaddjahDnUQe-iI0LTeEPajmCIGmNmG3nqm_HHmWI-A.png" group-title="✅CINE PREMIUM LATINO",Universal Reality
+http://novabox.club/live/conectStreax/K2tbMNebMW/406055.ts
+#EXTINF:0 CUID="18651" tvg-name="Warner Channel" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMj9BjF4o0QO_geW4cWm6UTdjG789O2W9Xl8GxE9KwY5GbnIWC_1cpjJiwR6Py2R6gI3iW0uwt2m3cWZa62qr4WNDgY5Suc5qFuPbvoN1E7x-SPZGyEi_CBKz8F85O5zmsWbKs7JYHGbBKUcKpsVHfDU.png" group-title="✅CINE PREMIUM LATINO",Warner Channel
+http://novabox.club/live/conectStreax/K2tbMNebMW/406056.ts
+#EXTINF:0 CUID="18652" tvg-name="Warner Channel op2" tvg-id="Warner.Channel.co" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMj9BjF4o0QO_geW4cWm6UTdjG789O2W9Xl8GxE9KwY5GbnIWC_1cpjJiwR6Py2R6gI3iW0uwt2m3cWZa62qr4WNDgY5Suc5qFuPbvoN1E7x-SPZGyEi_CBKz8F85O5zmsWbKs7JYHGbBKUcKpsVHfDU.png" group-title="✅CINE PREMIUM LATINO",Warner Channel op2
+http://novabox.club/live/conectStreax/K2tbMNebMW/406057.ts
+#EXTINF:0 CUID="18653" tvg-name="Warner Channel Dual Audio op3" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMj9BjF4o0QO_geW4cWm6UTdjG789O2W9Xl8GxE9KwY5GbnIWC_1cpjJiwR6Py2R6gI3iW0uwt2m3cWZa62qr4WNDgY5Suc5qFuPbvoN1E7x-SPZGyEi_CBKz8F85O5zmsWbKs7JYHGbBKUcKpsVHfDU.png" group-title="✅CINE PREMIUM LATINO",Warner Channel Dual Audio op3
+http://novabox.club/live/conectStreax/K2tbMNebMW/406059.ts
+#EXTINF:0 CUID="18654" tvg-name="HBO Xtreme" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMteygu0nL5RA60FMXu4TIej26iZgRTfpgzMe0NTI4ww1BnDMjAHIEDldnlbb2XUmFSdjI06kloXxQHOVG7wBpMp7zlCf9XpWqVbAJsiItyVX11gwZ70wWFtviBEDIrKV8KoP2unKZMcsi-H5_Y7UelM.png" group-title="✅CINE PREMIUM LATINO",HBO Xtreme
+http://novabox.club/live/conectStreax/K2tbMNebMW/406061.ts
+#EXTINF:0 CUID="18655" tvg-name="De Pelicula Plus" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMqju8E3Z6sJz1_km2YNFWPzSYqJlf-YNWFDI8Id7wjWQDzv2TFoj3ugocHtL80lWSX_tv-uIsOZPG5iV6CVpZwEKsiZamRsD5xrL6sE8_GKxnxUNUhrTg4inzKnZzSvN9Z3uHVMaY9xzQ8BVbYsQ_eQ.png" group-title="✅CINE PREMIUM LATINO",De Pelicula Plus
+http://novabox.club/live/conectStreax/K2tbMNebMW/406063.ts
+#EXTINF:0 CUID="18656" tvg-name="De Pelicula Plus op2" tvg-logo="http://novabox.club:80/images/-Lp1PbbYJAXCVMvWjQh3pikz-bdSH3xGKxioZw3vvvpiIWOqEEXjj8e274SG28mH7T7WOiHZE685Y-u79cQ3tmr6rrG4__2pepTWVDN6FoqzDTFdBIO657v0bzTXuElusUGUJQ-Eg80AnyrbEQMeqsgPwHUb3I942b8IPuiq1l4.png" group-title="✅CINE PREMIUM LATINO",De Pelicula Plus op2
+http://novabox.club/live/conectStreax/K2tbMNebMW/406064.ts
+#EXTINF:0 CUID="18657" tvg-name="De Peliculas Clasico" tvg-logo="http://novabox.club:80/images/-Lp1PbbYJAXCVMvWjQh3pikz-bdSH3xGKxioZw3vvvpiIWOqEEXjj8e274SG28mH7T7WOiHZE685Y-u79cQ3tmr6rrG4__2pepTWVDN6FoqzDTFdBIO657v0bzTXuElusUGUJQ-Eg80AnyrbEQMeqsgPwHUb3I942b8IPuiq1l4.png" group-title="✅CINE PREMIUM LATINO",De Peliculas Clasico
+http://novabox.club/live/conectStreax/K2tbMNebMW/406065.ts
+#EXTINF:0 CUID="18658" tvg-name="CINE - De Película (TV)(1080)" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMqju8E3Z6sJz1_km2YNFWPzSYqJlf-YNWFDI8Id7wjWQDzv2TFoj3ugocHtL80lWSX_tv-uIsOZPG5iV6CVpZwEKsiZamRsD5xrL6sE8_GKxnxUNUhrTg4inzKnZzSvN9Z3uHVMaY9xzQ8BVbYsQ_eQ.png" group-title="✅CINE PREMIUM LATINO",CINE - De Película (TV)(1080)
+http://novabox.club/live/conectStreax/K2tbMNebMW/406066.ts
+#EXTINF:0 CUID="18659" tvg-name="DE PELICULA" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMqju8E3Z6sJz1_km2YNFWPzSYqJlf-YNWFDI8Id7wjWQDzv2TFoj3ugocHtL80lWSX_tv-uIsOZPG5iV6CVpZwEKsiZamRsD5xrL6sE8_GKxnxUNUhrTg4inzKnZzSvN9Z3uHVMaY9xzQ8BVbYsQ_eQ.png" group-title="✅CINE PREMIUM LATINO",DE PELICULA
+http://novabox.club/live/conectStreax/K2tbMNebMW/406067.ts
+#EXTINF:0 CUID="18660" tvg-name="CINE - Distrito Comedia (L)(1080)" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMhu-444k93Ygnkh-9HVI37cmFsqLLGs4Vz4UxVbUoWj9dCpeUiCdPEdoejqsgV-ZFxigC6YLNN79nXgCam8cM_k22zOKzYRrL0XCxfF7ESr7NR9q8m5PM5B4PNQIkVIs5r9qTcTy_uRCssBFU2_4J_Q.png" group-title="✅CINE PREMIUM LATINO",CINE - Distrito Comedia (L)(1080)
+http://novabox.club/live/conectStreax/K2tbMNebMW/406068.ts
+#EXTINF:0 CUID="18661" tvg-name="Distrito Comedia" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMhu-444k93Ygnkh-9HVI37cmFsqLLGs4Vz4UxVbUoWj9dCpeUiCdPEdoejqsgV-ZFxigC6YLNN79nXgCam8cM_k22zOKzYRrL0XCxfF7ESr7NR9q8m5PM5B4PNQIkVIs5r9qTcTy_uRCssBFU2_4J_Q.png" group-title="✅CINE PREMIUM LATINO",Distrito Comedia
+http://novabox.club/live/conectStreax/K2tbMNebMW/406069.ts
+#EXTINF:0 CUID="18662" tvg-name="El Gourmet" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMkzAdwMU36VvSteKwJ0r6dCAsQ8yl5SUJlL9FxIpzbYlW8RgZQADmddE0oA2LZmcO6B4giQCa51zO3lmJuK_MMCaUWFlhsuFeo80jDob9axre0VlT5ka_WVy2hazbvcbAFp5DWmMubG6W2PZYwpwG0I.png" group-title="✅CINE PREMIUM LATINO",El Gourmet
+http://novabox.club/live/conectStreax/K2tbMNebMW/406071.ts
+#EXTINF:0 CUID="18663" tvg-name="Europa Europa" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMjAFHlNPuH4WEzn9eEZDSQN56DJwB-0e4hSDB_6UtugAOXP80N_VDF2Cl777IIdYh-Rid2RY0PdZZkmZPqNKxLdL_nSEPgFiBZ-7-wbr2Pk1zdoX5-RMehMe5RK9SzIsQvXHUA-8ZDXXLMRK900MUv0.png" group-title="✅CINE PREMIUM LATINO",Europa Europa
+http://novabox.club/live/conectStreax/K2tbMNebMW/406072.ts
+#EXTINF:0 CUID="18664" tvg-name="Film & Arts" tvg-logo="http://novabox.club:80/images/Q1IbbG8ygUN1BiMdZv9KWWc-6_cgU8oya3k8qSxWdZu3nYMZ2AjPg1UXmVp1gx_g9-Sb-0QvMEOjIyL8-ifOxb9aIN4MlH73d0wzuXzVePjKcTKn6nPZn-fWKspKNi3UlN3P-L9-xQpnGEbL22EATg.jpeg" group-title="✅CINE PREMIUM LATINO",Film & Arts
+http://novabox.club/live/conectStreax/K2tbMNebMW/406073.ts
+#EXTINF:0 CUID="18665" tvg-name="Film And Arts" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMmndD2ZynLRXmwP6m2LMqzzAeQKX12f6YV3_TRboluMcUgTdQIbycTxrKsm3IZdLISZKOwn6aORchzhZo8kgPGXkuvHY8jhljbKbEiylStdCIyk3pnnJBD6KueBX2GE7OGDgZe2u5u-yUv9DjLg4Ogk.png" group-title="✅CINE PREMIUM LATINO",Film And Arts
+http://novabox.club/live/conectStreax/K2tbMNebMW/406074.ts
+#EXTINF:0 CUID="18666" tvg-name="Food Network" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMvK03rev3E1xR2yiPmJpkN5XbmmOrKjktnQYGgehAqQvaMqfhFp0XG-Jw_g576i-ng1ViRnrzOLJF5ZZtoqMcUL-njIuKoZjW5ELNTipHzxjyUMUltU9M0-U51PgpwFjcawTrAqdEWLSYSW6n68EXAA.png" group-title="✅CINE PREMIUM LATINO",Food Network
+http://novabox.club/live/conectStreax/K2tbMNebMW/406075.ts
+#EXTINF:0 CUID="18667" tvg-name="FX" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMjzz_yfvjw474Q0r-8snqIyRJfpXNKoy-DmLzyM327gfXCFAOo8Ng6gGofIN93Cp0Bn2MPNfw4eJICkIUyxxHLICutalO8yNlhkLcOCO2I1XjyR5dXFKsdchgDJaeyGu6J9PcbbPx8sEHk_17utNJSk.png" group-title="✅CINE PREMIUM LATINO",FX
+http://novabox.club/live/conectStreax/K2tbMNebMW/406077.ts
+#EXTINF:0 CUID="18668" tvg-name="CINE - FX MEX (TV)(720)" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMjzz_yfvjw474Q0r-8snqIyRJfpXNKoy-DmLzyM327gfXCFAOo8Ng6gGofIN93Cp0Bn2MPNfw4eJICkIUyxxHLICutalO8yNlhkLcOCO2I1XjyR5dXFKsdchgDJaeyGu6J9PcbbPx8sEHk_17utNJSk.png" group-title="✅CINE PREMIUM LATINO",CINE - FX MEX (TV)(720)
+http://novabox.club/live/conectStreax/K2tbMNebMW/406079.ts
+#EXTINF:0 CUID="18669" tvg-name="Golden" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMs9hjZ9FKmN0GozSobSMnUIpPksjG6iSN1XAc-PhAPSkp8jpQaAn3KIHukydwp4SWKlv37-MfJNFGPZErMyjn33N6alSmb8tdTcwCRQAqSkq0HrJHQ1mBPGF4vKK4JkuTjScJTDciLh1hsHKgwRSEAo.png" group-title="✅CINE PREMIUM LATINO",Golden
+http://novabox.club/live/conectStreax/K2tbMNebMW/406080.ts
+#EXTINF:0 CUID="18670" tvg-name="Golden" tvg-logo="http://novabox.club:80/images/Q1IbbG8ygUN1BiMdZv9KWWc-6_cgU8oya3k8qSxWdZu3nYMZ2AjPg1UXmVp1gx_gZpL4W_Gc5ztKD8sz3Yt3-TsQMKRYXlA3pWlsXtbKINr7uov7YzSW22IEL2NCXxFNeFNrjBL_gjwnfTw77HVup7mgi6BGQP5SMHsh47x0UDEISK-HgG_oXZRquHN3IcGu.png" group-title="✅CINE PREMIUM LATINO",Golden
+http://novabox.club/live/conectStreax/K2tbMNebMW/406081.ts
+#EXTINF:0 CUID="18671" tvg-name="CINE - Golden Edge (M)(720)" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMu5QT5Ma8lXfwmbKD91Y_sLqB81MMEELNiHjK0rH82DT110Rot2CGGkBDdj8glXJiXWb2gEDzsygaBWKFvBva4erwvKVPx99_pM6jY7H6KFlgvEzK8AcNG3_9cpc2r1CN8ZU8FSSdWqWePtPkBufHFQ.png" group-title="✅CINE PREMIUM LATINO",CINE - Golden Edge (M)(720)
+http://novabox.club/live/conectStreax/K2tbMNebMW/406082.ts
+#EXTINF:0 CUID="18672" tvg-name="Golden Edge" tvg-logo="http://novabox.club:80/images/-Lp1PbbYJAXCVMvWjQh3pk9XrhBoGt5c_1hhO9gS4aegNvSNf2s-vnjRF_ITXLBA4nS5zR1sR7ZHlaJdul0LOFGxxZkEXJ2bRSOOWG0xZrtcSRBJMylYeHTP4nMG9AK0LVGsmitK3BpAcA7ekmxcOoxP9gfA1Y2FtxKjq0--Bcx-YQj70tlfOcCvUvyOX3oUgGVh3hE0g3k_ZegJNdvG3g.png" group-title="✅CINE PREMIUM LATINO",Golden Edge
+http://novabox.club/live/conectStreax/K2tbMNebMW/406083.ts
+#EXTINF:0 CUID="18673" tvg-name="CINE - Golden Plus (L)(720)" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMj1K5_UqHvRktMeIvrYnY4i_K07MpUQ6nnU-2HNQwiWCwngx2UfwNq40IxoFxBP-VsD8NTK7yTXtWUoO_460tV01Ni1rc8tVmAL9b2yR9Q8trvDbuXwfAXga2TDo1wfEkVnFgoIr6uMbvZMPbUCHZcM.png" group-title="✅CINE PREMIUM LATINO",CINE - Golden Plus (L)(720)
+http://novabox.club/live/conectStreax/K2tbMNebMW/406084.ts
+#EXTINF:0 CUID="18674" tvg-name="Golden Plus" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMj1K5_UqHvRktMeIvrYnY4i_K07MpUQ6nnU-2HNQwiWCwngx2UfwNq40IxoFxBP-VsD8NTK7yTXtWUoO_460tV01Ni1rc8tVmAL9b2yR9Q8trvDbuXwfAXga2TDo1wfEkVnFgoIr6uMbvZMPbUCHZcM.png" group-title="✅CINE PREMIUM LATINO",Golden Plus
+http://novabox.club/live/conectStreax/K2tbMNebMW/406086.ts
+#EXTINF:0 CUID="18675" tvg-name="CINE - Golden Premier (Z)(720)" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMg0DaZnYUMOdI7l4CcxG2ep94Gk2BsrY6rEf-tJO2rtJJsU0IEmdxHBE4DLFx0IgDf3-bc19EsxK4n4vACfpV4y5tL09EuYeXp2s2cYT3QGkDQjWMGWZOyvP0ZpLXA751KpBXTqP55UA8pBvoRUyN-s.png" group-title="✅CINE PREMIUM LATINO",CINE - Golden Premier (Z)(720)
+http://novabox.club/live/conectStreax/K2tbMNebMW/406087.ts
+#EXTINF:0 CUID="18676" tvg-name="Golden Premiere" tvg-id="Canal.Golden.Premier.mx" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMg0DaZnYUMOdI7l4CcxG2ep94Gk2BsrY6rEf-tJO2rtJJsU0IEmdxHBE4DLFx0IgDf3-bc19EsxK4n4vACfpV4y5tL09EuYeXp2s2cYT3QGkDQjWMGWZOyvP0ZpLXA751KpBXTqP55UA8pBvoRUyN-s.png" group-title="✅CINE PREMIUM LATINO",Golden Premiere
+http://novabox.club/live/conectStreax/K2tbMNebMW/406088.ts
+#EXTINF:0 CUID="18677" tvg-name="Golden Premiere 2" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMg0DaZnYUMOdI7l4CcxG2ep94Gk2BsrY6rEf-tJO2rtJJsU0IEmdxHBE4DLFx0IgDf3-bc19EsxK4n4vACfpV4y5tL09EuYeXp2s2cYT3QGkDQjWMGWZOyvP0ZpLXA751KpBXTqP55UA8pBvoRUyN-s.png" group-title="✅CINE PREMIUM LATINO",Golden Premiere 2
+http://novabox.club/live/conectStreax/K2tbMNebMW/406089.ts
+#EXTINF:0 CUID="18678" tvg-name="I.Sat" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMrrDknoAVewTBoDpW4v24mpPh4KwinPRq1tKTIsa6IpWsDwDVx0m1rxN5ZoWd9M-kE1cElqMj6903SjKcjoCvqjZpyy0N7kPiqGVZQKQQxsRLUhC4kMziEsH7Tp_xC0I2IM6LU_RdyRmMLh7Asfk92U.png" group-title="✅CINE PREMIUM LATINO",I.Sat
+http://novabox.club/live/conectStreax/K2tbMNebMW/406090.ts
+#EXTINF:0 CUID="18679" tvg-name="Panico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_Panico_HD.png/revision/latest?cb=20161218051240" group-title="✅CINE PREMIUM LATINO",Panico
+http://novabox.club/live/conectStreax/K2tbMNebMW/406092.ts
+#EXTINF:0 CUID="18680" tvg-name="CINE - Sony Channel (L)(1080)" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMnDgj8nrpOWY4c3aWHqMCixti53o1NMCYcuhVTdLRUXmUsSscr8OIlgQXmllRs8TSKdLUB45QbIbIwdowP47Ygr5M6DPJS6K84U7K4QtS949RVy6nDJnoFWVvexJ-JRW6s23ZugHIcCc7x1YMh8ipKc.png" group-title="✅CINE PREMIUM LATINO",CINE - Sony Channel (L)(1080)
+http://novabox.club/live/conectStreax/K2tbMNebMW/406095.ts
+#EXTINF:0 CUID="18681" tvg-name="SONY CHANNEL" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMnDgj8nrpOWY4c3aWHqMCixti53o1NMCYcuhVTdLRUXmUsSscr8OIlgQXmllRs8TSKdLUB45QbIbIwdowP47Ygr5M6DPJS6K84U7K4QtS949RVy6nDJnoFWVvexJ-JRW6s23ZugHIcCc7x1YMh8ipKc.png" group-title="✅CINE PREMIUM LATINO",SONY CHANNEL
+http://novabox.club/live/conectStreax/K2tbMNebMW/406096.ts
+#EXTINF:0 CUID="18682" tvg-name="Sony Cine" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMpFx8zStOMOGFJ1WIhtOYgR-Nx_gmVJs9TlqJbhpWnt0ymXiPOkXrqi76FHvsjpGF_4-jRlSrCZ4WVpMWeBpnZQ58YAtbvdNVHZDA-3FSvt2lzfmBiYCWv0800oTO6oCtX3xfsEAI5-m0E75jbSEIR0.png" group-title="✅CINE PREMIUM LATINO",Sony Cine
+http://novabox.club/live/conectStreax/K2tbMNebMW/406097.ts
+#EXTINF:0 CUID="18683" tvg-name="Sony Movies" tvg-logo="http://novabox.club:80/images/IvCIXhocdRn-W75B_zR0mlvmeHlIQS5IkWTj0y7wxuapqme3u7y2ZAD5H8gAaFKiv1DWt5Vxh-tYa66-xTOabEtN5tpL43FX_t_6GpaqFdVU1cO_c2A-MmdcYvJafpx9N4Hz2850y7yJRx0UEmmxHCDaHKqDcKxEcbthjfsBxt5kd-d11UpZqWSpsh2gZNKEhHfRLZcZ5TGSQ9i_OBD1-A.png" group-title="✅CINE PREMIUM LATINO",Sony Movies
+http://novabox.club/live/conectStreax/K2tbMNebMW/406099.ts
+#EXTINF:0 CUID="18684" tvg-name="Sony Novelas" tvg-logo="http://novabox.club:80/images/IvCIXhocdRn-W75B_zR0mlvmeHlIQS5IkWTj0y7wxuYGoZ0bL9_mzXAECAoEun7dLljQzZJu8lNwgihuz4g320iWngHj0x2eV-vOPRMNJcXNHeknniV4W6D7IIis7qaEwvK9fukV6F9d9ygvZ3-0pMcTmwxvth3oR0G-nZ4zqfX2Z8LFRWTxe7aEz9pXBQvb2jkLCsPjNMfr3Nr5xPuw3A.png" group-title="✅CINE PREMIUM LATINO",Sony Novelas
+http://novabox.club/live/conectStreax/K2tbMNebMW/406100.ts
+#EXTINF:0 CUID="18685" tvg-name="Space" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMoNPU5ewi4x83F89jTJG61durKoP_gmX9qjwoHfl1X80cnFW349HlmLXC0LdGK9yAeRcKGQ7ID9Yn1U2iZT1UIcEbF2uD6poiTaSLTHKNhqdfNW1b9ubiWRupoLot1SKOTxmLdN-icktk6PjZ0yeJfc.png" group-title="✅CINE PREMIUM LATINO",Space
+http://novabox.club/live/conectStreax/K2tbMNebMW/406101.ts
+#EXTINF:0 CUID="18686" tvg-name="CINE - Space (TV)(720)" tvg-id="Space.co" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMoNPU5ewi4x83F89jTJG61durKoP_gmX9qjwoHfl1X80cnFW349HlmLXC0LdGK9yAeRcKGQ7ID9Yn1U2iZT1UIcEbF2uD6poiTaSLTHKNhqdfNW1b9ubiWRupoLot1SKOTxmLdN-icktk6PjZ0yeJfc.png" group-title="✅CINE PREMIUM LATINO",CINE - Space (TV)(720)
+http://novabox.club/live/conectStreax/K2tbMNebMW/406102.ts
+#EXTINF:0 CUID="18687" tvg-name="CINE - Space (Z)(1080)" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMoNPU5ewi4x83F89jTJG61durKoP_gmX9qjwoHfl1X80cnFW349HlmLXC0LdGK9yAeRcKGQ7ID9Yn1U2iZT1UIcEbF2uD6poiTaSLTHKNhqdfNW1b9ubiWRupoLot1SKOTxmLdN-icktk6PjZ0yeJfc.png" group-title="✅CINE PREMIUM LATINO",CINE - Space (Z)(1080)
+http://novabox.club/live/conectStreax/K2tbMNebMW/406103.ts
+#EXTINF:0 CUID="18688" tvg-name="CINE - STAR Channel CO (M)(1080) [Dual Audio]" tvg-logo="http://novabox.club:80/images/IvCIXhocdRn-W75B_zR0mlvmeHlIQS5IkWTj0y7wxuZlc-2ESRqDNdkDVy99xocIICLgYm_DyNdV2MRF7w4ofQElZfWSSGmWCf6wdw2IV8Q1z3mC_cyulPIqlCRQbDg5RTGvcAU8fW78ttgzfWoJ-lIm-k6MerXlM1QawpLUANsi2d7YXmhw-ziJ75m3AC_he-70GMKA75myFICLzhsoxA.png" group-title="✅CINE PREMIUM LATINO",CINE - STAR Channel CO (M)(1080) [Dual Audio]
+http://novabox.club/live/conectStreax/K2tbMNebMW/406105.ts
+#EXTINF:0 CUID="18689" tvg-name="STAR Channel" tvg-id="STAR.CHANNEL.co" tvg-logo="http://novabox.club:80/images/IvCIXhocdRn-W75B_zR0mlvmeHlIQS5IkWTj0y7wxuZlc-2ESRqDNdkDVy99xocIICLgYm_DyNdV2MRF7w4ofQElZfWSSGmWCf6wdw2IV8Q1z3mC_cyulPIqlCRQbDg5RTGvcAU8fW78ttgzfWoJ-lIm-k6MerXlM1QawpLUANsi2d7YXmhw-ziJ75m3AC_he-70GMKA75myFICLzhsoxA.png" group-title="✅CINE PREMIUM LATINO",STAR Channel
+http://novabox.club/live/conectStreax/K2tbMNebMW/406106.ts
+#EXTINF:0 CUID="18690" tvg-name="CINE - STAR Channel MX (L)(1080)" tvg-logo="http://novabox.club:80/images/IvCIXhocdRn-W75B_zR0mlvmeHlIQS5IkWTj0y7wxuZlc-2ESRqDNdkDVy99xocIICLgYm_DyNdV2MRF7w4ofQElZfWSSGmWCf6wdw2IV8Q1z3mC_cyulPIqlCRQbDg5RTGvcAU8fW78ttgzfWoJ-lIm-k6MerXlM1QawpLUANsi2d7YXmhw-ziJ75m3AC_he-70GMKA75myFICLzhsoxA.png" group-title="✅CINE PREMIUM LATINO",CINE - STAR Channel MX (L)(1080)
+http://novabox.club/live/conectStreax/K2tbMNebMW/406107.ts
+#EXTINF:0 CUID="18691" tvg-name="Star Channel" tvg-logo="http://novabox.club:80/images/MIvTK_tqMiAOc7C5xaYLwK0V5xJMeP4boVdc8DLjNaV5t5isBQ246VC-HohtVvenuDE-V-Xf_TtJGsFJI2sLr8mCpZ8yZmkiTzUc1upLdbnKVGXYL2RsGSVv1CSoNKPz_UmWx9_o62VzSIL46GnT_w.png" group-title="✅CINE PREMIUM LATINO",Star Channel
+http://novabox.club/live/conectStreax/K2tbMNebMW/406108.ts
+#EXTINF:0 CUID="18692" tvg-name="Star Channel Sur" tvg-logo="http://novabox.club:80/images/MIvTK_tqMiAOc7C5xaYLwK0V5xJMeP4boVdc8DLjNaV5t5isBQ246VC-HohtVvenuDE-V-Xf_TtJGsFJI2sLr8mCpZ8yZmkiTzUc1upLdbnKVGXYL2RsGSVv1CSoNKPz_UmWx9_o62VzSIL46GnT_w.png" group-title="✅CINE PREMIUM LATINO",Star Channel Sur
+http://novabox.club/live/conectStreax/K2tbMNebMW/406109.ts
+#EXTINF:0 CUID="18693" tvg-name="Starz Comedy" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMhyiprt97ilMmHtkfs6bM7l0MxtWTNnLsM4zlPUILaJDFqXkTU-BuXujqoN7GHu0QSFYReCXFKJwva_mhgE-chkrWUINfbnR1JXjQrSFHxSWJfEjb6WQWDZVNZq5SLeeCNS7uHd7wDVTGJ60zoV1npE.png" group-title="✅CINE PREMIUM LATINO",Starz Comedy
+http://novabox.club/live/conectStreax/K2tbMNebMW/406112.ts
+#EXTINF:0 CUID="18694" tvg-name="STARZ  Encore" tvg-id="Starz.Encore.on.Demand.us" tvg-logo="http://novabox.club:80/images/IvCIXhocdRn-W75B_zR0mlvmeHlIQS5IkWTj0y7wxuaPhvFXjOWwsomMjLa8qXCsmrKlu21GlXG5O-B6vYs2A18pOICE4M6RdlHxwGU8tCDGuB3Ai7CXQCyuuOaneQeBxsEMz2r-LC1asJyY0gk4cq50ROu3VKDQYrWUUiXC_2g9ypLlmF4Kv6XP_OzvxtS1lcae9FQfnLh88E-kXD30PA.png" group-title="✅CINE PREMIUM LATINO",STARZ  Encore
+http://novabox.club/live/conectStreax/K2tbMNebMW/406113.ts
+#EXTINF:0 CUID="18695" tvg-name="Starz Encore Suspense" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMngEnwaMa014YldUhiKHtu4iKqff1u5vs0_UuJBvnatjdNn3b2034SFFQ_f-ub9s9ot1smqvLBLfJ8cjKzs76Y-Bll3bghctXY0_BO3LJWhZpb3zuFDW9AAO25uI1gLejtUh0VSa3KH3YltVAME8KFk.png" group-title="✅CINE PREMIUM LATINO",Starz Encore Suspense
+http://novabox.club/live/conectStreax/K2tbMNebMW/406114.ts
+#EXTINF:0 CUID="18696" tvg-name="Starz Family" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMngEnwaMa014YldUhiKHtu4iKqff1u5vs0_UuJBvnatjdNn3b2034SFFQ_f-ub9s9ot1smqvLBLfJ8cjKzs76Y-Bll3bghctXY0_BO3LJWhZpb3zuFDW9AAO25uI1gLejtUh0VSa3KH3YltVAME8KFk.png" group-title="✅CINE PREMIUM LATINO",Starz Family
+http://novabox.club/live/conectStreax/K2tbMNebMW/406115.ts
+#EXTINF:0 CUID="18697" tvg-name="Studio Universa" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMgrkEwy-LXnZXsjwrxPFyHiVph8wUG19m4nJhfUAkzRfyh_JPUHEolxRMXfFK4YMGZEnOkERWukklBz8NSy4rMo1TNisypKuiXEDz9erZn9R7g4DXEu6zutgETlwdkrUK6Mpm5KYC-KR6y7Fb9WIu34.png" group-title="✅CINE PREMIUM LATINO",Studio Universa
+http://novabox.club/live/conectStreax/K2tbMNebMW/406116.ts
+#EXTINF:0 CUID="18698" tvg-name="Studio Universal" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMgrkEwy-LXnZXsjwrxPFyHiVph8wUG19m4nJhfUAkzRfyh_JPUHEolxRMXfFK4YMGZEnOkERWukklBz8NSy4rMo1TNisypKuiXEDz9erZn9R7g4DXEu6zutgETlwdkrUK6Mpm5KYC-KR6y7Fb9WIu34.png" group-title="✅CINE PREMIUM LATINO",Studio Universal
+http://novabox.club/live/conectStreax/K2tbMNebMW/406117.ts
+#EXTINF:0 CUID="18699" tvg-name="Syfy" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMregpHTXHPafdbscV9rKHrVHFlQPVTOjPX3eGURzNLs83_VzTyFK2yzl3zGe7bfK20f60EoYKYzp0bqtuu7f-RmB-Dv_4vC0af1_MvAqx84bP-IdssAwnVaSHNG4q7uLYdgbbM6Qr3YwONiEXNYuCzI.png" group-title="✅CINE PREMIUM LATINO",Syfy
+http://novabox.club/live/conectStreax/K2tbMNebMW/406118.ts
+#EXTINF:0 CUID="18700" tvg-name="SYFY" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMregpHTXHPafdbscV9rKHrVHFlQPVTOjPX3eGURzNLs83_VzTyFK2yzl3zGe7bfK20f60EoYKYzp0bqtuu7f-RmB-Dv_4vC0af1_MvAqx84bP-IdssAwnVaSHNG4q7uLYdgbbM6Qr3YwONiEXNYuCzI.png" group-title="✅CINE PREMIUM LATINO",SYFY
+http://novabox.club/live/conectStreax/K2tbMNebMW/406119.ts
+#EXTINF:0 CUID="18701" tvg-name="TBS" tvg-logo="http://novabox.club:80/images/8XJjHnNXLgKc8JJIUYKbD5kMr063gTLA1B2bjpr_Rage5pY3CEvtyqyZJ7_UTJr0XwKaG0OzKs56LBGL3fIbQdO8HLr-RpL5j73Br3d2e8IWq4cQDXn2zKomEVMAYbmWVyHI5XJEIdmUrg5KvkaUMQ.png" group-title="✅CINE PREMIUM LATINO",TBS
+http://novabox.club/live/conectStreax/K2tbMNebMW/406120.ts
+#EXTINF:0 CUID="18702" tvg-name="TBS Very Funny" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMsFmX-9rN3fq-TCMl0b8qSpcO271F6ySm4-fritPQnfJIuF3W0UqokquqjcabFP48Get47ujC5be5sFJOiu4KCpcTSkqUMS7bjwimB-2Sz1f8pQwOr-9TWz_7tCh3eYlp8b8BlYeZPPRFJNMPucWYMs.png" group-title="✅CINE PREMIUM LATINO",TBS Very Funny
+http://novabox.club/live/conectStreax/K2tbMNebMW/406121.ts
+#EXTINF:0 CUID="18704" tvg-name="TCM" tvg-logo="http://novabox.club:80/images/MIvTK_tqMiAOc7C5xaYLwK0V5xJMeP4boVdc8DLjNaUQsLPn_-1dW5F1tHOSBn5P3rNwmOeNdekxChr8gnBCFljP0qsodFc2Tyx4nM6yOi6pMNVaKTeiatCnZDODKU3uFFTyQabfBCJAnaBiYdtWpYHUapTKW2BFQCzN1xH86hY.png" group-title="✅CINE PREMIUM LATINO",TCM
+http://novabox.club/live/conectStreax/K2tbMNebMW/406123.ts
+#EXTINF:0 CUID="18705" tvg-name="MULTIPREMIER" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRa9qmoRpm8DuWyTcmQ2kmY6WchAI9bz97YOY395pMvGH.png" group-title="✅CINE PREMIUM LATINO",MULTIPREMIER
+http://novabox.club/live/conectStreax/K2tbMNebMW/406213.ts
+#EXTINF:0 CUID="18706" tvg-name="MULTIPREMIER" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRa9qmoRpm8DuWyTcmQ2kmY6WchAI9bz97YOY395pMvGH.png" group-title="✅CINE PREMIUM LATINO",MULTIPREMIER
+http://novabox.club/live/conectStreax/K2tbMNebMW/406214.ts
+#EXTINF:0 CUID="18807" tvg-name="DHE" tvg-logo="http://novabox.club:80/images/MIvTK_tqMiAOc7C5xaYLwK0V5xJMeP4boVdc8DLjNaV5t5isBQ246VC-HohtVvenacmST-lgfWKvV_TKKhNxDcjN7dm_v2kE6kU0Coi1G6sVzXcfojwGIO2crjoS7K_HKEEq-264iLTABMIEMKUmakHb0JOfvTi6lddVqLlVS8k.png" group-title="✅CINE PREMIUM LATINO",DHE
+http://novabox.club/live/conectStreax/K2tbMNebMW/406511.ts
+#EXTINF:0 CUID="18808" tvg-name="DHE OP2" tvg-logo="http://novabox.club:80/images/MIvTK_tqMiAOc7C5xaYLwK0V5xJMeP4boVdc8DLjNaV5t5isBQ246VC-HohtVvenacmST-lgfWKvV_TKKhNxDcjN7dm_v2kE6kU0Coi1G6sVzXcfojwGIO2crjoS7K_HKEEq-264iLTABMIEMKUmakHb0JOfvTi6lddVqLlVS8k.png" group-title="✅CINE PREMIUM LATINO",DHE OP2
+http://novabox.club/live/conectStreax/K2tbMNebMW/406512.ts
+#EXTINF:0 CUID="18817" tvg-name="Food Network" tvg-logo="http://novabox.club:80/images/gvioynolDbdudGB_i4OXMvK03rev3E1xR2yiPmJpkN5XbmmOrKjktnQYGgehAqQvaMqfhFp0XG-Jw_g576i-ng1ViRnrzOLJF5ZZtoqMcUL-njIuKoZjW5ELNTipHzxjyUMUltU9M0-U51PgpwFjcawTrAqdEWLSYSW6n68EXAA.png" group-title="✅CINE PREMIUM LATINO",Food Network
+http://novabox.club/live/conectStreax/K2tbMNebMW/424489.ts
+#EXTINF:0 CUID="14940" tvg-name="CL | Cinema Dinamita" group-title="✅CINE PREMIUM LATINO 2",CL | Cinema Dinamita
+http://novabox.club/live/conectStreax/K2tbMNebMW/379715.ts
+#EXTINF:0 CUID="14941" tvg-name="CL | CINE LATINO" tvg-logo="http://novabox.club:80/images/p0comVXP5zcxvsMf1KqGHeqdyxbLq8Q5Md7HS6LKyBZSJYXOGPGU8T09sThHjAoCyepfa23hm3kHoglbnRvJ5efK4biHzBZU-Yfh889AQok.png" group-title="✅CINE PREMIUM LATINO 2",CL | CINE LATINO
+http://novabox.club/live/conectStreax/K2tbMNebMW/379716.ts
+#EXTINF:0 CUID="21419" tvg-name="HBO Signature" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRbfxx2EfXMKKmbDNaz6Uv_69YeJfmKXcCEwvQzYgH4Bk.png" group-title="✅CINE PREMIUM LATINO 2",HBO Signature
+http://novabox.club/live/conectStreax/K2tbMNebMW/195907.ts
+#EXTINF:0 CUID="21420" tvg-name="TCM" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRb2OfDqqAStXeehR7pWFSonUGp06yfBPP6ARDGNPbzw_.png" group-title="✅CINE PREMIUM LATINO 2",TCM
+http://novabox.club/live/conectStreax/K2tbMNebMW/172381.ts
+#EXTINF:0 CUID="21421" tvg-name="DE PELICULA" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRZBH9772qZKXc3YGke-GkaIEBJtD9SSPf042VELGXuY1.png" group-title="✅CINE PREMIUM LATINO 2",DE PELICULA
+http://novabox.club/live/conectStreax/K2tbMNebMW/171752.ts
+#EXTINF:0 CUID="21422" tvg-name="AMC HD" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRUT7nUWYV0aCrZf2TXuWoC1tUI5u58Yqz43TYGiu8fCa.png" group-title="✅CINE PREMIUM LATINO 2",AMC HD
+http://novabox.club/live/conectStreax/K2tbMNebMW/170251.ts
+#EXTINF:0 CUID="21554" tvg-name="A&E" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRQJj9Mo037Ux_RMymVFYfntIrn76iyanTN3p1P_cLgaY.png" group-title="✅CINE PREMIUM LATINO 2",A&E
+http://novabox.club/live/conectStreax/K2tbMNebMW/402148.ts
+#EXTINF:0 CUID="21555" tvg-name="A&E 2" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRQJj9Mo037Ux_RMymVFYfntIrn76iyanTN3p1P_cLgaY.png" group-title="✅CINE PREMIUM LATINO 2",A&E 2
+http://novabox.club/live/conectStreax/K2tbMNebMW/402149.ts
+#EXTINF:0 CUID="21557" tvg-name="Paramount" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRUzBEUD-zgkpUrjMSuRulSwljmqYEIM7OQjjdjfD0kiM.png" group-title="✅CINE PREMIUM LATINO 2",Paramount
+http://novabox.club/live/conectStreax/K2tbMNebMW/402223.ts
+#EXTINF:0 CUID="21565" tvg-name="Cinemax SD" tvg-id="AlJazeera.Arabic.net" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRVj7zyxf--kE869RF93XXxHVFOF8w2t9vAtisNmS2LGt.png" group-title="✅CINE PREMIUM LATINO 2",Cinemax SD
+http://novabox.club/live/conectStreax/K2tbMNebMW/371320.ts
+#EXTINF:0 CUID="21566" tvg-name="CINECANAL 2" tvg-id="AlJazeera.Arabic.net" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRX_6zbDj1bMRWClSL0P9pkw-hJmZkpgc1EPGsAsqSBgt.png" group-title="✅CINE PREMIUM LATINO 2",CINECANAL 2
+http://novabox.club/live/conectStreax/K2tbMNebMW/371318.ts
+#EXTINF:0 CUID="21567" tvg-name="FX" tvg-id="AlJazeera.Arabic.net" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRYxAlToWOmIimFHmrrSBkQQMbYTlBSQclzrloW8A2AM9.png" group-title="✅CINE PREMIUM LATINO 2",FX
+http://novabox.club/live/conectStreax/K2tbMNebMW/371316.ts
+#EXTINF:0 CUID="21568" tvg-name="UNIVERSAL CHANNEL" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRXH4-Lxbo84a88qZijhxwTMPxWLJ9aoX-6PlUEBZ9Zm1.png" group-title="✅CINE PREMIUM LATINO 2",UNIVERSAL CHANNEL
+http://novabox.club/live/conectStreax/K2tbMNebMW/371315.ts
+#EXTINF:0 CUID="21569" tvg-name="UNIVERSAL REALITY" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRY_5fFU4pav_pcOeIYYSYwp7NWw9knkYNAmZF4tIJEKT.png" group-title="✅CINE PREMIUM LATINO 2",UNIVERSAL REALITY
+http://novabox.club/live/conectStreax/K2tbMNebMW/371314.ts
+#EXTINF:0 CUID="21570" tvg-name="Space" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRehTpLB3_xqKkiS_HVejLpHB2dQ01qeCVYTEI6SZprrl.png" group-title="✅CINE PREMIUM LATINO 2",Space
+http://novabox.club/live/conectStreax/K2tbMNebMW/371312.ts
+#EXTINF:0 CUID="21571" tvg-name="TNT" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRSMhtIZKOQBjVSWK35G0ZM8OOTLsSKYfaau6c11cVUDJ.png" group-title="✅CINE PREMIUM LATINO 2",TNT
+http://novabox.club/live/conectStreax/K2tbMNebMW/371310.ts
+#EXTINF:0 CUID="21572" tvg-name="GOLDEN PREMIER 2" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRcZptAJBQ1DTi2gMnu-pvGdDzYwsJ_MG-FBq1kufnIuH.png" group-title="✅CINE PREMIUM LATINO 2",GOLDEN PREMIER 2
+http://novabox.club/live/conectStreax/K2tbMNebMW/371306.ts
+#EXTINF:0 CUID="21573" tvg-name="WARNER CHANNEL" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRSoceq6O2xNjLFS9y-eCeSMfRve3VtjN9JLjf1mBs75G.png" group-title="✅CINE PREMIUM LATINO 2",WARNER CHANNEL
+http://novabox.club/live/conectStreax/K2tbMNebMW/371305.ts
+#EXTINF:0 CUID="21574" tvg-name="STAR CHANNEL" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRTLiBPbwCcbFLjn2GsRa1tSIn3DGqq9ee6uXHDx5ALAQ.png" group-title="✅CINE PREMIUM LATINO 2",STAR CHANNEL
+http://novabox.club/live/conectStreax/K2tbMNebMW/371302.ts
+#EXTINF:0 CUID="21575" tvg-name="HBO+ 2" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRQ6KMgD-PydkNVyMhqObPWxe8E2r_mHzomZFToAmgtCr.png" group-title="✅CINE PREMIUM LATINO 2",HBO+ 2
+http://novabox.club/live/conectStreax/K2tbMNebMW/371301.ts
+#EXTINF:0 CUID="21576" tvg-name="HBO XTREME HD" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRbfxx2EfXMKKmbDNaz6Uv_69YeJfmKXcCEwvQzYgH4Bk.png" group-title="✅CINE PREMIUM LATINO 2",HBO XTREME HD
+http://novabox.club/live/conectStreax/K2tbMNebMW/371299.ts
+#EXTINF:0 CUID="21577" tvg-name="HBO POP 2" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRU60fqRP_spPur5QC_HbKzdABjWW0K5XnRN_f12bKa3j.png" group-title="✅CINE PREMIUM LATINO 2",HBO POP 2
+http://novabox.club/live/conectStreax/K2tbMNebMW/371298.ts
+#EXTINF:0 CUID="21578" tvg-name="HBO POP" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRU60fqRP_spPur5QC_HbKzdABjWW0K5XnRN_f12bKa3j.png" group-title="✅CINE PREMIUM LATINO 2",HBO POP
+http://novabox.club/live/conectStreax/K2tbMNebMW/371297.ts
+#EXTINF:0 CUID="21579" tvg-name="HBO HD" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRWpIvmCZxRgsuP6_G5WMKi0XCnthK5YasrjgSsQN4M-L.png" group-title="✅CINE PREMIUM LATINO 2",HBO HD
+http://novabox.club/live/conectStreax/K2tbMNebMW/371294.ts
+#EXTINF:0 CUID="21580" tvg-name="HBO Family" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRbSXnGIjjyxR3UbJUL6phyHeyhOBiuv6Ewm1uybSVO38.png" group-title="✅CINE PREMIUM LATINO 2",HBO Family
+http://novabox.club/live/conectStreax/K2tbMNebMW/371291.ts
+#EXTINF:0 CUID="21581" tvg-name="UNIVERSAL CRIMEN" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRfmKEuLBwLcfG0Kn-Uxupq_vB7P5MPjsmkBlrrbqQGMn.png" group-title="✅CINE PREMIUM LATINO 2",UNIVERSAL CRIMEN
+http://novabox.club/live/conectStreax/K2tbMNebMW/366832.ts
+#EXTINF:0 CUID="21582" tvg-name="UNIVERSAL COMEDY" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRaJ2enjySRaix9-ijF1y5BAM7Z6Q4eIinC5uzWq-jCMn.png" group-title="✅CINE PREMIUM LATINO 2",UNIVERSAL COMEDY
+http://novabox.club/live/conectStreax/K2tbMNebMW/366830.ts
+#EXTINF:0 CUID="21583" tvg-name="UNIVERSAL PREMIUM" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRW0rKkY801KDOVCjIAixThiDfbizvfA6WQzpcN1_hwXH.png" group-title="✅CINE PREMIUM LATINO 2",UNIVERSAL PREMIUM
+http://novabox.club/live/conectStreax/K2tbMNebMW/366829.ts
+#EXTINF:0 CUID="21584" tvg-name="TNT Series" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRcroPSRal90AXXfbtyL3erGTTsXSjilSICOzMwqXx_Zf.png" group-title="✅CINE PREMIUM LATINO 2",TNT Series
+http://novabox.club/live/conectStreax/K2tbMNebMW/352568.ts
+#EXTINF:0 CUID="21585" tvg-name="CINEMAX" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRVj7zyxf--kE869RF93XXxHVFOF8w2t9vAtisNmS2LGt.png" group-title="✅CINE PREMIUM LATINO 2",CINEMAX
+http://novabox.club/live/conectStreax/K2tbMNebMW/352503.ts
+#EXTINF:0 CUID="21586" tvg-name="MULTIPREMIER" tvg-id="AlJazeera.Arabic.net" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRa9qmoRpm8DuWyTcmQ2kmY6WchAI9bz97YOY395pMvGH.png" group-title="✅CINE PREMIUM LATINO 2",MULTIPREMIER
+http://novabox.club/live/conectStreax/K2tbMNebMW/206175.ts
+#EXTINF:0 CUID="21587" tvg-name="SPACE 2" tvg-id="AlJazeera.Arabic.net" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRTLiBPbwCcbFLjn2GsRa1tSIn3DGqq9ee6uXHDx5ALAQ.png" group-title="✅CINE PREMIUM LATINO 2",SPACE 2
+http://novabox.club/live/conectStreax/K2tbMNebMW/206174.ts
+#EXTINF:0 CUID="21588" tvg-name="HBO Xtreme" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRbfxx2EfXMKKmbDNaz6Uv_69YeJfmKXcCEwvQzYgH4Bk.png" group-title="✅CINE PREMIUM LATINO 2",HBO Xtreme
+http://novabox.club/live/conectStreax/K2tbMNebMW/195908.ts
+#EXTINF:0 CUID="21589" tvg-name="HBO Mundi Latino" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRR4o8287-Azapc0chGdg1etvkkQQdWtdqBaCU_N4AQuy.png" group-title="✅CINE PREMIUM LATINO 2",HBO Mundi Latino
+http://novabox.club/live/conectStreax/K2tbMNebMW/195905.ts
+#EXTINF:0 CUID="21590" tvg-name="HBO FAMILY" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRbSXnGIjjyxR3UbJUL6phyHeyhOBiuv6Ewm1uybSVO38.png" group-title="✅CINE PREMIUM LATINO 2",HBO FAMILY
+http://novabox.club/live/conectStreax/K2tbMNebMW/195903.ts
+#EXTINF:0 CUID="21591" tvg-name="HBO 2" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRT-QzrRZKalxAmSxLKdO9odFbcXu16pBlz3gF6X8iHQd.png" group-title="✅CINE PREMIUM LATINO 2",HBO 2
+http://novabox.club/live/conectStreax/K2tbMNebMW/195902.ts
+#EXTINF:0 CUID="21592" tvg-name="HBO" tvg-id="Canal.HBO.(Argentina).ar" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRWpIvmCZxRgsuP6_G5WMKi0XCnthK5YasrjgSsQN4M-L.png" group-title="✅CINE PREMIUM LATINO 2",HBO
+http://novabox.club/live/conectStreax/K2tbMNebMW/195900.ts
+#EXTINF:0 CUID="21593" tvg-name="WARNER TV" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRSoceq6O2xNjLFS9y-eCeSMfRve3VtjN9JLjf1mBs75G.png" group-title="✅CINE PREMIUM LATINO 2",WARNER TV
+http://novabox.club/live/conectStreax/K2tbMNebMW/172273.ts
+#EXTINF:0 CUID="21594" tvg-name="HBO +" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRQ6KMgD-PydkNVyMhqObPWxe8E2r_mHzomZFToAmgtCr.png" group-title="✅CINE PREMIUM LATINO 2",HBO +
+http://novabox.club/live/conectStreax/K2tbMNebMW/172140.ts
+#EXTINF:0 CUID="21595" tvg-name="SONY" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRTqLxKsxjC0Nni66wEjE0JxZLi1TU8NgcXLuYPHjKjh2.png" group-title="✅CINE PREMIUM LATINO 2",SONY
+http://novabox.club/live/conectStreax/K2tbMNebMW/171938.ts
+#EXTINF:0 CUID="21596" tvg-name="DE PELICULA +" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRXyBlNzpheYCUpn47lQcYaZeNa1n_ZXmA-x78j_UE6Gs.png" group-title="✅CINE PREMIUM LATINO 2",DE PELICULA +
+http://novabox.club/live/conectStreax/K2tbMNebMW/171753.ts
+#EXTINF:0 CUID="21597" tvg-name="SONY NOVELAS" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRX3pWjLzzn0dT2OYInlkduqdezP7bRh1pEfuT0i_MIzY.png" group-title="✅CINE PREMIUM LATINO 2",SONY NOVELAS
+http://novabox.club/live/conectStreax/K2tbMNebMW/170283.ts
+#EXTINF:0 CUID="21598" tvg-name="GOLDEN PREMIER" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRcZptAJBQ1DTi2gMnu-pvGdDzYwsJ_MG-FBq1kufnIuH.png" group-title="✅CINE PREMIUM LATINO 2",GOLDEN PREMIER
+http://novabox.club/live/conectStreax/K2tbMNebMW/170255.ts
+#EXTINF:0 CUID="21599" tvg-name="CINECANAL" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRX_6zbDj1bMRWClSL0P9pkw-hJmZkpgc1EPGsAsqSBgt.png" group-title="✅CINE PREMIUM LATINO 2",CINECANAL
+http://novabox.club/live/conectStreax/K2tbMNebMW/170248.ts
+#EXTINF:0 CUID="21600" tvg-name="STAR CHANNEL 2" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRTLiBPbwCcbFLjn2GsRa1tSIn3DGqq9ee6uXHDx5ALAQ.png" group-title="✅CINE PREMIUM LATINO 2",STAR CHANNEL 2
+http://novabox.club/live/conectStreax/K2tbMNebMW/170247.ts
+#EXTINF:0 CUID="522" tvg-name="STARZ ENCORE ESPANOL" tvg-logo="https://photos.prnewswire.com/prnfull/20110531/LA10660LOGO" group-title="✅CINE PREMIUM USA",STARZ ENCORE ESPANOL
+http://novabox.club/live/conectStreax/K2tbMNebMW/386968.ts
+#EXTINF:0 CUID="1452" tvg-name="HBO FAMILY" tvg-logo="http://novabox.club:80/images/dsAt8cMDBjbP3mVNdeYR4XP9fWAtzua3p3d3KMGMLOc-8Rnkv_DbnQG7HKndiKho.png" group-title="✅CINE PREMIUM USA",HBO FAMILY
+http://novabox.club/live/conectStreax/K2tbMNebMW/205273.ts
+#EXTINF:0 CUID="39980" tvg-name="USA | HBO Comedy" tvg-logo="http://novabox.club:80/images/7IrseOt_dvIZ6LfZ2bAvmWFdLjWD89ePTLxWfOElqJ_8UqTr0tDt7hoZ87A2cHP6OVB7rsXmW2GHktK_2_USEA.png" group-title="✅CINE PREMIUM USA",USA | HBO Comedy
+http://novabox.club/live/conectStreax/K2tbMNebMW/430692.ts
+#EXTINF:0 CUID="39981" tvg-name="USA | HBO Family" tvg-logo="http://novabox.club:80/images/-Lp1PbbYJAXCVMvWjQh3pk9XrhBoGt5c_1hhO9gS4aegNvSNf2s-vnjRF_ITXLBAmq65Is75W6xDEjE2dIgiV68ETDjzzK7XAzBsp9uHWjNRM2D52RRBW2OwkFhk8bofdO5AnertpXz05d0wvO00y3Jh8HtVVbezXFMGrg-VT7R2TzuknnEINs1FDdHGdn_4.png" group-title="✅CINE PREMIUM USA",USA | HBO Family
+http://novabox.club/live/conectStreax/K2tbMNebMW/430693.ts
+#EXTINF:0 CUID="39982" tvg-name="USA | HBO Plus" tvg-logo="http://novabox.club:80/images/7IrseOt_dvIZ6LfZ2bAvmRKo8AIXOXu6XReWeInf1OhsgK2Mpt6KhDqlaBnus874OGbkqPyb6uFuZL286pHTvw.png" group-title="✅CINE PREMIUM USA",USA | HBO Plus
+http://novabox.club/live/conectStreax/K2tbMNebMW/430694.ts
+#EXTINF:0 CUID="39983" tvg-name="USA | HBO Signature" tvg-logo="http://novabox.club:80/images/woXcdbD2nlraIsrL62iIfZQjXoiSSnNis78eDviUPpQKF4P7DSdPtla31Dp58NUsJ2yxrag9_afcWKmxsnT-59troWKtpxPXyD7-A2KUNSE.jpg" group-title="✅CINE PREMIUM USA",USA | HBO Signature
+http://novabox.club/live/conectStreax/K2tbMNebMW/430695.ts
+#EXTINF:0 CUID="39984" tvg-name="USA | HGTV" tvg-logo="http://novabox.club:80/images/1Gb9e6FP1BDWj8MYlcuT9CYc1opPcTlmMLCnCn9_Ur-g5agTvVE_ov5mJ_IGBQ5BuQ1j_cawGevAhUrb_ZEHMw.png" group-title="✅CINE PREMIUM USA",USA | HGTV
+http://novabox.club/live/conectStreax/K2tbMNebMW/430696.ts
+#EXTINF:0 CUID="39985" tvg-name="USA | Paramount" tvg-logo="http://novabox.club:80/images/7IrseOt_dvIZ6LfZ2bAvmWHPYP3XMrUaxgII-YqE6clLH8VnR-DLHc4nITc5IqHpaqqVogSi3-9bNRzSvjAk4w.png" group-title="✅CINE PREMIUM USA",USA | Paramount
+http://novabox.club/live/conectStreax/K2tbMNebMW/430698.ts
