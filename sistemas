@@ -1274,6 +1274,22 @@ https://cdn.sensa.com.ar/output/SMT2/MARCHITVD/output.mpd?|referer=https://playe
 #KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
 #EXTINF:-1 group-title="Provinciales" tvg-id="Somos Uno Chaco TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2539/CH_LOGO/800/542/0/0/39912108073157.png",Somos Uno Chaco TV
 https://cdn.sensa.com.ar/output/SMT3/CHTVD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+#EXTINF:-1 group-title="Dazn" tvg-name="LaLiga HyperMotion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",LaLiga HyperMotion
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+#EXTINF:-1 group-title="Dazn" tvg-name="LaLiga HyperMotion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",LaLiga HyperMotion
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+
+#EXTINF:0 group-title="Córdoba" group-logo="https://i.ibb.co/Qj1kn4Fx/cordoba-removebg-preview.png"
+#
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=103ce214b4d04c8eb4dd43670e956dad:20e030576b8dc4df0d1c68e16af3bc0f
+#EXTINF:-1 group-title="Córdoba" tvg-id="Telefe Cordoba.ar" tvg-name="Telefe Cordoba.ar" tvg-logo="https://git.io/JOTOu" ch-number="8",Telefé Córdoba
+https://cdn.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA.mpd?|Origin=https://portal.app.flow.com.ar//
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=103ce214b4d04c8eb4dd43670e956dad:20e030576b8dc4df0d1c68e16af3bc0f
 #EXTINF:-1 group-title="Córdoba" tvg-name="Telefe Cordoba.ar" tvg-logo="https://git.io/JOTOu",Telefé Córdoba
@@ -1315,15 +1331,8 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.
 #EXTINF:-1 group-title="Córdoba" tvg-name="TeleDiario TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Canal_13_R%C3%ADo_Cuarto_%28Logo_2008%29.png/330px-Canal_13_R%C3%ADo_Cuarto_%28Logo_2008%29.png" ch-number="453",TeleDiario TV
 http://cdn.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index_fk.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
-#EXTINF:-1 group-title="Dazn" tvg-name="LaLiga HyperMotion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",LaLiga HyperMotion
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
-#EXTINF:-1 group-title="Dazn" tvg-name="LaLiga HyperMotion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",LaLiga HyperMotion
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+
+
 
 #EXTINF:0 group-title="Tigo Sports" group-logo="https://i.ibb.co/KjVrMShr/Tigo-Sports-2025.png"
 #
@@ -2867,23 +2876,11 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.
 #EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-id="SPORTV.tv" tvg-name="SPORTV.tv" tvg-logo="https://i.ibb.co/NKs6v0v/sportv.png" ch-number="36",SPORTV
 http://new.m3u8.one/sportv/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2245f48a5998442f835099d30f2e0305:f48f6ce816fe86d8c10587e9a7e927a3
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-id="SPORTV2.tv" tvg-name="SPORTV2.tv" tvg-logo="https://i.ibb.co/L6MdcHL/sportv2.png" ch-number="37",SPORTV 2
-http://new.m3u8.one/sportv2/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 #EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-id="CAZÉTV.tv" tvg-name="CAZÉTV.tv" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" ch-number="37",CAZÉ TV
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2245f48a5998442f835099d30f2e0305:f48f6ce816fe86d8c10587e9a7e927a3
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-id="SPORTV3.tv" tvg-name="SPORTV3.tv" tvg-logo="https://i.ibb.co/db4L078/sportv3.png" ch-number="38",SPORTV 3
-http://new.m3u8.one/sportv3/index.m3u8
 #EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-id="CAZÉTV2.tv" tvg-name="CAZÉTV2.tv" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" ch-number="38",CAZÉ TV 2
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9bb54fccffaddd38916e85c08de98cc9:d06f509c418eb6f1b2fc2b766445328b
-#EXTINF:-1  group-title="Mundial de Clubes - FIFA" tvg-id="telefe" tvg-name="Telefe.ar" tvg-logo="https://i.ibb.co/Y7DJ0nd/D2.png" ch-number="11",Telefé
-https://CSC-ARR-EDGE01.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 #EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="Globo ʀᴊ 🇧🇷" tvg-logo="https://logo.iptveditor.com/globo.png",Globo ʀᴊ 🇧🇷 ️
 http://45.134.141.162:3366/stream/globo/rj/master432.m3u8
 #EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="Sportv 🇧🇷" tvg-logo="https://logo.iptveditor.com/sportv.png",Sportv 🇧🇷
@@ -2891,16 +2888,12 @@ https://is.gd/i124rU?Sportv.m3u8
 #EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="Sportv 🇧🇷" tvg-logo="https://logo.iptveditor.com/sportv.png" ch-number="2",Sportv 🇧🇷
 http://185.236.183.117:14644/Sportvfhd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2245f48a5998442f835099d30f2e0305:f48f6ce816fe86d8c10587e9a7e927a3
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-id="SPORTV.tv" tvg-name="SPORTV.tv" tvg-logo="https://i.ibb.co/NKs6v0v/sportv.png" ch-number="1",SPORTV
-http://new.m3u8.one/sportv/index.m3u8
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-id="ZONATUDNUS(GEO).us" tvg-name="ZONATUDNUS(GEO).us" tvg-logo="https://i.ibb.co/WDt6Sc6/zona-tudn.png" ch-number="122",ZONA TUDN US (GEO)
-https://d3uyzgka2wjb00.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-210b4ta87o6ku/server/distrib/jNRQRKsWY2kxcEBj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqmz_IT731OUAvvJWUO7I8b4d6FbvMORdXi-V3pCAiBr0JARhscS-3WkU6FOUBwPwJnqMv4GCOc2gutqomsrHRTSUl3Uveb3OckqNB_uKGZyqp1MN-AQSrGdqPGHIh4ZkM1qcJ0EK7zvf7UnRlwZAqGWGOqra8-Rqhg0wiraCQIS5xbUshW63EISyP5F69-b62g/manifest.m3u8
-#EXTINF:-1 tvg-id="310#DSPORTS (URU)" ch-number="131" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/640px-DSports.png"  group-title="Mundial de Clubes - FIFA", Dsports
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c90a67ecf6b94d7083a214b9adc7ad4f:45c7042cbed34e601e52df2869b0ca2d
 https://1062-aws-da-mt.vrioott.com/a208848b6cb64ea3847cb6a5352be4e5/manifest.mpd?hdnts=exp%3D1749008714%7Eacl%3D%2F*%7Eid%3D13ee66ea-e63c-4390-9ff5-d139813a4781%7Ehmac%3Da28c873bfead02bdf2d2c27feba04c01f02586c88add74ca3f1f83114b10b469&tokenization=true&da=1&ads.accountId=13ee66ea-e63c-4390-9ff5-d139813a4781&ads.accountType=DTH&ads.channelId=CH0100000000341&ads.country=AR&ads.deviceId=6b7084ce-961a-42c7-9c5d-5ec344d75f87&ads.deviceType=android_mobile&aws.sessionId=869be119-c820-4511-afb6-4bc659de14b2
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-id="Telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://git.io/JOTOu" ch-number="11",Telefé
+https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd?|Origin=https://portal.app.flow.com.ar/
 
 
 #EXTINF:0 group-title="Santa Fe" group-logo="https://i.ibb.co/qYsJHxRw/b30582701a8bad60f55c1552d5a927f4.jpg"
