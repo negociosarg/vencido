@@ -2872,10 +2872,6 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.
 #EXTINF:0 group-title="Mundial de Clubes - FIFA" group-logo="https://i.ibb.co/mVbYgtT8/Copa-Mundial-de-Clubes.png"
 #
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2245f48a5998442f835099d30f2e0305:f48f6ce816fe86d8c10587e9a7e927a3
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-id="SPORTV.tv" tvg-name="SPORTV.tv" tvg-logo="https://i.ibb.co/NKs6v0v/sportv.png" ch-number="36",SPORTV
-http://new.m3u8.one/sportv/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 #EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-id="CAZÉTV.tv" tvg-name="CAZÉTV.tv" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" ch-number="37",CAZÉ TV
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
