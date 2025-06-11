@@ -2679,12 +2679,8 @@ https://593zona.live:8443/live/PelisOTT25/PelisOTT25/529446.ts
 https://593zona.live:8443/live/PelisOTT25/PelisOTT25/814542.ts
 #EXTINF:-1 group-title="Uruguay Tv2" tvg-name="Ur: A + V" tvg-logo="https://1.bp.blogspot.com/-8dGKpsnKH0c/YTi8GCauWtI/AAAAAAAAQdc/M2EEQdbRfYcdNDpzfmujbJWN23LSx-5cQCLcBGAsYHQ/s540/A%252BV+en+vivo.jpg",Ur: A + V
 https://593zona.live:8443/live/PelisOTT25/PelisOTT25/529460.ts
-#EXTINF:-1 group-title="Uruguay Tv2" tvg-name="Uy: Uy: Directv Sports (20mb) ● ❖2" tvg-logo="https://logo.iptveditor.com/directvsports2.png",Uy: Uy: Directv Sports (20mb) ● ❖2
-https://593zona.live:8443/live/PelisOTT25/PelisOTT25/870985.ts
 #EXTINF:-1 group-title="Uruguay Tv2" tvg-name="Uy: Deportv (eventos En Vivo De La Selección) ❖4" tvg-logo="https://logo.iptveditor.com/deportv.png",Uy: Deportv (eventos En Vivo De La Selección) ❖4
 https://593zona.live:8443/live/PelisOTT25/PelisOTT25/870986.ts
-#EXTINF:-1 group-title="Uruguay Tv2" tvg-name="Uy: Directv Uy ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ ❖4" tvg-logo="https://logo.iptveditor.com/tvdirect.png",Uy: Directv Uy ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ ❖4
-https://593zona.live:8443/live/PelisOTT25/PelisOTT25/870987.ts
 #EXTINF:-1 group-title="Uruguay Tv2" tvg-name="Uy: Goltv Hd ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ ❖4" tvg-logo="https://logo.iptveditor.com/goltv4.png",Uy: Goltv Hd ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ ❖4
 https://593zona.live:8443/live/PelisOTT25/PelisOTT25/870989.ts
 
@@ -2890,7 +2886,22 @@ https://1062-aws-da-mt.vrioott.com/a208848b6cb64ea3847cb6a5352be4e5/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
 #EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-id="Telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://git.io/JOTOu" ch-number="11",Telefé
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd?|Origin=https://portal.app.flow.com.ar/
-
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="DIRECTV PERU 2" tvg-logo="https://logo.iptveditor.com/ondirectv.png", Mundial de Clubes - FIFA
+http://novabox.club/live/conectStreax/K2tbMNebMW/324093.ts
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="DIREC TV PERU" tvg-logo="https://logo.iptveditor.com/ondirectv.png", Mundial de Clubes - FIFA
+http://novabox.club/live/conectStreax/K2tbMNebMW/324092.ts
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="DIREC TV URUGUAY" tvg-logo="https://logo.iptveditor.com/tvdirect.png",Mundial de Clubes - FIFA
+http://novabox.club/live/conectStreax/K2tbMNebMW/357651.m3u8
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="DIREC TV URUGUAY OP2" tvg-logo="https://logo.iptveditor.com/tvdirect.png",Mundial de Clubes - FIFA
+http://novabox.club/live/conectStreax/K2tbMNebMW/357652.m3u8
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="DIRECTV SPORTS 2 (CHI)" tvg-logo="https://logo.iptveditor.com/directvsports2.png",Mundial de Clubes - FIFA
+http://novabox.club/live/conectStreax/K2tbMNebMW/373201.m3u8
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="DIRECTV SPORTS 1 (CHI)" tvg-logo="https://logo.iptveditor.com/directvsports1.png", Mundial de Clubes - FIFA
+http://novabox.club/live/conectStreax/K2tbMNebMW/373202.m3u8
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="AR | DIRECTV SPORTS 2 FHD" tvg-logo="https://logo.iptveditor.com/directvsports2.png", Mundial de Clubes - FIFA
+http://novabox.club/live/conectStreax/K2tbMNebMW/384296.m3u8
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="Uy: Directv Uy ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ ❖4" tvg-logo="https://logo.iptveditor.com/tvdirect.png", Mundial de Clubes - FIFA
+https://593zona.live:8443/live/PelisOTT25/PelisOTT25/870987.ts
 
 #EXTINF:0 group-title="Santa Fe" group-logo="https://i.ibb.co/qYsJHxRw/b30582701a8bad60f55c1552d5a927f4.jpg"
 #
