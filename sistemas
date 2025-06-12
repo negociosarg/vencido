@@ -2952,5 +2952,13 @@ http://novabox.club/live/conectStreax/K2tbMNebMW/399998.ts
 #EXTINF:-1 tvg-name="EVENTOS PY" tvg-logo="https://i.ibb.co/3WZtzG3/eventos-py.png",EVENTOS PY
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
+#EXTINF:-1 tvg-name="EVENTOS+ PY" tvg-logo="https://i.ibb.co/3WZtzG3/eventos-py.png",EVENTOS+ PY
+https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2245f48a5998442f835099d30f2e0305:f48f6ce816fe86d8c10587e9a7e927a3
+#EXTINF:-1 tvg-name="EVENTOS 3 PY" tvg-logo="https://i.ibb.co/3WZtzG3/eventos-py.png",EVENTOS 3 PY
+https://d2slu3qf332d0d.cloudfront.net/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd
 
