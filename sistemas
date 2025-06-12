@@ -2877,6 +2877,10 @@ https://is.gd/i124rU?Sportv.m3u8
 #EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="Sportv 🇧🇷" tvg-logo="https://logo.iptveditor.com/sportv.png" ch-number="2",Sportv 🇧🇷
 http://185.236.183.117:14644/Sportvfhd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+#EXTINF:-1 tvg-name="TUDN" tvg-logo="https://i.postimg.cc/sDTYkQ3g/tudn.png",TUDN
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDNHD/default.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c90a67ecf6b94d7083a214b9adc7ad4f:45c7042cbed34e601e52df2869b0ca2d
 https://1062-aws-da-mt.vrioott.com/a208848b6cb64ea3847cb6a5352be4e5/manifest.mpd?hdnts=exp%3D1749008714%7Eacl%3D%2F*%7Eid%3D13ee66ea-e63c-4390-9ff5-d139813a4781%7Ehmac%3Da28c873bfead02bdf2d2c27feba04c01f02586c88add74ca3f1f83114b10b469&tokenization=true&da=1&ads.accountId=13ee66ea-e63c-4390-9ff5-d139813a4781&ads.accountType=DTH&ads.channelId=CH0100000000341&ads.country=AR&ads.deviceId=6b7084ce-961a-42c7-9c5d-5ec344d75f87&ads.deviceType=android_mobile&aws.sessionId=869be119-c820-4511-afb6-4bc659de14b2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
