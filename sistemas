@@ -2866,42 +2866,41 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.
 #
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-id="CAZÉTV.tv" tvg-name="CAZÉTV.tv" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" ch-number="37",CAZÉ TV
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-id="CAZÉTV.tv" tvg-name="conect" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" ch-number="37",CAZÉ TV
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-id="CAZÉTV2.tv" tvg-name="CAZÉTV2.tv" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" ch-number="38",CAZÉ TV 2
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-id="CAZÉTV2.tv" tvg-name="conect" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" ch-number="38",CAZÉ TV 2
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="Globo ʀᴊ 🇧🇷" tvg-logo="https://logo.iptveditor.com/globo.png",Globo ʀᴊ 🇧🇷 ️
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://logo.iptveditor.com/globo.png",Globo ʀᴊ 🇧� ️
 http://45.134.141.162:3366/stream/globo/rj/master432.m3u8
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="Sportv 🇧🇷" tvg-logo="https://logo.iptveditor.com/sportv.png",Sportv 🇧🇷
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://logo.iptveditor.com/sportv.png",Sportv 🇧🇷
 https://is.gd/i124rU?Sportv.m3u8
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="Sportv 🇧🇷" tvg-logo="https://logo.iptveditor.com/sportv.png" ch-number="2",Sportv 🇧🇷
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://logo.iptveditor.com/sportv.png" ch-number="2",Sportv 🇧🇷
 http://185.236.183.117:14644/Sportvfhd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=2722647f77b44824c432a3c4555830a2&key%5B%5D=1734befb82f4b438bd84195f6c212e7b
-#EXTINF:-1 tvg-name="TUDN" tvg-logo="https://i.postimg.cc/sDTYkQ3g/tudn.png", group-title="Mundial de Clubes - FIFA", TUDN
+#EXTINF:-1 tvg-name="conect" tvg-logo="https://i.postimg.cc/sDTYkQ3g/tudn.png", group-title="Mundial de Clubes - FIFA", TUDN
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDNHD/default.mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c90a67ecf6b94d7083a214b9adc7ad4f:45c7042cbed34e601e52df2869b0ca2d
 https://1062-aws-da-mt.vrioott.com/a208848b6cb64ea3847cb6a5352be4e5/manifest.mpd?hdnts=exp%3D1749008714%7Eacl%3D%2F*%7Eid%3D13ee66ea-e63c-4390-9ff5-d139813a4781%7Ehmac%3Da28c873bfead02bdf2d2c27feba04c01f02586c88add74ca3f1f83114b10b469&tokenization=true&da=1&ads.accountId=13ee66ea-e63c-4390-9ff5-d139813a4781&ads.accountType=DTH&ads.channelId=CH0100000000341&ads.country=AR&ads.deviceId=6b7084ce-961a-42c7-9c5d-5ec344d75f87&ads.deviceType=android_mobile&aws.sessionId=869be119-c820-4511-afb6-4bc659de14b2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-id="Telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://git.io/JOTOu" ch-number="11",Telefé
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-id="Telefe.ar" tvg-name="conect" tvg-logo="https://git.io/JOTOu" ch-number="11",Telefé
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd?|Origin=https://portal.app.flow.com.ar/
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="DIRECTV PERU 2" tvg-logo="https://logo.iptveditor.com/ondirectv.png",  group-title="Mundial de Clubes - FIFA"  Mundial de Clubes - FIFA
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://logo.iptveditor.com/ondirectv.png", group-title="Mundial de Clubes - FIFA"  Mundial de Clubes - FIFA
 http://novabox.club/live/conectStreax/K2tbMNebMW/324093.ts
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="DIREC TV PERU" tvg-logo="https://logo.iptveditor.com/ondirectv.png", Mundial de Clubes - FIFA
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://logo.iptveditor.com/ondirectv.png", Mundial de Clubes - FIFA
 http://novabox.club/live/conectStreax/K2tbMNebMW/324092.ts
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="DIREC TV URUGUAY" tvg-logo="https://logo.iptveditor.com/tvdirect.png",Mundial de Clubes - FIFA
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://logo.iptveditor.com/tvdirect.png",Mundial de Clubes - FIFA
 http://novabox.club/live/conectStreax/K2tbMNebMW/357651.m3u8
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="DIREC TV URUGUAY OP2" tvg-logo="https://logo.iptveditor.com/tvdirect.png",Mundial de Clubes - FIFA
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://logo.iptveditor.com/tvdirect.png",Mundial de Clubes - FIFA
 http://novabox.club/live/conectStreax/K2tbMNebMW/357652.m3u8
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="DIRECTV SPORTS 2 (CHI)" tvg-logo="https://logo.iptveditor.com/directvsports2.png",Mundial de Clubes - FIFA
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" https://logo.iptveditor.com/directvsports2.png",Mundial de Clubes - FIFA
 http://novabox.club/live/conectStreax/K2tbMNebMW/373201.m3u8
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="DIRECTV SPORTS 1 (CHI)" tvg-logo="https://logo.iptveditor.com/directvsports1.png", Mundial de Clubes - FIFA
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://logo.iptveditor.com/directvsports1.png", Mundial de Clubes - FIFA
 http://novabox.club/live/conectStreax/K2tbMNebMW/373202.m3u8
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="AR | DIRECTV SPORTS 2 FHD" tvg-logo="https://logo.iptveditor.com/directvsports2.png", Mundial de Clubes - FIFA
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://logo.iptveditor.com/directvsports2.png", Mundial de Clubes - FIFA
 http://novabox.club/live/conectStreax/K2tbMNebMW/384296.m3u8
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="Uy: Directv Uy ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ ❖4" tvg-logo="https://logo.iptveditor.com/tvdirect.png", Mundial de Clubes - FIFA
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://logo.iptveditor.com/tvdirect.png", Mundial de Clubes - FIFA
 https://593zona.live:8443/live/PelisOTT25/PelisOTT25/870987.ts
 
 #EXTINF:0 group-title="Santa Fe" group-logo="https://i.ibb.co/qYsJHxRw/b30582701a8bad60f55c1552d5a927f4.jpg"
