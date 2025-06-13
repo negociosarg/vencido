@@ -40,6 +40,296 @@ https://1062-aws-da-mt.vrioott.com/a208848b6cb64ea3847cb6a5352be4e5/manifest.mpd
 
 
 
+#EXTINF:0 group-title="Música" group-logo="https://i.ibb.co/nZ98pkN/2144f4961968c865a41d4c0f4b9ee241.jpg"
+#
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e55e61b81b992d6c21466891d72157e9:566d341bf7209a88976e75c20ad7aca2
+#EXTINF:-1 group-title="Música" tvg-id="Allegro HD.uy" tvg-name="Allegro" tvg-logo="https://i.ibb.co/ts85rN6/allegro.png" ch-number="500",Allegro
+https://cdn.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc/AllegroHD.mpd?|Origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=682f36b5736f4560951ca14b80d29524:3accb729067a39b3b8143f1b447b9d25
+#EXTINF:-1 group-title="Música" tvg-id="El Canal de la Música.ar" tvg-name="CM" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CMMUS.png?raw=true" ch-number="501",CM
+https://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc/CM.mpd?|Origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=daecef5fe32f4ce083c6a0c692755d6a:d4227f24389a9ba77293214b93eb0d7d
+#EXTINF:-1 group-title="Música" tvg-id="HTV.ar" tvg-name="HTV" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HTVLA.png?raw=true" ch-number="502",HTV
+https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd?|Origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f1be10d0519e0c453105f01319fe407:9976d91bfcdc7dd2148d36af89027762
+#EXTINF:-1 group-title="Música" tvg-id="MI MUSICA ROMANTICA" tvg-name="Mi Música Romántica" tvg-logo="https://dl.dropbox.com/scl/fi/oyoz88f5hzgaua0nje1tp/mimusicaromantica.jpg?rlkey=a0qrjtsg6hxnxumqidg4nftzx&dl=1" ch-number="503",Mi Música Romántica
+http://cdn.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d288fc2da0339c9cfa178be4a07c4cd2:c0e25b5d30b6829b15266e84807a0ca6
+#EXTINF:-1 group-title="Música" tvg-id="MI MUSICA REGGAETON" tvg-name="Mi Música Reggaetón" tvg-logo="https://dl.dropbox.com/scl/fi/1yavhav8gktbcc4i9rwo9/mimusicareggaeton.jpg?rlkey=xshw7gl137ob57qqhee5f9xh3&dl=1" ch-number="504",Mi Música Reggaetón
+http://cdn.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2246c747e5f4e1dc055050d178618935:c6c2a6693bec059ebced788d09d271f3
+#EXTINF:-1 group-title="Música" tvg-id="MI MUSICA HITS" tvg-name="Mi Música Hit" tvg-logo="https://dl.dropbox.com/scl/fi/3d937mfna3nsyxztl23cl/mimusicahits.jpg?rlkey=e4w2p44563gbkx4mx707ayiot&dl=1" ch-number="505",Mi Música Hit
+http://cdn.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6f0b2b0142007b8624de0c2d53962c8:46b8fb713fdd09a1c55b85b6f8ad9c9c
+#EXTINF:-1 group-title="Música" tvg-id="MI MUSICA K-POP" tvg-name="Mi Música Pop" tvg-logo="https://dl.dropbox.com/scl/fi/jqpghihetk0a1eg0vzetj/mimusicapop.jpg?rlkey=nsvi3mswdrf3bjhm28d5oqztq&dl=1" ch-number="506",Mi Música Pop
+http://cdn.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c9eb3ead38a122ac460ad96a8ebfd2e:66bfbfa4449eb8bc1bcf7577d5bffaad
+#EXTINF:-1 group-title="Música" tvg-id="MTV HD.uy" tvg-name="MTV" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/MTVLA.png?raw=true" ch-number="507",MTV
+https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd?|Origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f0c09ed9e5841cf867ba6eb3cdfd61d:802c89c6bae6a245aaafcf40c1986fc1
+#EXTINF:-1 group-title="Música" tvg-id="[MTV00S] MTV 00s" tvg-name="MTV 00s" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/MTV00.png?raw=true" ch-number="508",MTV 00s
+https://cdn.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd?|Origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=61008dfc867544cd872de99b1f2b82cf:716449756316b91c54803aaa22a2fbf0
+#EXTINF:-1 group-title="Música" tvg-id="Mtv Hits" tvg-name="Mtv Hits" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/MTVHS.png?raw=true" ch-number="509",MTV Hits
+https://cdn.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd?|Origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=886601a4fdbcbfebacbabfebcb72a9ef:6513b2b8fda2b4d2f3d940c621e1c30e
+#EXTINF:-1 group-title="Música" tvg-id="MTV LIVE" tvg-name="MTV Live" tvg-logo="https://dl.dropbox.com/scl/fi/7h4u38ddthfv66yf5qvy4/mtvlive.jpg?rlkey=n5gfbgi7wnbkngnrs21iy18ck&dl=1" ch-number="510",MTV Live
+http://cdn.sensa.com.ar/live/eds/MTVLive/live_dash_cld/MTVLive.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28
+#EXTINF:-1 group-title="Música" tvg-id="Quiero.ar" tvg-name="Quiero Musica" tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png" ch-number="511",Quiero Musica
+https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd?|Origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eae6c12ccab349e6ae675ab6ed8a476c:4a4fd86ea9db4417ec86c237d3111b18
+#EXTINF:-1 group-title="Música" tvg-id="[NIKMLA] Nickmusic" tvg-name="Nick Music" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NKMUS.png?raw=true" ch-number="515",Nick Music
+https://cdn.cvattv.com.ar/live/c6eds/Nickmusic/SA_Live_dash_enc_C/Nickmusic.mpd?|Origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=930f2b33864637faf2b2dab6c8d0ba92:530e6561cc4197e9eab7bf7b6f35a3ed
+#EXTINF:-1 group-title="Música" tvg-id="TELEHIT" tvg-name="TeleHit Música Plus" tvg-logo="https://dl.dropbox.com/scl/fi/cnsdchbhpht3u6wibavfe/telehitmusica.jpg?rlkey=y3f4n42wtb7mw94jmg31r6j4e&dl=1" ch-number="516",TeleHit Música Plus
+http://cdn.sensa.com.ar/live/eds/Telehit/live_dash_cld/Telehit.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabe2c22350c26c7f0ad84b34932f08d:39fa06836ec0f81d8dd9b6e01a3070e3
+#EXTINF:-1 group-title="Música" tvg-name="Vorterix" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VTRIX.png?raw=true" ch-number="517",Vorterix
+https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc/Vorterix.mpd?|Origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6075bd0304bd40812aaa2a113b30be24:98c85fae2ce02017573a23fad09a8dfa
+#EXTINF:-1 group-title="Música" tvg-id="elfolclorico" tvg-name="El Folklórico" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4061/CH_LOGO/800/542/0/0/46266908079132.png" ch-number="518",El Folklórico
+https://cdn.sensa.com.ar/bpk-tv/ElFolklorico/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 group-title="Música" tvg-id="billboard" tvg-name="BillBoard TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/901/CH_LOGO/600/600/0/0/12050400077728.png" ch-number="519",BillBoard TV
+https://cdn.sensa.com.ar/output/SMT1/BLBD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8922522d07bc6aea96decd1c61553a6:dd9d597ceaf05fa903587ff1a657a04e
+#EXTINF:-1 group-title="Música" tvg-name="HEI NOW" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/47226827072588.png" ch-number="520",HEI NOW
+https://cdn.cvattv.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_enc_C/HEI_NOW.mpd?|Origin=https://portal.app.flow.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2246c747e5f4e1dc055050d178618935:c6c2a6693bec059ebced788d09d271f3
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1808/CH_LOGO/160/160/0/0/82379535077403.png" group-title="Música" ch-number="32" type="channel",MIMÚSICA HITS
+https://cdn.sensa.com.ar/output/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6f0b2b0142007b8624de0c2d53962c8:46b8fb713fdd09a1c55b85b6f8ad9c9c
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1802/CH_LOGO/160/160/0/0/50713419076833.png" group-title="Música" ch-number="33" type="channel",MIMÚSICA K-POP
+https://cdn.sensa.com.ar/output/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d288fc2da0339c9cfa178be4a07c4cd2:c0e25b5d30b6829b15266e84807a0ca6
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1809/CH_LOGO/160/160/0/0/11385912076761.png" group-title="Música" ch-number="34" type="channel",MIMÚSICA REGGAETÓN
+https://cdn.sensa.com.ar/output/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f1be10d0519e0c453105f01319fe407:9976d91bfcdc7dd2148d36af89027762
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1810/CH_LOGO/160/160/0/0/15712909076760.png" group-title="Música" ch-number="35" type="channel",MIMÚSICA ROMÁNTICA
+https://cdn.sensa.com.ar/output/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BGxBxvX/new-kpop.png" group-title="Música" ch-number="36" type="channel",NEW KPOP
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WkFpM7k/k-pop-cj-enm.png" group-title="Música" ch-number="37" type="channel",K-POP BY CJ ENM
+https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/11/logo-trace-latina-2-1280x894.jpg" group-title="Música" ch-number="38" type="channel",TRACE LATINA
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG" group-title="Música" ch-number="39" type="channel",TRACE BRASIL
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Trace_urban.png" group-title="Música" ch-number="40" type="channel",TRACE URBAN
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Trace_UK_Logo.png" group-title="Música" ch-number="41" type="channel",TRACE UK
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7k7VVLd/cool-summer.png" group-title="Música" ch-number="42" type="channel",COOL SUMMER
+https://d3mza6qljp67l5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rpc4qub3zg7qt/csts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKqyZbNc/vevo-2k.png" group-title="Música" ch-number="43" type="channel",VEVO 2K
+https://d4dkvp1ga8v8z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkvocv263tp96/Vevo_2K.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8HKV77H/vevo-pop.png" group-title="Música" ch-number="44" type="channel",VEVO POP
+https://d33yiufuiyic30.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f94huxetzks7d/Vevo_Pop.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8HKV77H/vevo-pop.png" group-title="Música" ch-number="45" type="channel",VEVO POP LATINO
+https://d3t95pdz2h4c90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3yjwupt2bfu30/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsGDhhdf/vevo-latino.png" group-title="Música" ch-number="46" type="channel",VEVO LATINO US
+https://d1ylrwzh4ekdq4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2v53vq46l9e0c/Vevo_Latino.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsGDhhdf/vevo-latino.png" group-title="Música" ch-number="47" type="channel",VEVO LATINO ES
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatinoes-rakutenes/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XY3xhBwW/vevo-70s.png" group-title="Música" ch-number="48" type="channel",VEVO ´70s
+https://dlpg8tl1ugdoo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u38d4zi2bpmec/Vevo_70s.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQ2yfHn7/vevo-70s-80s.png" group-title="Música" ch-number="49" type="channel",VEVO ´70s & ´80s
+https://d9a7gn34udfwh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x1td8h8f4kkdh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJHwmM8p/vevo-80s.png" group-title="Música" ch-number="50" type="channel",VEVO ´80s
+https://d17i214xp3vw8a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5vjb8mjxp73gd/Vevo_80s.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NF5ZK9dS/vevo-90s.png" group-title="Música" ch-number="51" type="channel",VEVO ´90s
+https://d321u5fu9qef79.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yinfe6h5dj8i1/Vevo_90s.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLkqqhQT/vevo-90s-00s.png" group-title="Música" ch-number="52" type="channel",VEVO '90s & '00s
+https://d2yw87dguyr3x7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gm31ezw31rx7a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59QTJ1v7/vevo.png" group-title="Música" ch-number="53" type="channel",VEVO 2010s
+https://d1td33xo32wcw8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eriheq1pngmtd/Vevo_2010s.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvsc2nD8/vevo-country.png" group-title="Música" ch-number="54" type="channel",VEVO COUNTRY
+https://d3u2u3qzvtw7w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-apxt8ie33sx6d/Vevo_Country.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8WQwb5K/vevo-r-b.png" group-title="Música" ch-number="55" type="channel",VEVO R&B
+https://d3cu9t0v0j3v7r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-irsyy4yjtdieo/Vevo_R_B.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQBYpJKb/vevo-hip-hop.png" group-title="Música" ch-number="56" type="channel",VEVO HIP-HOP
+https://d14y8035xivxd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-46idq7bdmcbwf/Vevo_Hip_Hop.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca7988508ee5378be839295/solidLogoPNG.png?auto=&trim=auto&ixlib=react-9.1.5&h=50&dpr=1&q=75" group-title="Música" ch-number="57" type="channel",VEVO TRUE SCHOOL HIP-HOP
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64dab5fe35425100080e2991/solidLogoPNG.png?auto=&trim=auto&ixlib=react-9.1.5&h=50&dpr=1&q=75" group-title="Música" ch-number="58" type="channel",VEVO REGIONAL MEXICANO
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64dab5fe35425100080e2991/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mk36NZ9v/vevo-iconos-latinos.png" group-title="Música" ch-number="59" type="channel",VEVO ÍCONOS LATINOS
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64d161c93c785e0008df575e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59QTJ1v7/vevo.png" group-title="Música" ch-number="60" type="channel",VEVO NAVIDAD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevonavidad-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59QTJ1v7/vevo.png" group-title="Música" ch-number="61" type="channel",VEVO CHRISTMAS
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevochristmasau-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NSyTh8L/vevo-holiday.png" group-title="Música" ch-number="62" type="channel",VEVO FEATURES
+https://d1ze674i4apj8g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dnsrl2co4rjn8/Vevo_Features.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_5b1e8713dd713247dee47267.png" group-title="Música" ch-number="63" type="channel",CMC MUSIC
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NjxpfVp/cmt-music.png" group-title="Música" ch-number="64" type="channel",CMT EQUAL PLAY
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bq0jhwL/def-jam.png" group-title="Música" ch-number="65" type="channel",DEF JAM
+https://d1t9jj3kgy7bur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m84lyt8jpwc3r/gigs.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JrGSVR4/hip-hop-tv.png" group-title="Música" ch-number="66" type="channel",HIP HOP TV
+https://9ea6ba0f84904cf4b17433f6a489638b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_HipHopTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/myJgqVR/ROCK-TV.png" group-title="Música" ch-number="67" type="channel",ROCK TV
+https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HTm3wJW/70-80-it.png" group-title="Música" ch-number="68" type="channel",70-80 ®it
+https://d125n3dscdmoj3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oja5b1lpu3cmg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/230px-NOW_70s.png" group-title="Música" ch-number="69" type="channel",NOW 70s
+https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png" group-title="Música" ch-number="70" type="channel",NOW 80s
+https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QMNNKBK/now-90s00s.png" group-title="Música" ch-number="71" type="channel",NOW 90s 00s
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/660c209e19ca71000846cf38/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png" group-title="Música" ch-number="72" type="channel",NOW ROCK
+https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K5GzRYy/mtv-rock.png" group-title="Música" ch-number="73" type="channel",MTV ROCK
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/638f2e06cc9fc2000798c410/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMq2q4ch/vevo-rock.png" group-title="Música" ch-number="74" type="channel",VEVO ROCK
+https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs7XJjdQ/xite-rock-x-metal.png" group-title="Música" ch-number="75" type="channel",XITE ROCK X METAL US
+https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs7XJjdQ/xite-rock-x-metal.png" group-title="Música" ch-number="76" type="channel",XITE ROCK X METAL EU
+https://xite-rockoneu-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43fFc9Bg/xite-80s.png" group-title="Música" ch-number="77" type="channel",XITE 80s FLASHBACK
+https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwB20XRw/xite-90s.png" group-title="Música" ch-number="78" type="channel",XITE 90s THROWBACK
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCJZJZCX/xite-hits.png" group-title="Música" ch-number="79" type="channel",XITE HITS DE
+https://xite-germany-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCJZJZCX/xite-hits.png" group-title="Música" ch-number="80" type="channel",XITE HITS UK
+https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfNq7T1P/xite.png" group-title="Música" ch-number="81" type="channel",XITE ICONS
+https://d13bxksjj2abuy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yxuum05f6hop9/XITE_Icons.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/25SLNc9Z/xite-celebrates.png" group-title="Música" ch-number="82" type="channel",XITE CELEBRATES
+https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfNq7T1P/xite.png" group-title="Música" ch-number="83" type="channel",XITE ONLY LOVE
+https://d3a9vrmy2tps6h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wvkbtotxbhlwq/XITE_Only_Love.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8NmFmC9/xite-just-chill.png" group-title="Música" ch-number="84" type="channel",XITE JUST CHILL
+https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bny1Tcn9/xite-nuevo-latino.png" group-title="Música" ch-number="85" type="channel",XITE NUEVO LATINO
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YC8dMPRN/xite-siempre-latino.png" group-title="Música" ch-number="86" type="channel",XITE SIEMPRE LATINO
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBZDCWH1/xite-gospel.png" group-title="Música" ch-number="87" type="channel",XITE GOSPEL
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/623b93628e6ded0007337d4d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Fg20LL2/xite-christian-hits.png" group-title="Música" ch-number="88" type="channel",XITE CHRISTIAN HITS
+https://d2tuyivcrvbj81.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l5sl8uqa7bizm/XITE_Christian_Hits.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0wyf1BT/xite-reggae-vibes.png" group-title="Música" ch-number="89" type="channel",XITE REGGAE VIBES
+https://dw2m7yrngfg8c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1awxcwdcfssaf/XITE_Reggae_Vibes.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QyKYW1f/xite-r-b.png" group-title="Música" ch-number="90" type="channel",XITE R&B CLASSIC JAMS
+https://d163j5tlekse0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-133wbycdrwhvy/XITE_RnB_Classic_Jams.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CD1W7gB/xite-classic-country.png" group-title="Música" ch-number="91" type="channel",XITE CLASSIC COUNTRY
+https://d2xm7fwgbakh1x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ltmgkaa20sgt9/XITE_Countrys_Finest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/902tHP6w/xite-country-today.png" group-title="Música" ch-number="92" type="channel",XITE COUNTRY TODAY
+https://d18gddrg3q1rlq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4hn4yums84y5/XITE_Country_Today.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Música" ch-number="93" type="channel",RETRO MUSIC TELEVISION
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/407b41e3649e464cd4a478c2858e6e2e1b3b85536634ab2188f23eb5402fe438.png" group-title="Música" ch-number="94" type="channel",RETRO  PLUS
+https://video06.logicahost.com.br/retropluslive01/retropluslive01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/407b41e3649e464cd4a478c2858e6e2e1b3b85536634ab2188f23eb5402fe438.png" group-title="Música" ch-number="95" type="channel",RETRO  PLUS 2
+https://video06.logicahost.com.br/retropluslive02/retropluslive02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Radio_Capital_logo_%282020%29.svg/640px-Radio_Capital_logo_%282020%29.svg.png" group-title="Música" ch-number="96" type="channel",RADIO  CAPITAL
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Csx87R2/vh1-classic.png" group-title="Música" ch-number="97" type="channel",VH1 CLASSICS
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/192_TV_logo.svg/320px-192_TV_logo.svg.png" group-title="Música" ch-number="98" type="channel",192 TV
+https://archive.org/download/2_20231125_202311/192TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g6FnxXk/Stingray-Djazz.png" group-title="Música" ch-number="99" type="channel",STINGRAY DJAZZ
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/djazz-djaads-montreal/distrotv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LQ4BkD1/Qello-Stingray.png" group-title="Música" ch-number="100" type="channel",QELLO CONCERTS BY STINGRAY
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/qello-qello001-montreal/distrotv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTxq2vsm/sinlimites.png" group-title="Música" ch-number="101" type="channel",SIN LÍMITES
+http://181.78.106.127:9000/play/a0sj
 
 
 
