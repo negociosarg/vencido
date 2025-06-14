@@ -3056,12 +3056,6 @@ https://ch12-04-11-tyc.vodgc.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m
 
 #EXTINF:0 group-title="Eventos Flow HD" group-logo="https://i.ibb.co/cK1gDx06/EVENTOS.png"
 #
-#EXTINF:-1 group-title="Eventos Flow HD" tvg-id="EVENTOS HD.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMAyC2tTzN1xiwK35rBXXi6p1N9XrP7fDQg&s",EVENTOS HD 1
-https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd|Origin=https://portal.app.flow.com.ar//
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bdfc30f2a7591e107d8c84458c395dd:dcee0d6420b6b597fba15d3c4411a71e
-#EXTINF:-1 group-title="Eventos Flow HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMAyC2tTzN1xiwK35rBXXi6p1N9XrP7fDQg&s",EVENTOS HD 2
-https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd|Origin=https://portal.app.flow.com.ar//
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0900ce66b82de0fd07aa8f12a48f29a2:e5556dba688fda637374ab5c87d7cda6
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
