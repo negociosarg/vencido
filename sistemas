@@ -3194,6 +3194,9 @@ https://directv.bz/uuid/356w5gpd/key/4802a680a32db856b9c947f0ab3e604a
 #EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg", Mundial de Clubes - Dsports - FIFA - ARG2
 https://directv.bz/uuid/34211wcq/key/4802a680a32db856b9c947f0ab3e604a
 
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg", Mundial de Clubes - Unimas - FIFA - MX
+https://bigboss.bemtv.cn/STREAM/2103/playlist.m3u8
+
 #EXTINF:0 group-title="Santa Fe" group-logo="https://i.ibb.co/qYsJHxRw/b30582701a8bad60f55c1552d5a927f4.jpg"
 #
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
