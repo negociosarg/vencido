@@ -3126,6 +3126,12 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 #EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="EVENTOS 3 PY" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg", EVENTOS 3 PY
 https://d2slu3qf332d0d.cloudfront.net/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd
 
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg"  group-title="Mundial de Clubes - FIFA" ch-number="109" type="channel",TNT Sports Premium
+https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd?|origin=https://portal.app.flow.com.ar
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 #EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-id="CAZÉTV.tv" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg" ch-number="37",CAZÉ TV
@@ -3149,32 +3155,16 @@ https://1062-aws-da-mt.vrioott.com/a208848b6cb64ea3847cb6a5352be4e5/manifest.mpd
 #EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-id="Telefe.ar" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg" ch-number="11",Telefé
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd?|Origin=https://portal.app.flow.com.ar/
 #EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg", Mundial de Clubes - FIFA 1
-http://novabox.club/live/conectStreax/K2tbMNebMW/324093.ts
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg", Mundial de Clubes - FIFA 2
-http://novabox.club/live/conectStreax/K2tbMNebMW/324092.ts
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg",Mundial de Clubes - FIFA 3
-http://novabox.club/live/conectStreax/K2tbMNebMW/357651.m3u8
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg",Mundial de Clubes - FIFA 4
-http://novabox.club/live/conectStreax/K2tbMNebMW/357652.m3u8
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg",Mundial de Clubes - FIFA 5
-http://novabox.club/live/conectStreax/K2tbMNebMW/373201.m3u8
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg", Mundial de Clubes - FIFA 6
-http://novabox.club/live/conectStreax/K2tbMNebMW/373202.m3u8
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg", Mundial de Clubes - FIFA 7
-http://novabox.club/live/conectStreax/K2tbMNebMW/384296.m3u8
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg", Mundial de Clubes - FIFA 8
-https://593zona.live:8443/live/PelisOTT25/PelisOTT25/870987.ts
-
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg", Mundial de Clubes - FIFA 9
 http://200.37.52.93:8000/play/a1ul/index.m3u8
 
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg", Mundial de Clubes - FIFA 10
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg", Mundial de Clubes - FIFA 2
 http://38.199.6.1:17001/play/a0d0/index.m3u8
 
-#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg", Mundial de Clubes - FIFA 11
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg", Mundial de Clubes - FIFA 3
 http://181.198.67.62:8000/play/a1a5
 
-
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg", Mundial de Clubes - FIFA 4
+https://bigboss.bemtv.cn/STREAM/1735/playlist.m3u8
 
 
 
